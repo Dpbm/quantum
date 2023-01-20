@@ -12,6 +12,7 @@ https://en.wikipedia.org/wiki/File:Phase_shifter_using_IQ_modulator.gif)\
 [kronecker product](https://mathworld.wolfram.com/KroneckerProduct.html)\
 [complex numbers multiplication](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex/x2ec2f6f830c9fb89:complex-mul/a/multiplying-complex-numbers)\
 [complex, hermitian and unitary matrices](https://youtu.be/DUuTx2nbizM)
+[Azure quantum](https://learn.microsoft.com/pt-br/azure/quantum/)
 
 observations:\
 y gate --> phase as 90\
