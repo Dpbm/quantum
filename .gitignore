@@ -168,4 +168,4 @@ cython_debug/
 poetry.toml
 
 *.out
-
+obj/
