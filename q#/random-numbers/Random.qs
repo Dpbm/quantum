@@ -17,10 +17,10 @@ namespace Random{
 
         mutable result = 0;
         for bit in 0..(totalBits-1){
-            mutable multiplier = 0;
-            if(results[bit] == One) { set multiplier = 1; }
-
-            set result += multiplier * PowI(2, bit);
+            
+            if(results[bit] == One) { 
+              set result += PowI(2, bit);
+            }
         }
         
         return result;
