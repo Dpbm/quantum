@@ -33,7 +33,12 @@ https://en.wikipedia.org/wiki/File:Phase_shifter_using_IQ_modulator.gif)
 * [ ] [quantum computing notes](https://akyrillidis.github.io/notes/)
 * [ ] [aws quantum computing blog](https://aws.amazon.com/blogs/quantum-computing/)
 * [ ] [bernoulli line and block sphere AWS](https://aws.amazon.com/blogs/quantum-computing/bernoulli-line-and-the-bloch-sphere/)
-\
-observations:\
-y gate --> phase as 90\
-z gate --> phase as 180 when 1
+* [ ] [quantum Oracles](https://learn.microsoft.com/en-us/azure/quantum/concepts-oracles)
+* [ ] [qiskit textbook](https://qiskit.org/textbook/preface.html)
+* [ ] [diffusers](https://towardsdatascience.com/a-practical-guide-to-quantum-amplitude-amplification-dbcbe467044a)
+* [ ] [quantum machine learning](https://github.com/quantum-machine-learning)
+* [ ] [Schöning's Algorithm](https://www.cs.yale.edu/homes/spielman/366/schoening.pdf)
+* [ ] [Schöning's K-SAT Algorithm](https://arxiv.org/pdf/1008.4067.pdf)
+* [ ] [CNOT Website](https://cnot.io/quantum_computing/)
+* [ ] [Quantum algorithms list](https://quantumalgorithmzoo.org/)
+* [Quantum computing resources repo](https://github.com/desireevl/awesome-quantum-computing)
