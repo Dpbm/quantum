@@ -8,6 +8,7 @@ qiskit = "*"
 matplotlib = "*"
 pylatexenc = "*"
 jupyterlab = "*"
+pillow = "*"
 
 [dev-packages]
 
