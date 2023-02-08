@@ -58,8 +58,11 @@ https://en.wikipedia.org/wiki/File:Phase_shifter_using_IQ_modulator.gif)
 * [ ] [How to start in quantum computing](https://www.nature.com/articles/d41586-021-00533-x)
 * [X] [CHSH game](https://youtu.be/q6kmvU9LsIg)
 * [X] [Gamification of Bell's Theorem](https://youtu.be/v7jctqKsUMA)
-* [ ] [Quantum games](https://medium.com/colibritd-quantum/quantum-games-when-the-players-enjoy-entanglement-20a50aef255e)
+* [X] [Quantum games](https://medium.com/colibritd-quantum/quantum-games-when-the-players-enjoy-entanglement-20a50aef255e)
 * [ ] [Quantum Game Theory](https://medium.com/mit-6-s089-intro-to-quantum-computing/quantum-game-theory-overview-example-issues-and-the-future-5b00495eb4a5)
+* [ ] [understanding quantum mechanics](https://www.youtube.com/playlist?list=PLwgQsqtH9H5djIfFhXE6We207beTgUnyL)
+* [X] [Minority game](https://youtu.be/TmcCZ2f9sDI)
+
 
 * [qiskit advocate(IBM)](https://www.ibm.com/training/badge/qiskit-advocate)
 * [qiskit advocate](https://qiskit.org/advocates/)
