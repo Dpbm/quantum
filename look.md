@@ -64,6 +64,7 @@ https://en.wikipedia.org/wiki/File:Phase_shifter_using_IQ_modulator.gif)
 * [X] [Minority game](https://youtu.be/TmcCZ2f9sDI)
 
 
+* [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)
 * [qiskit advocate(IBM)](https://www.ibm.com/training/badge/qiskit-advocate)
 * [qiskit advocate](https://qiskit.org/advocates/)
 * [pytket](https://cqcl.github.io/tket/pytket/api/index.html)
