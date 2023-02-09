@@ -31,5 +31,13 @@
   * increasing the frequency the kinetic energy of the photoelectrons increase too
   * increasing the amplitude it increases the electric current
   
+  * the amplitude is related with the brightness
+  
+  * the work function(Φ) depends on the metal
+  
+  * there's also a threshold frequency. for lower frequencies than a minimum frequency you can't free photoelectrons. This value depends on metal (v0)
+
+  * higher amplitudes == more photons hitting the metal
+
 
   
