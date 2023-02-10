@@ -26,3 +26,41 @@
 * now, if you trap these atoms in a container and give them electric energy, the atoms will emit some photons, that represent the levels of energy of that atom can emit. So if we try to represent this, as a light spectrum we can see a light spectrum almost blank, with just some specific parts that have some colors. This is called emission spectrum
 * if a electron has more than 0eV, it will be out of the atom as an ion
 * electrons have negative charges, but remember, when you will see what is the new level do always --> higher energy level - lower energy level
+
+* the electron around the nucleus has a force trying to throw it out from the atom and other force that is attracting it to the nucleus (this is the electric force)
+* we can describe electric force by using the Coulomb's law
+  * F = k q1 q2 / r^2 --> F is the electric force, k is a constant, q1 and q2 are the charges (from the proton a electron respectively) and r is the distance between the charges
+  * k = 9 * 10^9
+  * e (the charge of a proton or electron) = 1.6*10^-19 Coulombs
+* this electric force can be described as a centripetal force, so we can use F = ma to describe it too
+  * so F = k q1 q2 / r^2 = ma
+    * acceleration in this case is v^2 / r
+      * F = k q1 q2 / r^2 = m * (v^2/r)
+* we can think on the angular momentum of a electron that is 
+  * L = r * p --> L angular momentum, r radius (vector), linear momentum (p = mv)
+    * L = r * m * v * sin(theta)
+    * L = r * m * v
+    * Bohr said that this angular momentum should be quantized
+      * L = rmv = n * h/ 2pi --> where n is some integer number
+  
+  * n = 1 is the ground state of the hydrogen atom
+
+  * rn = n^2 * r1 --> rn is a radius for some integer, n is some integer, ri is (h^2 / k * e^2 * 4pi^2 * m)
+    * because that, Bohr quantized the radius of the atoms
+
+
+* the kinetic energy of a electron is mv^2 / 2
+  * KE = mv^2 /2 = ke^2 /2r
+* the potential energy is given by:
+  * U = k * q1 * q2 / r (it's important to keep the - signal in this equation)
+    * U = -ke^2 /r
+* If we want to get the total energy --> Et = KE + U
+  * Et = 1/2  * ke^2/r - ke^2/r
+  * Et = -1/2 * ke^2/r
+  * En = -1/2 * ke^2/rn
+    * En = E1/ n^2 --> E1 is equals to (-1/2*ke^2/r1)
+
+* 1 eV = 1.6 * 10^-19 J
+* U and E = 0 and r and n = infinite, so the electron is out of the nucleus
+* the necessary energy to the electron ionize a electron is the E at n=1 * -1
+
