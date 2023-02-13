@@ -7,6 +7,8 @@
 * [ ] [Quantum Physics - nptelhrd](https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC)
 * [ ] [Schrodinger Equation](https://youtu.be/QeUMFo8sODk)
 * [ ] [understanding quantum mechanics](https://www.youtube.com/playlist?list=PLwgQsqtH9H5djIfFhXE6We207beTgUnyL)
+* [ ] [Schrodinger Equation MIT](https://youtu.be/Qg7pQ_CYaIQ)
+* [ ] [Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
 
 ## Math
 
@@ -86,6 +88,7 @@
 * [Quantum computing resources repo](https://github.com/desireevl/awesome-quantum-computing)
 * [Qiskit youtube channel](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A)
 * [Qiskit community github](https://github.com/qiskit-community)
+* [Dpbm stars quantum list](https://github.com/stars/Dpbm/lists/quantum)
 
 ## courses
 
