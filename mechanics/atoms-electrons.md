@@ -45,9 +45,9 @@
   
   * n = 1 is the ground state of the hydrogen atom
 
-  * rn = n^2 * r1 --> rn is a radius for some integer, n is some integer, ri is (h^2 / k * e^2 * 4pi^2 * m)
+  * rn = n^2 * r1 --> rn is a radius for some integer, n is some integer, r1 is (h^2 / k * e^2 * 4pi^2 * m)
     * because that, Bohr quantized the radius of the atoms
-
+    * r1 = 5.3 * 10^-11 m (the radius of the lowest energy level of a hydrogen atom)
 
 * the kinetic energy of a electron is mv^2 / 2
   * KE = mv^2 /2 = ke^2 /2r
@@ -63,4 +63,13 @@
 * 1 eV = 1.6 * 10^-19 J
 * U and E = 0 and r and n = infinite, so the electron is out of the nucleus
 * the necessary energy to the electron ionize a electron is the E at n=1 * -1
+* the ground energy of a hydrogen atom is -13.6 eV
+
+* the farther from the nucleus the greater the energy
+* E1 = 2.17 * 10^-18 <-- ground energy in the hydrogen atom
+* R = E1/h * c <-- Rydberg constant  (per meters)
+* 1/lambda = R (1/i^2 - 1/j^2) <-- equation that give us, the wavelength of emitted photons from an atom, since that j is the high level energy and i the low  level  energy that the electron is in now (Balmer equation)
+
+* this bohr model is just for studies, this is not a real  model, so you can use these equations to test somethings, like using the Balmer equation to the at what transitions of energy levels the atom will emit a visible light and what not. (this works only for atoms with one electron)
+
 
