@@ -15,7 +15,7 @@
   * kinetic energy of the photoelectron = energy of the photon - energy that freed the electron
   * energy that freed the electron is known as work function (it is in Joules)
  
-  * the energy is E = h*f
+  * the energy is E = h*f (frequency can be v too, velocity)
 
   * the speed of the light = lambda * velocity
   * velocity = the speed of the light / lambda
