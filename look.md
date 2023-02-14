@@ -9,6 +9,16 @@
 * [ ] [understanding quantum mechanics](https://www.youtube.com/playlist?list=PLwgQsqtH9H5djIfFhXE6We207beTgUnyL)
 * [ ] [Schrodinger Equation MIT](https://youtu.be/Qg7pQ_CYaIQ)
 * [ ] [Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
+* [ ] [Dirac notation](https://youtu.be/pBh7Xqbh5JQ?list=PLxc2wejhRrscCFNjLrIAb7K3jEm3PVgrC)
+* [ ] [Spin](https://youtu.be/cd2Ua9dKEl8)
+* [ ] [Why quantum mechanics use complex numbers - Quora](https://www.quora.com/Why-does-quantum-mechanics-use-complex-numbers-rather-than-real-numbers)
+* [X] [Spin experiment](https://upload.wikimedia.org/wikipedia/commons/9/9e/Quantum_spin_and_the_Stern-Gerlach_experiment.ogv)
+
+## Chemistry
+
+* [ ] [Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
+* [ ] [Orbitals](https://www.chem.fsu.edu/chemlab/chm1046course/orbitals.html)
+
 
 ## Math
 
@@ -58,6 +68,7 @@
 * [X] [Quantum games](https://medium.com/colibritd-quantum/quantum-games-when-the-players-enjoy-entanglement-20a50aef255e)
 * [ ] [Quantum Game Theory](https://medium.com/mit-6-s089-intro-to-quantum-computing/quantum-game-theory-overview-example-issues-and-the-future-5b00495eb4a5)
 * [X] [Minority game](https://youtu.be/TmcCZ2f9sDI)
+* [ ] [A Beginner’s Guide to Quantum Computing Literature & Notation](https://medium.com/queen-of-qiskit/0-d3f42c35de7)
 
 ## tools
 
@@ -89,6 +100,9 @@
 * [Qiskit youtube channel](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A)
 * [Qiskit community github](https://github.com/qiskit-community)
 * [Dpbm stars quantum list](https://github.com/stars/Dpbm/lists/quantum)
+* [DrPhysics Channel](https://www.youtube.com/@DrPhysicsA)
+* [Looking Glass Universe Channel](https://www.youtube.com/@LookingGlassUniverse)
+* [Anastasia Marchenkova channel](https://www.youtube.com/@AnastasiaMarchenkovaQuantum)
 
 ## courses
 

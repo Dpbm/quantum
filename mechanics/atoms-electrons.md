@@ -70,6 +70,10 @@
 * R = E1/h * c <-- Rydberg constant  (per meters)
 * 1/lambda = R (1/i^2 - 1/j^2) <-- equation that give us, the wavelength of emitted photons from an atom, since that j is the high level energy and i the low  level  energy that the electron is in now (Balmer equation)
 
+* the velocity of an electron in the ground state of a hydrogen atom is 2.2*10^6 m/s
+
+* when the wavelength of a electron (lambda = maxPlanck constant/ m * v) is in the same order as the diameter of the diameter of a atom (in this case the hydrogen atom ~10^-10 m) the atom will, maybe, demonstrate wavelike behaviour
+
 * this bohr model is just for studies, this is not a real  model, so you can use these equations to test somethings, like using the Balmer equation to the at what transitions of energy levels the atom will emit a visible light and what not. (this works only for atoms with one electron)
 
 
