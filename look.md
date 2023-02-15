@@ -16,7 +16,7 @@
 
 ## Chemistry
 
-* [ ] [Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
+* [X] [Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
 * [ ] [Orbitals](https://www.chem.fsu.edu/chemlab/chm1046course/orbitals.html)
 
 
@@ -69,6 +69,11 @@
 * [ ] [Quantum Game Theory](https://medium.com/mit-6-s089-intro-to-quantum-computing/quantum-game-theory-overview-example-issues-and-the-future-5b00495eb4a5)
 * [X] [Minority game](https://youtu.be/TmcCZ2f9sDI)
 * [ ] [A Beginner’s Guide to Quantum Computing Literature & Notation](https://medium.com/queen-of-qiskit/0-d3f42c35de7)
+* [X] [Quantum computer programming - Sentdex playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW)
+
+## Quantum Hardware
+
+* [X] [Underdog technologies gain ground in quantum-computing race - Nature](https://www.nature.com/articles/d41586-023-00278-9)
 
 ## tools
 
@@ -103,6 +108,7 @@
 * [DrPhysics Channel](https://www.youtube.com/@DrPhysicsA)
 * [Looking Glass Universe Channel](https://www.youtube.com/@LookingGlassUniverse)
 * [Anastasia Marchenkova channel](https://www.youtube.com/@AnastasiaMarchenkovaQuantum)
+* [Dpbm Medium quantum list](https://dpbm.medium.com/list/quantum-a3b6fb98da43)
 
 ## courses
 
