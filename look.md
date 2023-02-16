@@ -70,6 +70,8 @@
 * [X] [Minority game](https://youtu.be/TmcCZ2f9sDI)
 * [ ] [A Beginner’s Guide to Quantum Computing Literature & Notation](https://medium.com/queen-of-qiskit/0-d3f42c35de7)
 * [X] [Quantum computer programming - Sentdex playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW)
+* [ ] [Will Quantum Computers break encryption? - Frame of Essence](https://youtu.be/6H_9l9N3IXU)
+* [ ] [Quantum Algorithm Implementations for Beginners (PDF)](https://arxiv.org/pdf/1804.03719.pdf)
 
 ## Quantum Hardware
 
@@ -109,6 +111,7 @@
 * [Looking Glass Universe Channel](https://www.youtube.com/@LookingGlassUniverse)
 * [Anastasia Marchenkova channel](https://www.youtube.com/@AnastasiaMarchenkovaQuantum)
 * [Dpbm Medium quantum list](https://dpbm.medium.com/list/quantum-a3b6fb98da43)
+* [DWave learn](https://www.dwavesys.com/learn/quantum-computing/)
 
 ## courses
 
@@ -123,4 +126,5 @@
 
 ## companies
 
+* [DWave](https://www.dwavesys.com/)
 * [qutech](https://qutech.nl)
