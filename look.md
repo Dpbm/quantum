@@ -11,8 +11,9 @@
 * [ ] [Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
 * [ ] [Dirac notation](https://youtu.be/pBh7Xqbh5JQ?list=PLxc2wejhRrscCFNjLrIAb7K3jEm3PVgrC)
 * [ ] [Spin](https://youtu.be/cd2Ua9dKEl8)
-* [ ] [Why quantum mechanics use complex numbers - Quora](https://www.quora.com/Why-does-quantum-mechanics-use-complex-numbers-rather-than-real-numbers)
+* [X] [Why quantum mechanics use complex numbers - Quora](https://www.quora.com/Why-does-quantum-mechanics-use-complex-numbers-rather-than-real-numbers)
 * [X] [Spin experiment](https://upload.wikimedia.org/wikipedia/commons/9/9e/Quantum_spin_and_the_Stern-Gerlach_experiment.ogv)
+* [ ] [Road map quantum physics - Domain of science](https://youtu.be/gAFAj3pzvAA)
 
 ## Chemistry
 
@@ -72,6 +73,9 @@
 * [X] [Quantum computer programming - Sentdex playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW)
 * [ ] [Will Quantum Computers break encryption? - Frame of Essence](https://youtu.be/6H_9l9N3IXU)
 * [ ] [Quantum Algorithm Implementations for Beginners (PDF)](https://arxiv.org/pdf/1804.03719.pdf)
+* [ ] [Quantum Computing road map - Domain of science](https://youtu.be/-UlxHPIEVqA)
+* [ ] [Open Source Quantum Computing: Write Your Own Quantum Programs - Coding Tech](https://youtu.be/UgqLi1itWmk)
+* [ ] [Universal sets of quantum gates](https://quantumcomputing.stackexchange.com/questions/17173/does-anyone-know-the-list-of-all-known-universal-sets-of-quantum-gates)
 
 ## Quantum Hardware
 
@@ -112,6 +116,7 @@
 * [Anastasia Marchenkova channel](https://www.youtube.com/@AnastasiaMarchenkovaQuantum)
 * [Dpbm Medium quantum list](https://dpbm.medium.com/list/quantum-a3b6fb98da43)
 * [DWave learn](https://www.dwavesys.com/learn/quantum-computing/)
+* [Quantum sense channel](https://www.youtube.com/@quantumsensechannel)
 
 ## courses
 
