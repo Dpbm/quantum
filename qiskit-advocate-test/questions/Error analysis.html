@@ -1,0 +1,97 @@
+
+            <!DOCTYPE html>
+            <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    
+                    <link rel="preconnect" href="https://fonts.googleapis.com">
+                    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">        
+                    <link rel="stylesheet" type="text/css" href="styles.css" />
+                    
+                    <title>Error analysis</title>
+                </head>
+                <body>
+                    <ul>
+        <li class=question_content><h4>The image below shows the calibration matrix for two qubits. What kind of noise caused this?<br /><br />Remember  that a short decay time means more of the noise can be expected to have happened.<br />Also note that in Qiskit qubit ordering is <samp>q1q0</samp>,e.g. <img src= http://latex.codecogs.com/svg.latex?\vert01\rangle border=0/>means <samp>q1</samp> is <img src=http://latex.codecogs.com/svg.latex?\vert0\rangle border=0/>and <samp>q0</samp> is <img src=http://latex.codecogs.com/svg.latex?\vert1\rangle border=0/>.<br /><img src=error_analysis_images/calib.png></h4><ul>
+            <li>
+                <input type="radio" id="c93c56ab-285d-4fdc-a0c6-b5ca443f206a" value="c93c56ab-285d-4fdc-a0c6-b5ca443f206a" name="0" />
+                <label for="c93c56ab-285d-4fdc-a0c6-b5ca443f206a">Qubits in state <img src=http://latex.codecogs.com/svg.latex?\vert1\rangle border=0 /> decay down to <img src=http://latex.codecogs.com/svg.latex?\vert0\rangle border=0 /> before measurement. The decay times for both qubits are equal.</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="6a8dc100-906d-4f2d-8f1e-079c8390317d" value="6a8dc100-906d-4f2d-8f1e-079c8390317d" name="0" />
+                <label for="6a8dc100-906d-4f2d-8f1e-079c8390317d">Qubits in state <img src=http://latex.codecogs.com/svg.latex?\vert0\rangle border=0 /> decay down to <img src=http://latex.codecogs.com/svg.latex?\vert1\rangle border=0 /> before measurement. The decay time for <samp>q0</samp> is shorter than that for <samp>q1</samp>.</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="902880db-bf2c-458f-9be9-caf9f9c2b5b8" value="902880db-bf2c-458f-9be9-caf9f9c2b5b8" name="0" />
+                <label for="902880db-bf2c-458f-9be9-caf9f9c2b5b8">Qubits in state <img src=http://latex.codecogs.com/svg.latex?\vert1\rangle border=0 /> decay down to <img src=http://latex.codecogs.com/svg.latex?\vert0\rangle border=0 /> before measurement. The decay time for <samp>q0</samp> is longer than that for <samp>q1</samp>.</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="1a648c5e-1a28-4398-97b6-19ca11144176" value="1a648c5e-1a28-4398-97b6-19ca11144176" name="0" />
+                <label for="1a648c5e-1a28-4398-97b6-19ca11144176">Qubits in state <img src=http://latex.codecogs.com/svg.latex?\vert0\rangle border=0 /> decay down to <img src=http://latex.codecogs.com/svg.latex?\vert1\rangle border=0 /> before measurement. The decay time for <samp>q0</samp> is longer than that for <samp>q1</samp>.</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="bf5deaa7-9502-4a8d-a690-3336dfb77f8b" value="bf5deaa7-9502-4a8d-a690-3336dfb77f8b" name="0" />
+                <label for="bf5deaa7-9502-4a8d-a690-3336dfb77f8b">Qubits in state <img src=http://latex.codecogs.com/svg.latex?\vert1\rangle border=0 /> decay down to <img src=http://latex.codecogs.com/svg.latex?\vert0\rangle border=0 /> before measurement. The decay time for <samp>q0</samp> is shorter than that for <samp>q1</samp>.</label>
+            </li>
+        </ul></li><li class=question_content><h4>The noise that caused the calibration matrix in the previous question depends on an array of <img src=http://latex.codecogs.com/svg.latex?T_1 border=0 /> times, where the element <samp>T1[j]</samp> is the decay time of the qubit <samp>qr[j]</samp> during measurement. Once this has been defined, the noise is simulated with <p>T2 = [1,1] #arbitrarily chosen T2 times <br/> time_measure = 10 # arbitrarily chosen measurement time</br>      noise_thermal = NoiseModel()</br>for j in range(2):</br>        noise_thermal.add_quantum_error(thermal_relaxation_error(T1[j], T2[j], time_measure) , 'measure',[j])</p> Which <img src=http://latex.codecogs.com/svg.latex?T_1 border=0 /> times create a calibration matrix closest to the one shown above?</h4><ul>
+            <li>
+                <input type="radio" id="5391f36d-40e8-4d07-9ebb-9981ae2659a1" value="5391f36d-40e8-4d07-9ebb-9981ae2659a1" name="1" />
+                <label for="5391f36d-40e8-4d07-9ebb-9981ae2659a1"><samp>[100, 30]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="2e6070fe-5814-4442-af45-2825eedb431d" value="2e6070fe-5814-4442-af45-2825eedb431d" name="1" />
+                <label for="2e6070fe-5814-4442-af45-2825eedb431d"><samp>[50, 3]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="96a0ea42-8155-4cfd-8e34-7287654f3ea4" value="96a0ea42-8155-4cfd-8e34-7287654f3ea4" name="1" />
+                <label for="96a0ea42-8155-4cfd-8e34-7287654f3ea4"><samp>[3, 10]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="0f39044a-ae18-4a94-b1d4-8c57b35f82e0" value="0f39044a-ae18-4a94-b1d4-8c57b35f82e0" name="1" />
+                <label for="0f39044a-ae18-4a94-b1d4-8c57b35f82e0"><samp>[30, 100]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="5fd0b024-e3dd-4325-b44b-d5e6573bcdaf" value="5fd0b024-e3dd-4325-b44b-d5e6573bcdaf" name="1" />
+                <label for="5fd0b024-e3dd-4325-b44b-d5e6573bcdaf"><samp>[1, 1000]</samp></label>
+            </li>
+        </ul></li><li class=question_content><h4> To calculate Quantum Volume, we test whether a certain condition is satisfied for random circuits applied to successivly larger sets of qubits. These can be made out of any qubits you have available. For example, the tutorial on quantum volume uses <pre>qubit_lists = [[0, 1, 3 ],[0, 1, 3, 5],[0, 1, 3, 5, 7],[0, 1, 3, 5, 7, 10]]</pre> Let's extend the 2-qubit noise model from the previous question to 5 qubits. <pre>n = 5</br>T1 =  [ j*20 for j in range(1,n+1)]</br>T2 = [2*t1 for t1 in T1] # T2 times as large as they can be</br>time_measure = 10 # arbitrarily chosen measurement time</br>      noise_thermal = NoiseModel()</br>for j in range(n):</br>    noise_thermal.add_quantum_error( thermal_relaxation_error(T1[j], T2[j], time_measure) , 'measure', [j]) </br></pre> Which of the following would be most sensible for calculating quantum volume, given the decay times on each qubit?</h4><ul>
+            <li>
+                <input type="radio" id="934b3eea-47dd-44c6-a9b5-b4006314baf5" value="934b3eea-47dd-44c6-a9b5-b4006314baf5" name="2" />
+                <label for="934b3eea-47dd-44c6-a9b5-b4006314baf5"><samp>[[0, 2, 4], [0, 2, 3, 4], [0, 1, 2, 3, 4]]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="101bc805-d5b8-4dc8-812a-1e3ce1f893d8" value="101bc805-d5b8-4dc8-812a-1e3ce1f893d8" name="2" />
+                <label for="101bc805-d5b8-4dc8-812a-1e3ce1f893d8"><samp>[[0, 1, 2], [0, 1, 2, 3], [0, 1, 2, 3, 4]]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="d6439d67-9b68-4c77-8f20-01d8813cdddd" value="d6439d67-9b68-4c77-8f20-01d8813cdddd" name="2" />
+                <label for="d6439d67-9b68-4c77-8f20-01d8813cdddd"><samp>[[0, 2, 4], [0, 1, 2, 4], [0, 1, 2, 3, 4]]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="ae72278a-95d8-4347-9100-6cad522b9f91" value="ae72278a-95d8-4347-9100-6cad522b9f91" name="2" />
+                <label for="ae72278a-95d8-4347-9100-6cad522b9f91"><samp>[[2, 3, 4], [1, 2, 3, 4], [0, 1, 2, 3, 4]]</samp></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="c7e265af-264b-4ffb-a981-08dbb51650dc" value="c7e265af-264b-4ffb-a981-08dbb51650dc" name="2" />
+                <label for="c7e265af-264b-4ffb-a981-08dbb51650dc">None of the above</label>
+            </li>
+        </ul></li>
+            </ul>
+            </body>
+            </html>
+        

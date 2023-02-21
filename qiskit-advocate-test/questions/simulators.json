@@ -1,0 +1,93 @@
+{
+    "activity": "poll",
+    "instructors": [
+        "JunyeHuang"
+    ],
+    "results_filename": "answers/simulators.results",
+    "items": [
+        {
+            "id": "1",
+            "question": "<h4>What is the result of this circuit when run on the <samp>StatevectorSimulator</samp>?<h4><img src=simulators_images/q2.png>",
+            "type": "multiple choice",
+            "options": [
+                "[0.35355339+0.j, 0.35355339+0.j, 0.35355339+0.j, 0.35355339+0.j, 0.35355339+0.j, 0.35355339+0.j, 0.35355339+0.j, 0.35355339+0.j]",
+                "[0.70710678+0.j, 0.70710678+0.j, 0.70710678+0.j, 0.70710678+0.j, 0.70710678+0.j, 0.70710678+0.j, 0.70710678+0.j, 0.70710678+0.j]",
+                "[0.+0.70710678j, 0.70710678+0.j, 0.+0.70710678j, 0.70710678+0.j, 0.+0.70710678j, 0.70710678+0.j, 0.+0.70710678j, 0.70710678+0.j]",
+                "[0.35355339+0.j, 0.+0.35355339j, 0.35355339+0.j, 0.+0.35355339j, 0.35355339+0.j, 0.+0.35355339j, 0.35355339+0.j, 0.+0.35355339j]",
+                "None of the above"
+            ]
+        },
+        {
+            "id": "2",
+            "question": "<h4>You can also use <samp>Statevector</samp> class in the <samp>quantum_info</samp> module to simulate circuits and obtain state vector.<br />Given the following code, which option produces a different state vector from the rest?<p>import qiskit.quantum_info as qi<br />import numpy as np<br />qc = QuantumCircuit(2)<br />qc.h(0)<br />qc.cx(0, 1)</p></h4>",
+            "type": "multiple choice",
+            "options": [
+                "qi.Statevector.from_instruction(qc)",
+                "qi.Statevector(np.array([1,0,1,0]) / np.sqrt(2))",
+                "np.sqrt(0.5) * (qi.Statevector.from_label('00') + qi.Statevector.from_label('11'))",
+                "qi.Statevector.from_label('00').evolve(qc)",
+                "None of the above"
+            ]
+        },
+        {
+            "id": "3",
+            "question": "<h4>What is the result of this circuit when run on the <samp>UnitarySimulator</samp>?<h4> <img src=simulators_images/q3.png>",
+            "type": "multiple choice",
+            "options": [
+                "[[ 0.+0.j, 0.+0.j, 0.+0.j, 1.+0.j ], [ 0.+0.j, 0.+0.j -1.+0.j, 0.+0.j ], [ 0.+0.j, 1.+0.j, 0.+0.j, 0.+0.j ], [-1.+0.j, 0.+0.j, 0.+0.j, 0.+0.j ]]",
+                "[[ 0.+0.j, 1.+0.j, 0.+0.j, 0.+0.j ], [ 0.+0.j, 0.+0.j -1.+0.j, 0.+0.j ], [ 0.+0.j, 0.+0.j, 0.+0.j, 1.+0.j ], [-1.+0.j, 0.+0.j, 0.+0.j, 0.+0.j ]]",
+                "[[ 0.+0.j, 0.+0.j -1.+0.j, 0.+0.j ], [ 0.+0.j, 1.+0.j, 0.+0.j, 0.+0.j ], [ 0.+0.j, 0.+0.j, 0.+0.j, 1.+0.j ], [-1.+0.j, 0.+0.j, 0.+0.j, 0.+0.j ]]",
+                "[[ 0.+0.j, 0.+0.j -1.+0.j, 0.+0.j ], [ 0.+0.j, 1.+0.j, 0.+0.j, 0.+0.j ], [ 0.+0.j, 0.+0.j, 0.+0.j, 1.+0.j ], [ -1.+0.j, 0.+0.j, 0.+0.j, 0.+0.j ]]",
+                "None of the above"
+            ]
+        },
+        {
+            "id": "4",
+            "question": "<h4>You can also use <samp>Operator</samp> class in the <samp>quantum_info</samp> module to simulate circuits and obtain unitary.<br />Given the following code, which option produces a different unitary from the rest?<p>import qiskit.quantum_info as qi<br />qc = QuantumCircuit(2)<br />qc.h(0)<br />qc.cx(0, 1)<br /></p></h4>",
+            "type": "multiple choice",
+            "options": [
+                "qi.Operator(qc)",
+                "qi.Operator.from_label('II').compose(HGate(), [0]).compose(CXGate(),[0,1])",
+                "qi.Operator.from_label('HI') + qi.Operator.from_label('CX')",
+                "qi.Operator.from_label('II').compose(qc)",
+                "None of the above"
+            ]
+        },
+        {
+            "id": "5",
+            "question": "<h4>Which of the following histograms could be the result of this circuit when run on <samp>QasmSimulator</samp>?</h4> <img src=simulators_images/q1.png>",
+            "type": "multiple choice",
+            "options": [
+                "<img src=simulators_images/1_w1.png >",
+                "<img src=simulators_images/1_w2.png >",
+                "<img src=simulators_images/1_w3.png >",
+                "<img src=simulators_images/1_w4.png >",
+                "None of the above"
+            ]
+        },
+        {
+            "id": "6",
+            "question": "<h4>Which of these configuration options could result in the following result object/counts?<h4> <p>qc = QuantumCircuit(2)<br />qc.h([0, 1])<br />qc.measure_all()<br />result = <span style='color:red;'>execute(*what goes in here?*)</span>.result()<br />memory = result.get_memory(qc)<br />print(memory)<br /><br />> ['01', '10', '00', '11', '00', '10', '00', '01', '00', '11', '11', '11', '11',' 11',' 11']</p>",
+            "type": "multiple choice",
+            "options": [
+                "execute(qc, StatevectorSimulator(), shots=15, memory=True)",
+                "execute(qc, QasmSimulator(), shots=10, memory=True)",
+                "execute(qc, QasmSimulator(), shots=15, memory=True)",
+                "execute(qc, QasmSimulator(), shots=15, memory=False)",
+                "None of the above"
+            ]
+        },
+        {
+            "id": "7",
+            "question": "<h4>Clifford circuits can be efficiently simulated classically in Qiskit using <samp>Clifford</samp> class in the <samp>quantum_info</samp> module. <br />Which of the following is not a Clifford gate?</h4>",
+            "type": "multiple choice",
+            "options": [
+                "XGate",
+                "SdgGate",
+                "CXGate",
+                "RZGate",
+                "None of the above"
+            ]
+        }
+    ]
+}

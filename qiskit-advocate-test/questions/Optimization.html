@@ -1,0 +1,97 @@
+
+            <!DOCTYPE html>
+            <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    
+                    <link rel="preconnect" href="https://fonts.googleapis.com">
+                    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">        
+                    <link rel="stylesheet" type="text/css" href="styles.css" />
+                    
+                    <title>Optimization</title>
+                </head>
+                <body>
+                    <ul>
+        <li class=question_content><h4>Which of the following statement is incorrect for this <samp>QuadraticProgram</samp>?<br /><br /><p>mod = QuadraticProgram()<br />mod.binary_var('x')<br />mod.binary_var('y')<br />mod.minimize(constant = 3, linear=[1,-2], quadratic={('x', 'y'): 2})<br /></p></h4><ul>
+            <li>
+                <input type="radio" id="c807d459-3f11-403e-b469-4e959e4c633f" value="c807d459-3f11-403e-b469-4e959e4c633f" name="0" />
+                <label for="c807d459-3f11-403e-b469-4e959e4c633f">It has two variables</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="27592beb-b7b0-404e-b3b1-ab5094d4fce7" value="27592beb-b7b0-404e-b3b1-ab5094d4fce7" name="0" />
+                <label for="27592beb-b7b0-404e-b3b1-ab5094d4fce7">The objective is to minimise x - 2 y + 2 x^2 + 2 y^2 + 3</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="7b5b1083-6c60-4408-bbc3-590a9c8dc95d" value="7b5b1083-6c60-4408-bbc3-590a9c8dc95d" name="0" />
+                <label for="7b5b1083-6c60-4408-bbc3-590a9c8dc95d">It has no constraints</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="86105629-89c3-483e-bdc2-eab47d4a0548" value="86105629-89c3-483e-bdc2-eab47d4a0548" name="0" />
+                <label for="86105629-89c3-483e-bdc2-eab47d4a0548">It is a Quadratic Unconstrained Binary Optimization (QUBO) problem</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="5d62dd31-9e9e-4584-a3cf-758cf587f1b0" value="5d62dd31-9e9e-4584-a3cf-758cf587f1b0" name="0" />
+                <label for="5d62dd31-9e9e-4584-a3cf-758cf587f1b0">None of the above</label>
+            </li>
+        </ul></li><li class=question_content><h4>What kinds of minimum eigen solvers can be used for the <samp>MinimumEigenOptimizer</samp>?<br /><br /><p>problem = QuadraticProgram()<br /># specify problem here<br /># specify minimum eigen solver to be used<br />mes = <span style='color:red;'>(*what can be here?*)</span><br />optimizer = MinimumEigenOptimizer(mes)<br />result = optimizer.solve(problem)<br /></p></h4><ul>
+            <li>
+                <input type="radio" id="102cb838-adb6-4cc2-9d86-4ca9e8b0d9f4" value="102cb838-adb6-4cc2-9d86-4ca9e8b0d9f4" name="1" />
+                <label for="102cb838-adb6-4cc2-9d86-4ca9e8b0d9f4"><pre>VQE(...)</pre></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="bdf53f6f-0987-49ce-aa93-14aac3d7ef09" value="bdf53f6f-0987-49ce-aa93-14aac3d7ef09" name="1" />
+                <label for="bdf53f6f-0987-49ce-aa93-14aac3d7ef09"><pre>QAOA(...)</pre></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="0d45c385-442c-4a2f-aa6d-f1d2d13b1f91" value="0d45c385-442c-4a2f-aa6d-f1d2d13b1f91" name="1" />
+                <label for="0d45c385-442c-4a2f-aa6d-f1d2d13b1f91"><pre>NumpyMinimumEigensolver(...)</pre></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="debcc6c0-3d36-414b-ac7a-fa7dd4ef13c0" value="debcc6c0-3d36-414b-ac7a-fa7dd4ef13c0" name="1" />
+                <label for="debcc6c0-3d36-414b-ac7a-fa7dd4ef13c0">All of the above</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="55c27a24-4bff-455b-9f4e-e5ef1c17aa9f" value="55c27a24-4bff-455b-9f4e-e5ef1c17aa9f" name="1" />
+                <label for="55c27a24-4bff-455b-9f4e-e5ef1c17aa9f">None of the above</label>
+            </li>
+        </ul></li><li class=question_content><h4>Which optimizers in Qiskit can be used to solve Quadratic Unconstrained Binary Optimization (QUBO) problems?</h4><ul>
+            <li>
+                <input type="radio" id="4fa0d2ec-cf9c-48dd-8c4a-4181d87872db" value="4fa0d2ec-cf9c-48dd-8c4a-4181d87872db" name="2" />
+                <label for="4fa0d2ec-cf9c-48dd-8c4a-4181d87872db"><pre>MinimumEigenOptimizer</pre></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="4c2ea19a-ea7f-406b-9b16-0261656be660" value="4c2ea19a-ea7f-406b-9b16-0261656be660" name="2" />
+                <label for="4c2ea19a-ea7f-406b-9b16-0261656be660"><pre>GroverOptimizer</pre></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="8b60888d-bb5e-426b-b4d0-ba3238f05944" value="8b60888d-bb5e-426b-b4d0-ba3238f05944" name="2" />
+                <label for="8b60888d-bb5e-426b-b4d0-ba3238f05944"><pre>CobylaOptimizer</pre></label>
+            </li>
+        
+            <li>
+                <input type="radio" id="aba95e2b-556d-49df-9c07-3b982483e461" value="aba95e2b-556d-49df-9c07-3b982483e461" name="2" />
+                <label for="aba95e2b-556d-49df-9c07-3b982483e461">Both 1 & 2</label>
+            </li>
+        
+            <li>
+                <input type="radio" id="c75f2a43-888c-49c1-9040-6766ccb009b3" value="c75f2a43-888c-49c1-9040-6766ccb009b3" name="2" />
+                <label for="c75f2a43-888c-49c1-9040-6766ccb009b3">All of the above</label>
+            </li>
+        </ul></li>
+            </ul>
+            </body>
+            </html>
+        
