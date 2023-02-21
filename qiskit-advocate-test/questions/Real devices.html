@@ -17,53 +17,53 @@
                     <ul>
         <li class=question_content><h4>How do you find the least busy device to run the following circuit from the previous section? <img align=middle src=advanced_circuits_images/merged.png width=400px></h4><ul>
             <li>
-                <input type="radio" id="37c01b4f-28f4-4b6c-ba02-17758d7e5d88" value="37c01b4f-28f4-4b6c-ba02-17758d7e5d88" name="0" />
-                <label for="37c01b4f-28f4-4b6c-ba02-17758d7e5d88">least_busy(provider.backends())</label>
+                <input type="radio" id="9819d001-8ebf-4d99-8f28-20de24a3c7df" value="9819d001-8ebf-4d99-8f28-20de24a3c7df" name="0" />
+                <label for="9819d001-8ebf-4d99-8f28-20de24a3c7df">least_busy(provider.backends())</label>
             </li>
         
             <li>
-                <input type="radio" id="ff7eaf5e-e968-4de7-8e00-f6fa3a078e9d" value="ff7eaf5e-e968-4de7-8e00-f6fa3a078e9d" name="0" />
-                <label for="ff7eaf5e-e968-4de7-8e00-f6fa3a078e9d">least_busy(provider.backends(filters=lambda x: x.configuration().n_qubits >= 5))</label>
+                <input type="radio" id="093625f7-06eb-4231-b8e8-2c92fc3c220e" value="093625f7-06eb-4231-b8e8-2c92fc3c220e" name="0" />
+                <label for="093625f7-06eb-4231-b8e8-2c92fc3c220e">least_busy(provider.backends(filters=lambda x: x.configuration().n_qubits >= 5))</label>
             </li>
         
             <li>
-                <input type="radio" id="5a5501c9-3917-400c-a59d-c2ce6becf9fa" value="5a5501c9-3917-400c-a59d-c2ce6becf9fa" name="0" />
-                <label for="5a5501c9-3917-400c-a59d-c2ce6becf9fa">provider.backends(filters=lambda x: x.configuration().n_qubits >= 5 and not x.configuration().simulator and x.status().operational==True)</label>
+                <input type="radio" id="325a328e-9319-439c-8378-8fe2627261c4" value="325a328e-9319-439c-8378-8fe2627261c4" name="0" />
+                <label for="325a328e-9319-439c-8378-8fe2627261c4">provider.backends(filters=lambda x: x.configuration().n_qubits >= 5 and not x.configuration().simulator and x.status().operational==True)</label>
             </li>
         
             <li>
-                <input type="radio" id="22dd85ff-ef0a-4e2f-a799-057faf28061a" value="22dd85ff-ef0a-4e2f-a799-057faf28061a" name="0" />
-                <label for="22dd85ff-ef0a-4e2f-a799-057faf28061a">Both 1 & 3 are correct</label>
+                <input type="radio" id="6f51a919-990f-47f7-a93d-21d60a916926" value="6f51a919-990f-47f7-a93d-21d60a916926" name="0" />
+                <label for="6f51a919-990f-47f7-a93d-21d60a916926">Both 1 & 3 are correct</label>
             </li>
         
             <li>
-                <input type="radio" id="b3a0fb2c-7021-4cae-b6ed-75e5b3f84e4f" value="b3a0fb2c-7021-4cae-b6ed-75e5b3f84e4f" name="0" />
-                <label for="b3a0fb2c-7021-4cae-b6ed-75e5b3f84e4f">None of the above</label>
+                <input type="radio" id="21d12520-47ec-42b9-9cb4-799ea327e060" value="21d12520-47ec-42b9-9cb4-799ea327e060" name="0" />
+                <label for="21d12520-47ec-42b9-9cb4-799ea327e060">None of the above</label>
             </li>
         </ul></li><li class=question_content><h4>How do you retrieve the last run job from a backend?</h4><ul>
             <li>
-                <input type="radio" id="6b533a74-6be9-44f2-8a70-58bc2ee736d6" value="6b533a74-6be9-44f2-8a70-58bc2ee736d6" name="1" />
-                <label for="6b533a74-6be9-44f2-8a70-58bc2ee736d6">backend.jobs()[0]</label>
+                <input type="radio" id="3a50b5da-556c-4616-94c2-4db280a39baa" value="3a50b5da-556c-4616-94c2-4db280a39baa" name="1" />
+                <label for="3a50b5da-556c-4616-94c2-4db280a39baa">backend.jobs()[0]</label>
             </li>
         
             <li>
-                <input type="radio" id="9be9aa25-9b5f-43b9-8ec7-4d7acf0da7e8" value="9be9aa25-9b5f-43b9-8ec7-4d7acf0da7e8" name="1" />
-                <label for="9be9aa25-9b5f-43b9-8ec7-4d7acf0da7e8">backend.jobs()[-1]</label>
+                <input type="radio" id="ba0a2b82-a01d-496e-a8ea-fc039d081fc9" value="ba0a2b82-a01d-496e-a8ea-fc039d081fc9" name="1" />
+                <label for="ba0a2b82-a01d-496e-a8ea-fc039d081fc9">backend.jobs()[-1]</label>
             </li>
         
             <li>
-                <input type="radio" id="2dab7f0c-9140-4331-91ff-a3f4ac1faaf8" value="2dab7f0c-9140-4331-91ff-a3f4ac1faaf8" name="1" />
-                <label for="2dab7f0c-9140-4331-91ff-a3f4ac1faaf8">backend.retrieve_job()[0]</label>
+                <input type="radio" id="1e7a6f50-6b26-43e6-bbae-2612a16a5213" value="1e7a6f50-6b26-43e6-bbae-2612a16a5213" name="1" />
+                <label for="1e7a6f50-6b26-43e6-bbae-2612a16a5213">backend.retrieve_job()[0]</label>
             </li>
         
             <li>
-                <input type="radio" id="3c9b3b08-85eb-4ce0-a23c-04644f17893c" value="3c9b3b08-85eb-4ce0-a23c-04644f17893c" name="1" />
-                <label for="3c9b3b08-85eb-4ce0-a23c-04644f17893c">backend.retrieve_job()[-1]</label>
+                <input type="radio" id="6fe680f5-e5c9-4e13-8952-2c6e8ecdefbf" value="6fe680f5-e5c9-4e13-8952-2c6e8ecdefbf" name="1" />
+                <label for="6fe680f5-e5c9-4e13-8952-2c6e8ecdefbf">backend.retrieve_job()[-1]</label>
             </li>
         
             <li>
-                <input type="radio" id="9ddb2a84-6872-4a69-b418-77a22bdd9026" value="9ddb2a84-6872-4a69-b418-77a22bdd9026" name="1" />
-                <label for="9ddb2a84-6872-4a69-b418-77a22bdd9026">None of the above</label>
+                <input type="radio" id="cada8e6f-5f06-4f91-84de-4b05eab3ec7e" value="cada8e6f-5f06-4f91-84de-4b05eab3ec7e" name="1" />
+                <label for="cada8e6f-5f06-4f91-84de-4b05eab3ec7e">None of the above</label>
             </li>
         </ul></li>
             </ul>
