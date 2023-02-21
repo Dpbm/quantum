@@ -1,5 +1,6 @@
 # To Study
 
+* [ ] P, T, T dagger and S gates
 * [ ] representation theory
 * [ ] complex numbers
 * [ ] POVM
