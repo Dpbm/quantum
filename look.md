@@ -36,7 +36,7 @@
 * [X] [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
 * [X] [addition and subtraction of vectors](https://youtu.be/VFRW0f0XUU8)
 * [ ] [eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
-* [ ] [formula de euler (wikipedia)](https://en.wikipedia.org/wiki/Euler%27s_formula)
+* [ ] [Euler Formula (wikipedia)](https://en.wikipedia.org/wiki/Euler%27s_formula)
 * [ ] [linear algebra for quantum computing](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
 * [X] [Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
 * [X] [mod (wikipedia)](https://en.wikipedia.org/wiki/Modulo)
@@ -73,11 +73,11 @@
 * [ ] [A Beginner’s Guide to Quantum Computing Literature & Notation](https://medium.com/queen-of-qiskit/0-d3f42c35de7)
 * [X] [Quantum computer programming - Sentdex playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW)
 * [ ] [Will Quantum Computers break encryption? - Frame of Essence](https://youtu.be/6H_9l9N3IXU)
-* [ ] [Quantum Algorithm Implementations for Beginners (PDF)](https://arxiv.org/pdf/1804.03719.pdf)
+* [X] [Quantum Algorithm Implementations for Beginners (PDF)](https://arxiv.org/pdf/1804.03719.pdf)
 * [ ] [Quantum Computing road map - Domain of science](https://youtu.be/-UlxHPIEVqA)
 * [ ] [Open Source Quantum Computing: Write Your Own Quantum Programs - Coding Tech](https://youtu.be/UgqLi1itWmk)
 * [ ] [Universal sets of quantum gates](https://quantumcomputing.stackexchange.com/questions/17173/does-anyone-know-the-list-of-all-known-universal-sets-of-quantum-gates)
-* [ ] [Quantum Netlist Compile (PDF)](https://arxiv.org/pdf/2209.00819.pdf)
+* [X] [Quantum Netlist Compile (PDF)](https://arxiv.org/pdf/2209.00819.pdf)
 
 ## Quantum Hardware
 
