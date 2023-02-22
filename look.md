@@ -49,13 +49,13 @@
 * [X] [phase](https://en.wikipedia.org/wiki/File:Phase_shifter_using_IQ_modulator.gif)
 * [ ] [Toffoli gate (wikipedia)](https://en.wikipedia.org/wiki/Toffoli_gate)
 * [ ] [Pauli Measurements](https://learn.microsoft.com/en-us/azure/quantum/concepts-pauli-measurements)
-* [ ] [Neutral Atoms](https://arxiv.org/pdf/2006.12326.pdf)
+* [ ] [Neutral Atoms (PDF)](https://arxiv.org/pdf/2006.12326.pdf)
 * [ ] [Hello qiskit](https://qiskit.org/textbook/ch-ex/hello-qiskit.html)
 * [ ] [bernoulli line and block sphere AWS](https://aws.amazon.com/blogs/quantum-computing/bernoulli-line-and-the-bloch-sphere/)
 * [ ] [quantum Oracles](https://learn.microsoft.com/en-us/azure/quantum/concepts-oracles)
 * [ ] [diffusers](https://towardsdatascience.com/a-practical-guide-to-quantum-amplitude-amplification-dbcbe467044a)
 * [ ] [Schöning's Algorithm](https://www.cs.yale.edu/homes/spielman/366/schoening.pdf)
-* [ ] [Schöning's K-SAT Algorithm](https://arxiv.org/pdf/1008.4067.pdf)
+* [ ] [Schöning's K-SAT Algorithm (PDF)](https://arxiv.org/pdf/1008.4067.pdf)
 * [ ] [Quantum Oracle Circuits and the Christmas Tree Pattern](https://msoeken.github.io/blog_qac.html)
 * [ ] [Quantum Oracles](https://benjaminwhiteside.com/2022/08/07/quantum-oracles/)
 * [ ] [Classical logic gates in Qiskit](https://gist.github.com/primaryobjects/49674b30f1882401b32fc46d1991ef89)
@@ -78,6 +78,8 @@
 * [ ] [Open Source Quantum Computing: Write Your Own Quantum Programs - Coding Tech](https://youtu.be/UgqLi1itWmk)
 * [ ] [Universal sets of quantum gates](https://quantumcomputing.stackexchange.com/questions/17173/does-anyone-know-the-list-of-all-known-universal-sets-of-quantum-gates)
 * [X] [Quantum Netlist Compile (PDF)](https://arxiv.org/pdf/2209.00819.pdf)
+* [ ] [t|ket〉: A Retargetable Compiler for NISQ Devices (PDF)](https://arxiv.org/pdf/2003.10611.pdf)
+* [ ] [staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
 
 ## Quantum Hardware
 
@@ -98,6 +100,14 @@
 * [Q#](https://github.com/microsoft/qsharp-language)
 * [QNC](https://github.com/pujyam/QNC)
 * [IBM quantum computing](https://quantum-computing.ibm.com/)
+* [PyQuil](https://github.com/rigetti/pyquil)
+* [Cirq](https://quantumai.google/cirq)
+* [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ)
+* [TriQ](https://github.com/prakashmurali/TriQ)
+* [Staq](https://github.com/softwareQinc/staq)
+* [OpenQL](https://github.com/QuTech-Delft/OpenQL)
+* [PyZX](https://github.com/Quantomatic/pyzx)
+
 
 ## knowledge base
 
@@ -123,6 +133,8 @@
 * [Dpbm Medium quantum list](https://dpbm.medium.com/list/quantum-a3b6fb98da43)
 * [DWave learn](https://www.dwavesys.com/learn/quantum-computing/)
 * [Quantum sense channel](https://www.youtube.com/@quantumsensechannel)
+* [Cambridge Quantum Channel](https://www.youtube.com/@CambridgeQuantumComputing)
+
 
 ## courses
 
