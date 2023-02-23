@@ -1,8 +1,14 @@
-from quantum import Circuit, Basis, Gates
+from quantum.circuit import Circuit
+from quantum.gates import X, H
 
-circuit = Circuit(1, 1)
-circuit.set_initial_state(Basis.one, 0)
-circuit.show_circuit()
-circuit.add_single_qubit_gate(Gates.x, 0)
-circuit.show_circuit()
+circuit = Circuit(total_of_qubits=2)
+circuit.add_single_qubit_gate(X, 0)
+circuit.add_single_qubit_gate(H, 0)
+#circuit.add_single_qubit_gate(X, 0)
+circuit.add_single_qubit_gate(H, 0)
 
+
+circuit.add_single_qubit_gate(X, 1)
+
+circuit.show_circuit()
+circuit.show_states()
