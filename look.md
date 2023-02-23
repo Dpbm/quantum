@@ -161,3 +161,4 @@
 
 * [DWave](https://www.dwavesys.com/)
 * [qutech](https://qutech.nl)
+* [Onnes Technologies](https://onnestechnologies.com/)
