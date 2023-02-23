@@ -1,5 +1,7 @@
 # To Study
 
+* [ ] cryogenic nanopositioner
+* [ ] quantum sensing
 * [ ] LNN architecture
 * [ ] P, T, T dagger and S gates
 * [ ] representation theory
