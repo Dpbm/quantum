@@ -80,6 +80,7 @@
 * [X] [Quantum Netlist Compile (PDF)](https://arxiv.org/pdf/2209.00819.pdf)
 * [ ] [t|ket〉: A Retargetable Compiler for NISQ Devices (PDF)](https://arxiv.org/pdf/2003.10611.pdf)
 * [ ] [staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
+* [] [Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
 
 ## Quantum Hardware
 
