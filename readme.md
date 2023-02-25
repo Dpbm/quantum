@@ -38,6 +38,9 @@ All the code that I've made using Qiskit
 ### [q#/](./q#/)
 All the code that I've made using Q#
 
+### [mechanics/](./mechanics/)
+Some notes about quantum mechanics
+
 ### Images
 The image files represent some equations, thoughts and screenshots
 
