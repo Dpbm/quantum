@@ -3,7 +3,7 @@
 ## Math
 
 * [X] complex numbers
-* [ ] Hilbert space
+* [X] Hilbert space
 * [ ] Eigenstates
 * [ ] representation theory
 

@@ -23,41 +23,70 @@
 
 ## Math
 
-* [X] [complex plane](https://en.wikipedia.org/wiki/Complex_plane)
 * [ ] [math quantum computing](https://towardsdatascience.com/explaining-the-math-of-a-quantum-circuit-for-the-non-mathematician-79abf345c508)
 * [X] [conjugate transpose matrix (wikipedia)](https://en.wikipedia.org/wiki/Conjugate_transpose)
 * [X] [unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html)
 * [X] [matriz conjugada (es)](https://youtu.be/w4SYkLpytSs)
 * [ ] [kronecker product](https://mathworld.wolfram.com/KroneckerProduct.html)
-* [X] [Complex numbers](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex)
-* [X] [complex numbers multiplication](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex/x2ec2f6f830c9fb89:complex-mul/a/multiplying-complex-numbers)
+
+  <br />
+
+  * Complex Numbers    
+    * [X] [[Khan Academy] Complex numbers](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex)
+    * [X] [[Khan Academy] complex numbers multiplication](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex/x2ec2f6f830c9fb89:complex-mul/a/multiplying-complex-numbers)
+    * [X] [[Wikipedia] complex plane](https://en.wikipedia.org/wiki/Complex_plane)
+    * [X] [[Math is fun] complex plane](https://www.mathsisfun.com/algebra/complex-plane.html)
+
+  <br />
+
 * [X] [complex, hermitian and unitary matrices](https://youtu.be/DUuTx2nbizM)
 * [X] [vector math](https://mathinsight.org/vector_introduction)
-* [X] [complex plane](https://www.mathsisfun.com/algebra/complex-plane.html)
 * [X] [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
 * [X] [addition and subtraction of vectors](https://youtu.be/VFRW0f0XUU8)
 * [ ] [eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
 * [ ] [Euler Formula (wikipedia)](https://en.wikipedia.org/wiki/Euler%27s_formula)
 * [ ] [linear algebra for quantum computing](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
 * [X] [mod (wikipedia)](https://en.wikipedia.org/wiki/Modulo)
-* [X] [What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
-* [X] [Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
-* [ ] [Hilbert Spaces (PDF)](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf)
-* [ ] [Hilbert Spaces](https://www.quantiki.org/wiki/hilbert-spaces)
-* [X] [Open set (wikipedia)](https://en.wikipedia.org/wiki/Open_set)
-* [X] [Open set](https://mathworld.wolfram.com/OpenSet.html)
-* [X] [Open sets](https://brilliant.org/wiki/open-sets/)
-* [X] [Open set](https://www.britannica.com/science/open-set)
-* [X] [Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
-* [X] [Close set](https://mathworld.wolfram.com/ClosedSet.html)
-* [X] [Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
-* [ ] [The notion of space in mathematics (PDF)](https://www.its.caltech.edu/~matilde/SpaceMath.pdf)
-* [ ] [Space (Math) (wikipedia)](https://en.wikipedia.org/wiki/Space_(mathematics))
-* [ ] [Euclidian Space (wikipedia)](https://en.wikipedia.org/wiki/Euclidean_space)
-* [ ] [Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
-* [ ] [Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
-* [ ] [What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
+  
+  <br />
 
+  * Spaces
+    * [X] [[Medium] What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
+    * [X] [[nLab] Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
+    * [X] [[UCDavis] Hilbert Spaces (PDF)](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf)
+    * [X] [Hilbert Spaces](https://www.quantiki.org/wiki/hilbert-spaces)
+    * [X] [[Caltech] The notion of space in mathematics (PDF)](https://www.its.caltech.edu/~matilde/SpaceMath.pdf)
+    * [X] [[Wikipedia] Space (Math)](https://en.wikipedia.org/wiki/Space_(mathematics))
+    * [X] [[Wikipedia] Euclidian Space](https://en.wikipedia.org/wiki/Euclidean_space)
+    * [X] [[Wikipedia] State Space](https://en.wikipedia.org/wiki/State_space_(physics))
+    * [X] [[Wikipedia] Complete Metric Space](https://en.wikipedia.org/wiki/Complete_metric_space)
+
+
+      * Planes
+        * [X] [[Wikipedia] Euclidian plane](https://en.wikipedia.org/wiki/Euclidean_plane)
+
+      * Shapes
+        * [X] [[Wikipedia] Isomorphism](https://en.wikipedia.org/wiki/Isomorphism)
+        * [X] [[Wikipedia] Isomorfismo(pt-br)](https://pt.wikipedia.org/wiki/Isomorfismo)
+
+
+    * Sets
+      * [X] [Open set (wikipedia)](https://en.wikipedia.org/wiki/Open_set)
+      * [X] [Open set](https://mathworld.wolfram.com/OpenSet.html)
+      * [X] [Open sets](https://brilliant.org/wiki/open-sets/)
+      * [X] [Open set](https://www.britannica.com/science/open-set)
+      * [X] [Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
+      * [X] [Close set](https://mathworld.wolfram.com/ClosedSet.html)
+      * [X] [Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
+  
+
+    * Inner Product
+      * [X] [Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
+      * [X] [Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
+      * [X] [What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
+      * [X] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
+      * [X] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
+      
 ## Quantum Computing
 
 * [ ] [quantum amplitudes and probabilities](https://towardsdatascience.com/quantum-amplitudes-and-probabilities-b49a6969b0b9)
