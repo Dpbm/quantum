@@ -39,8 +39,22 @@
 * [ ] [eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
 * [ ] [Euler Formula (wikipedia)](https://en.wikipedia.org/wiki/Euler%27s_formula)
 * [ ] [linear algebra for quantum computing](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
-* [X] [Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
 * [X] [mod (wikipedia)](https://en.wikipedia.org/wiki/Modulo)
+* [X] [What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
+* [X] [Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
+* [ ] [Hilbert Spaces (PDF)](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf)
+* [ ] [Hilbert Spaces](https://www.quantiki.org/wiki/hilbert-spaces)
+* [X] [Open set (wikipedia)](https://en.wikipedia.org/wiki/Open_set)
+* [X] [Open set](https://mathworld.wolfram.com/OpenSet.html)
+* [X] [Open sets](https://brilliant.org/wiki/open-sets/)
+* [X] [Open set](https://www.britannica.com/science/open-set)
+* [X] [Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
+* [X] [Close set](https://mathworld.wolfram.com/ClosedSet.html)
+* [X] [Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
+* [ ] [Euclidian Space (wikipedia)](https://en.wikipedia.org/wiki/Euclidean_space)
+* [ ] [Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
+* [ ] [Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
+* [ ] [What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
 
 ## Quantum Computing
 
@@ -136,7 +150,7 @@
 * [DWave learn](https://www.dwavesys.com/learn/quantum-computing/)
 * [Quantum sense channel](https://www.youtube.com/@quantumsensechannel)
 * [Cambridge Quantum Channel](https://www.youtube.com/@CambridgeQuantumComputing)
-
+* [Quantiki](https://www.quantiki.org/)
 
 ## courses
 
