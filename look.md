@@ -51,6 +51,8 @@
 * [X] [Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
 * [X] [Close set](https://mathworld.wolfram.com/ClosedSet.html)
 * [X] [Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
+* [ ] [The notion of space in mathematics (PDF)](https://www.its.caltech.edu/~matilde/SpaceMath.pdf)
+* [ ] [Space (Math) (wikipedia)](https://en.wikipedia.org/wiki/Space_(mathematics))
 * [ ] [Euclidian Space (wikipedia)](https://en.wikipedia.org/wiki/Euclidean_space)
 * [ ] [Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
 * [ ] [Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
