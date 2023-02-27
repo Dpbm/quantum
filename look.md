@@ -28,17 +28,6 @@
 * [X] [unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html)
 * [X] [matriz conjugada (es)](https://youtu.be/w4SYkLpytSs)
 * [ ] [kronecker product](https://mathworld.wolfram.com/KroneckerProduct.html)
-
-  <br />
-
-  * Complex Numbers    
-    * [X] [[Khan Academy] Complex numbers](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex)
-    * [X] [[Khan Academy] complex numbers multiplication](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex/x2ec2f6f830c9fb89:complex-mul/a/multiplying-complex-numbers)
-    * [X] [[Wikipedia] complex plane](https://en.wikipedia.org/wiki/Complex_plane)
-    * [X] [[Math is fun] complex plane](https://www.mathsisfun.com/algebra/complex-plane.html)
-
-  <br />
-
 * [X] [complex, hermitian and unitary matrices](https://youtu.be/DUuTx2nbizM)
 * [X] [vector math](https://mathinsight.org/vector_introduction)
 * [X] [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
@@ -71,22 +60,31 @@
 
 
     * Sets
-      * [X] [Open set (wikipedia)](https://en.wikipedia.org/wiki/Open_set)
-      * [X] [Open set](https://mathworld.wolfram.com/OpenSet.html)
-      * [X] [Open sets](https://brilliant.org/wiki/open-sets/)
-      * [X] [Open set](https://www.britannica.com/science/open-set)
-      * [X] [Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
-      * [X] [Close set](https://mathworld.wolfram.com/ClosedSet.html)
-      * [X] [Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
+      * [X] [[Wikipedia] Open set](https://en.wikipedia.org/wiki/Open_set)
+      * [X] [[Wolfram] Open set](https://mathworld.wolfram.com/OpenSet.html)
+      * [X] [[Brilliant] Open sets](https://brilliant.org/wiki/open-sets/)
+      * [X] [[Britannica] Open set](https://www.britannica.com/science/open-set)
+      * [X] [[YouTube] Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
+      * [X] [[Wolfram] Close set](https://mathworld.wolfram.com/ClosedSet.html)
+      * [X] [[Wolfram] Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
   
 
     * Inner Product
-      * [X] [Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
-      * [X] [Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
-      * [X] [What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
+      * [X] [[Wolfram] Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
+      * [X] [[StackExchange] Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
+      * [X] [[Quora] What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
       * [X] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
       * [X] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
       
+  <br />
+
+  * Complex Numbers    
+    * [X] [[Khan Academy] Complex numbers](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex)
+    * [X] [[Khan Academy] complex numbers multiplication](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex/x2ec2f6f830c9fb89:complex-mul/a/multiplying-complex-numbers)
+    * [X] [[Wikipedia] complex plane](https://en.wikipedia.org/wiki/Complex_plane)
+    * [X] [[Math is fun] complex plane](https://www.mathsisfun.com/algebra/complex-plane.html)
+
+
 ## Quantum Computing
 
 * [ ] [quantum amplitudes and probabilities](https://towardsdatascience.com/quantum-amplitudes-and-probabilities-b49a6969b0b9)
