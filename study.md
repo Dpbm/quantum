@@ -4,7 +4,7 @@
 
 * [X] complex numbers
 * [X] Hilbert space
-* [ ] Eigenstates
+* [ ] linear algebra
 * [ ] representation theory
 
 ## Quantum mechanics

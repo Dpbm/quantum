@@ -32,49 +32,53 @@
 * [X] [vector math](https://mathinsight.org/vector_introduction)
 * [X] [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
 * [X] [addition and subtraction of vectors](https://youtu.be/VFRW0f0XUU8)
-* [ ] [eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
 * [ ] [Euler Formula (wikipedia)](https://en.wikipedia.org/wiki/Euler%27s_formula)
 * [ ] [linear algebra for quantum computing](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
 * [X] [mod (wikipedia)](https://en.wikipedia.org/wiki/Modulo)
-  
+
   <br />
 
-  * Spaces
-    * [X] [[Medium] What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
-    * [X] [[nLab] Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
-    * [X] [[UCDavis] Hilbert Spaces (PDF)](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf)
-    * [X] [Hilbert Spaces](https://www.quantiki.org/wiki/hilbert-spaces)
-    * [X] [[Caltech] The notion of space in mathematics (PDF)](https://www.its.caltech.edu/~matilde/SpaceMath.pdf)
-    * [X] [[Wikipedia] Space (Math)](https://en.wikipedia.org/wiki/Space_(mathematics))
-    * [X] [[Wikipedia] Euclidian Space](https://en.wikipedia.org/wiki/Euclidean_space)
-    * [X] [[Wikipedia] State Space](https://en.wikipedia.org/wiki/State_space_(physics))
-    * [X] [[Wikipedia] Complete Metric Space](https://en.wikipedia.org/wiki/Complete_metric_space)
+  * Linear Algebra
+    * [ ] [[Khan Academy] linear algebra](https://www.khanacademy.org/math/linear-algebra)
+    * [ ] [[khan Academy] eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
 
 
-      * Planes
-        * [X] [[Wikipedia] Euclidian plane](https://en.wikipedia.org/wiki/Euclidean_plane)
+    * Spaces
+      * [X] [[Medium] What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
+      * [X] [[nLab] Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
+      * [X] [[UCDavis] Hilbert Spaces (PDF)](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf)
+      * [X] [[Quantiki] Hilbert Spaces](https://www.quantiki.org/wiki/hilbert-spaces)
+      * [X] [[Caltech] The notion of space in mathematics (PDF)](https://www.its.caltech.edu/~matilde/SpaceMath.pdf)
+      * [X] [[Wikipedia] Space (Math)](https://en.wikipedia.org/wiki/Space_(mathematics))
+      * [X] [[Wikipedia] Euclidian Space](https://en.wikipedia.org/wiki/Euclidean_space)
+      * [X] [[Wikipedia] State Space](https://en.wikipedia.org/wiki/State_space_(physics))
+      * [X] [[Wikipedia] Complete Metric Space](https://en.wikipedia.org/wiki/Complete_metric_space)
 
-      * Shapes
-        * [X] [[Wikipedia] Isomorphism](https://en.wikipedia.org/wiki/Isomorphism)
-        * [X] [[Wikipedia] Isomorfismo(pt-br)](https://pt.wikipedia.org/wiki/Isomorfismo)
+
+        * Planes
+          * [X] [[Wikipedia] Euclidian plane](https://en.wikipedia.org/wiki/Euclidean_plane)
+
+        * Shapes
+          * [X] [[Wikipedia] Isomorphism](https://en.wikipedia.org/wiki/Isomorphism)
+          * [X] [[Wikipedia] Isomorfismo(pt-br)](https://pt.wikipedia.org/wiki/Isomorfismo)
 
 
-    * Sets
-      * [X] [[Wikipedia] Open set](https://en.wikipedia.org/wiki/Open_set)
-      * [X] [[Wolfram] Open set](https://mathworld.wolfram.com/OpenSet.html)
-      * [X] [[Brilliant] Open sets](https://brilliant.org/wiki/open-sets/)
-      * [X] [[Britannica] Open set](https://www.britannica.com/science/open-set)
-      * [X] [[YouTube] Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
-      * [X] [[Wolfram] Close set](https://mathworld.wolfram.com/ClosedSet.html)
-      * [X] [[Wolfram] Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
+      * Sets
+        * [X] [[Wikipedia] Open set](https://en.wikipedia.org/wiki/Open_set)
+        * [X] [[Wolfram] Open set](https://mathworld.wolfram.com/OpenSet.html)
+        * [X] [[Brilliant] Open sets](https://brilliant.org/wiki/open-sets/)
+        * [X] [[Britannica] Open set](https://www.britannica.com/science/open-set)
+        * [X] [[YouTube] Introduction to Open and Closed Sets](https://youtu.be/PcnSgIoASSk)
+        * [X] [[Wolfram] Close set](https://mathworld.wolfram.com/ClosedSet.html)
+        * [X] [[Wolfram] Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
   
 
-    * Inner Product
-      * [X] [[Wolfram] Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
-      * [X] [[StackExchange] Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
-      * [X] [[Quora] What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
-      * [X] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
-      * [X] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
+      * Inner Product
+        * [X] [[Wolfram] Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
+        * [X] [[StackExchange] Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
+        * [X] [[Quora] What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
+        * [X] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
+        * [X] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
       
   <br />
 
