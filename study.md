@@ -25,9 +25,13 @@
 * [ ] Floquet engineering
 * [ ] Jordan-Wigner and Bravyi-Kitaev transformations
 * [ ] Gauge theories
+* [ ] Eletromagnetically-induced transparency
 
 ## Quantum Computing
 
+* [ ] LHZ architecture
+* [ ] suface code
+* [ ] 
 * [ ] NV qubits
 * [ ] LNN architecture
 * [ ] P, T, T dagger and S gates
@@ -45,6 +49,9 @@
 * [ ] Analog Quantum Simulation
 * [ ] Digital Quantum Simulation
 * [ ] quantum phase estimation algorithm
+* [ ] quantum repeater protocols
+* [ ] NISQ
+* [ ] photonic quantum Computing
 
 ## Phsyics
 
