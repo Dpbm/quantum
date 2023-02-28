@@ -41,7 +41,8 @@
   * Linear Algebra
     * [ ] [[Khan Academy] linear algebra](https://www.khanacademy.org/math/linear-algebra)
     * [ ] [[khan Academy] eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
-
+    * [X] [[Wikipedia] Linear Span](https://en.wikipedia.org/wiki/Linear_span)
+    * [X] [[mbernste] Linear independence](https://mbernste.github.io/posts/linear_independence/)
 
     * Spaces
       * [X] [[Medium] What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
@@ -128,7 +129,14 @@
 * [X] [Quantum Netlist Compile (PDF)](https://arxiv.org/pdf/2209.00819.pdf)
 * [ ] [t|ket〉: A Retargetable Compiler for NISQ Devices (PDF)](https://arxiv.org/pdf/2003.10611.pdf)
 * [ ] [staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
-* [] [Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
+* [ ] [Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
+
+* Surface Code
+  * [ ] [[QuTube] Surface codes](https://www.qutube.nl/quantum-computer-12/surface-codes)
+  * [ ] [[Error Correction Zoo] Kitaev surface code](https://errorcorrectionzoo.org/c/surface)
+  * [ ] [[Arxiv] Surface codes: Towards practical large-scale quantum computation (PDF)](https://arxiv.org/pdf/1208.0928.pdf)
+  * [ ] [[Nature] Suppressing quantum errors by scaling a surface code logical qubit](https://www.nature.com/articles/s41586-022-05434-1)
+  * [ ] [[StackExchange] What is the "surface code" in the context of quantum error correction?](https://quantumcomputing.stackexchange.com/questions/2106/what-is-the-surface-code-in-the-context-of-quantum-error-correction)
 
 ## Quantum Hardware
 
@@ -184,6 +192,8 @@
 * [Quantum sense channel](https://www.youtube.com/@quantumsensechannel)
 * [Cambridge Quantum Channel](https://www.youtube.com/@CambridgeQuantumComputing)
 * [Quantiki](https://www.quantiki.org/)
+* [QuTube](https://www.qutube.nl/)
+* [Error Correction Zoo](https://errorcorrectionzoo.org/)
 
 ## courses
 
