@@ -43,8 +43,8 @@
     * [ ] [[khan Academy] eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
     * [X] [[Wikipedia] Linear Span](https://en.wikipedia.org/wiki/Linear_span)
     * [X] [[mbernste] Linear independence](https://mbernste.github.io/posts/linear_independence/)
-    * [ ] [[StackExchange] The definition of a vector space: closure under scalar multiplication](https://math.stackexchange.com/questions/1369482/the-definition-of-a-vector-space-closure-under-scalar-multiplication)
-    * [ ] [[Johns Hopkins] subspace (PDF)](https://math.jhu.edu/~nitu/subspace.pdf)
+    * [X] [[StackExchange] The definition of a vector space: closure under scalar multiplication](https://math.stackexchange.com/questions/1369482/the-definition-of-a-vector-space-closure-under-scalar-multiplication)
+    * [X] [[Johns Hopkins] subspace (PDF)](https://math.jhu.edu/~nitu/subspace.pdf)
 
     * Spaces
       * [X] [[Medium] What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
