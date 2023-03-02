@@ -10,6 +10,9 @@ pylatexenc = "*"
 jupyterlab = "*"
 pillow = "*"
 seaborn = "*"
+python-dotenv = "*"
+qiskit-ibm-provider = "*"
+jldracula = "*"
 
 [dev-packages]
 
