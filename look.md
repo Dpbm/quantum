@@ -166,7 +166,9 @@
 * [Staq](https://github.com/softwareQinc/staq)
 * [OpenQL](https://github.com/QuTech-Delft/OpenQL)
 * [PyZX](https://github.com/Quantomatic/pyzx)
-
+* [Mitiq](https://github.com/unitaryfund/mitiq)
+* [Braket](https://github.com/aws/amazon-braket-sdk-python)
+* [PennyLane](https://github.com/PennyLaneAI/pennylane)
 
 ## knowledge base
 
