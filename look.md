@@ -45,6 +45,7 @@
     * [X] [[mbernste] Linear independence](https://mbernste.github.io/posts/linear_independence/)
     * [X] [[StackExchange] The definition of a vector space: closure under scalar multiplication](https://math.stackexchange.com/questions/1369482/the-definition-of-a-vector-space-closure-under-scalar-multiplication)
     * [X] [[Johns Hopkins] subspace (PDF)](https://math.jhu.edu/~nitu/subspace.pdf)
+    * [X] [[Emory] Vector spaces](https://math.emory.edu/~lchen41/teaching/2020_Fall/Chapter_6.pdf)
 
     * Spaces
       * [X] [[Medium] What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
