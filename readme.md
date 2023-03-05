@@ -41,6 +41,9 @@ All the code that I've made using Q#
 ### [mechanics/](./mechanics/)
 Some notes about quantum mechanics
 
+### [chatgpt/](./chatgpt/)
+Some conversation that I had with chatgpt
+
 ### Images
 The image files represent some equations, thoughts and screenshots
 

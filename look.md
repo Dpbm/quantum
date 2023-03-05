@@ -35,6 +35,7 @@
 * [ ] [Euler Formula (wikipedia)](https://en.wikipedia.org/wiki/Euler%27s_formula)
 * [ ] [linear algebra for quantum computing](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
 * [X] [mod (wikipedia)](https://en.wikipedia.org/wiki/Modulo)
+* [ ] [[Wikipedia] Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere)
 
   <br />
 
@@ -134,6 +135,9 @@
 * [ ] [staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
 * [ ] [Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
 
+* Linear Algebra
+  * [ ] [[The Singularity Research] Linear Algebra For Quantum Computing](https://the-singularity-research.github.io/linear_algebra_for_quantum_computing/)
+
 * Surface Code
   * [ ] [[QuTube] Surface codes](https://www.qutube.nl/quantum-computer-12/surface-codes)
   * [ ] [[Error Correction Zoo] Kitaev surface code](https://errorcorrectionzoo.org/c/surface)
@@ -170,6 +174,7 @@
 * [Mitiq](https://github.com/unitaryfund/mitiq)
 * [Braket](https://github.com/aws/amazon-braket-sdk-python)
 * [PennyLane](https://github.com/PennyLaneAI/pennylane)
+* [Quantikz](https://github.com/Krastanov/Quantikz.jl)
 
 ## knowledge base
 
