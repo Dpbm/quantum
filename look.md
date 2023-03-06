@@ -84,7 +84,7 @@
         * [X] [[Quora] What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
         * [X] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
         * [X] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
-      
+        * [X] [[Tutorials Point] dot product numpy](https://www.tutorialspoint.com/numpy/numpy_dot.htm)      
   <br />
 
   * Complex Numbers    
@@ -134,6 +134,8 @@
 * [ ] [t|ket〉: A Retargetable Compiler for NISQ Devices (PDF)](https://arxiv.org/pdf/2003.10611.pdf)
 * [ ] [staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
 * [ ] [Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
+
+* [ ] [[Arxiv] Search by Lackadaisical Quantum Walk with Symmetry Breaking(PDF)](https://arxiv.org/pdf/2108.13856.pdf)
 
 * Linear Algebra
   * [ ] [[The Singularity Research] Linear Algebra For Quantum Computing](https://the-singularity-research.github.io/linear_algebra_for_quantum_computing/)
@@ -204,6 +206,7 @@
 * [Quantiki](https://www.quantiki.org/)
 * [QuTube](https://www.qutube.nl/)
 * [Error Correction Zoo](https://errorcorrectionzoo.org/)
+* [Thomas Wong website](https://www.thomaswong.net/)
 
 ## courses
 
@@ -224,6 +227,9 @@
 
 * [7 Quantum Computing Books to Read in 2022 [Ranked & Reviewed]](https://thequantuminsider.com/2020/05/15/7-quantum-computing-books-for-the-uninitiated/)
 
+* [[MITpress] 
+Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
+* [[Thomas Wong] Introduction to Classical and Quantum Computing(PDF) (1-3 chapter)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 
 ## companies
 
