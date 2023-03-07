@@ -177,6 +177,10 @@
 * [Braket](https://github.com/aws/amazon-braket-sdk-python)
 * [PennyLane](https://github.com/PennyLaneAI/pennylane)
 * [Quantikz](https://github.com/Krastanov/Quantikz.jl)
+* [Classiq](https://www.classiq.io/)
+* [Quantum Inspire](https://www.quantum-inspire.com/)
+* [Quantum elixir](https://github.com/quantum-elixir/quantum-core)
+* [QuTIP](https://github.com/qutip/qutip)
 
 ## knowledge base
 
@@ -207,6 +211,7 @@
 * [QuTube](https://www.qutube.nl/)
 * [Error Correction Zoo](https://errorcorrectionzoo.org/)
 * [Thomas Wong website](https://www.thomaswong.net/)
+* [[Github] Awesome quantum machinbe learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 
 ## courses
 
@@ -229,10 +234,15 @@
 
 * [[MITpress] 
 Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
-* [[Thomas Wong] Introduction to Classical and Quantum Computing(PDF) (1-3 chapter)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
+* [ ] [[Thomas Wong] Introduction to Classical and Quantum Computing(PDF)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 
 ## companies
 
 * [DWave](https://www.dwavesys.com/)
 * [qutech](https://qutech.nl)
 * [Onnes Technologies](https://onnestechnologies.com/)
+* [QuIC](https://www.euroquic.org/)
+* [qt-EU](https://qt.eu/)
+* [QuEra](https://www.quera.com/)
+* [pasqal](https://www.pasqal.com/)
+* [Forschungszentrum Jülich Quantum](https://juelich-quantum.de/en/)
