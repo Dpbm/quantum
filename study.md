@@ -5,7 +5,9 @@
 * [X] complex numbers
 * [X] Hilbert space
 * [ ] linear algebra
+* [ ] Vector triple product expansion
 * [ ] representation theory
+
 
 ## Quantum mechanics
 

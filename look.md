@@ -27,7 +27,7 @@
 * [X] [conjugate transpose matrix (wikipedia)](https://en.wikipedia.org/wiki/Conjugate_transpose)
 * [X] [unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html)
 * [X] [matriz conjugada (es)](https://youtu.be/w4SYkLpytSs)
-* [ ] [kronecker product](https://mathworld.wolfram.com/KroneckerProduct.html)
+* [X] [[Wolfram] kronecker product](https://mathworld.wolfram.com/KroneckerProduct.html)
 * [X] [complex, hermitian and unitary matrices](https://youtu.be/DUuTx2nbizM)
 * [X] [vector math](https://mathinsight.org/vector_introduction)
 * [X] [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
@@ -85,6 +85,7 @@
         * [X] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
         * [X] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
         * [X] [[Tutorials Point] dot product numpy](https://www.tutorialspoint.com/numpy/numpy_dot.htm)      
+        * [X] [[Wolfram] dot product](https://mathworld.wolfram.com/DotProduct.html)
   <br />
 
   * Complex Numbers    

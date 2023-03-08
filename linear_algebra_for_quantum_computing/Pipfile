@@ -9,6 +9,7 @@ qiskit = "*"
 setuptools = "*"
 jupyterlab = "*"
 jldracula = "*"
+pennylane = "*"
 
 [dev-packages]
 
