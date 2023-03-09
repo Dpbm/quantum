@@ -2,39 +2,39 @@
 
 ## Quantum mechanics
 
-* [X] [quantum mechanics](https://www.khanacademy.org/science/physics/quantum-physics)
-* [ ] [feynmanlectures](https://www.feynmanlectures.caltech.edu/)
-* [ ] [Quantum Physics - nptelhrd](https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC)
-* [ ] [Schrodinger Equation](https://youtu.be/QeUMFo8sODk)
-* [ ] [understanding quantum mechanics](https://www.youtube.com/playlist?list=PLwgQsqtH9H5djIfFhXE6We207beTgUnyL)
-* [ ] [Schrodinger Equation MIT](https://youtu.be/Qg7pQ_CYaIQ)
-* [ ] [Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
-* [ ] [Dirac notation](https://youtu.be/pBh7Xqbh5JQ?list=PLxc2wejhRrscCFNjLrIAb7K3jEm3PVgrC)
-* [ ] [Spin](https://youtu.be/cd2Ua9dKEl8)
-* [X] [Why quantum mechanics use complex numbers - Quora](https://www.quora.com/Why-does-quantum-mechanics-use-complex-numbers-rather-than-real-numbers)
-* [X] [Spin experiment](https://upload.wikimedia.org/wikipedia/commons/9/9e/Quantum_spin_and_the_Stern-Gerlach_experiment.ogv)
+* [X] [[Khan Academy] quantum mechanics](https://www.khanacademy.org/science/physics/quantum-physics)
+* [ ] [[Caltech] feynmanlectures](https://www.feynmanlectures.caltech.edu/)
+* [ ] [[YouTube] Quantum Physics - nptelhrd (playlist)](https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC)
+* [ ] [[YouTube] Schrodinger Equation](https://youtu.be/QeUMFo8sODk)
+* [ ] [[YouTube] understanding quantum mechanics (playlist)](https://www.youtube.com/playlist?list=PLwgQsqtH9H5djIfFhXE6We207beTgUnyL)
+* [ ] [[YouTube] Schrodinger Equation MIT](https://youtu.be/Qg7pQ_CYaIQ)
+* [ ] [[Britannica] Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
+* [ ] [[YouTube] Dirac notation (playlist)](https://youtu.be/pBh7Xqbh5JQ?list=PLxc2wejhRrscCFNjLrIAb7K3jEm3PVgrC)
+* [ ] [[YouTube] Spin](https://youtu.be/cd2Ua9dKEl8)
+* [X] [[Quora] Why quantum mechanics use complex numbers](https://www.quora.com/Why-does-quantum-mechanics-use-complex-numbers-rather-than-real-numbers)
+* [X] [[Wikimedia] Spin experiment (OGV)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Quantum_spin_and_the_Stern-Gerlach_experiment.ogv)
 * [ ] [Road map quantum physics - Domain of science](https://youtu.be/gAFAj3pzvAA)
 
 ## Chemistry
 
-* [X] [Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
-* [ ] [Orbitals](https://www.chem.fsu.edu/chemlab/chm1046course/orbitals.html)
+* [X] [[Florida State University] Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
+* [X] [[Florida State University] Orbitals](https://www.chem.fsu.edu/chemlab/chm1046course/orbitals.html)
 
 
 ## Math
 
-* [ ] [math quantum computing](https://towardsdatascience.com/explaining-the-math-of-a-quantum-circuit-for-the-non-mathematician-79abf345c508)
-* [X] [conjugate transpose matrix (wikipedia)](https://en.wikipedia.org/wiki/Conjugate_transpose)
-* [X] [unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html)
-* [X] [matriz conjugada (es)](https://youtu.be/w4SYkLpytSs)
+* [ ] [[TowardsDataScience] Math quantum computing](https://towardsdatascience.com/explaining-the-math-of-a-quantum-circuit-for-the-non-mathematician-79abf345c508)
+* [X] [[Wikipedia] Conjugate transpose matrix](https://en.wikipedia.org/wiki/Conjugate_transpose)
+* [X] [[Wolfram] unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html)
+* [X] [[YouTube] matriz conjugada (es)](https://youtu.be/w4SYkLpytSs)
 * [X] [[Wolfram] kronecker product](https://mathworld.wolfram.com/KroneckerProduct.html)
-* [X] [complex, hermitian and unitary matrices](https://youtu.be/DUuTx2nbizM)
-* [X] [vector math](https://mathinsight.org/vector_introduction)
-* [X] [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
-* [X] [addition and subtraction of vectors](https://youtu.be/VFRW0f0XUU8)
-* [ ] [Euler Formula (wikipedia)](https://en.wikipedia.org/wiki/Euler%27s_formula)
-* [ ] [linear algebra for quantum computing](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
-* [X] [mod (wikipedia)](https://en.wikipedia.org/wiki/Modulo)
+* [X] [[YouTube] complex, hermitian and unitary matrices](https://youtu.be/DUuTx2nbizM)
+* [X] [[Math Insight] vector math](https://mathinsight.org/vector_introduction)
+* [X] [[Khan Academy] vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
+* [X] [[YouTube] addition and subtraction of vectors](https://youtu.be/VFRW0f0XUU8)
+* [ ] [[Wikipedia] Euler Formula](https://en.wikipedia.org/wiki/Euler%27s_formula)
+* [ ] [[Cern] linear algebra for quantum computing](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
+* [X] [[Wikipedia] mod](https://en.wikipedia.org/wiki/Modulo)
 * [ ] [[Wikipedia] Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere)
 
   <br />
@@ -117,7 +117,7 @@
 * [ ] [qiskit visualization methods](https://qiskit.org/documentation/apidoc/visualization.html)
 * [ ] [understanding bloch sphere](https://physics.stackexchange.com/questions/204090/understanding-the-bloch-sphere)
 * [ ] [Bloch sphere](https://leimao.github.io/blog/Qubit-Bloch-Sphere/)
-* [X] [Bloch Sphere (wikipedia)](https://en.wikipedia.org/wiki/File:Bloch_sphere.svg)
+* [X] [[Wikipedia] Bloch Sphere (SVG)](https://en.wikipedia.org/wiki/File:Bloch_sphere.svg)
 * [ ] [How to start in quantum computing](https://www.nature.com/articles/d41586-021-00533-x)
 * [X] [CHSH game](https://youtu.be/q6kmvU9LsIg)
 * [X] [Gamification of Bell's Theorem](https://youtu.be/v7jctqKsUMA)
