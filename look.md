@@ -148,6 +148,9 @@
   * [ ] [[Nature] Suppressing quantum errors by scaling a surface code logical qubit](https://www.nature.com/articles/s41586-022-05434-1)
   * [ ] [[StackExchange] What is the "surface code" in the context of quantum error correction?](https://quantumcomputing.stackexchange.com/questions/2106/what-is-the-surface-code-in-the-context-of-quantum-error-correction)
 
+* Measurements
+  * [X] [[StackExchange] Spin state after measurement on x-direction](https://physics.stackexchange.com/questions/327177/spin-state-after-measurement-on-x-direction) 
+
 ## Quantum Hardware
 
 * [X] [Underdog technologies gain ground in quantum-computing race - Nature](https://www.nature.com/articles/d41586-023-00278-9)
@@ -231,7 +234,7 @@
 
 ## books
 
-* [7 Quantum Computing Books to Read in 2022 [Ranked & Reviewed]](https://thequantuminsider.com/2020/05/15/7-quantum-computing-books-for-the-uninitiated/)
+* [[The Quantum Insider] 7 Quantum Computing Books to Read in 2022 [Ranked & Reviewed]](https://thequantuminsider.com/2020/05/15/7-quantum-computing-books-for-the-uninitiated/)
 
 * [[MITpress] 
 Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
