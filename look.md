@@ -151,6 +151,15 @@
 * Measurements
   * [X] [[StackExchange] Spin state after measurement on x-direction](https://physics.stackexchange.com/questions/327177/spin-state-after-measurement-on-x-direction) 
 
+* QAOA
+  * [ ] [[Arxiv] Quantum Approximate Optimization Algorithm: Performance, Mechanism, and
+Implementation on Near-Term Devices (PDF)](https://arxiv.org/pdf/1812.01041.pdf)
+  * [ ] [[Qiskit] Solving combinatorial optimization problems using QAOA](https://qiskit.org/textbook/ch-applications/qaoa.html)
+  * [ ] [[Arxiv] A Structured Method for Compiling and Optimizing QAOA
+Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
+  * [ ] [[PennyLane] Intro to QAOA](https://pennylane.ai/qml/demos/tutorial_qaoa_intro.html)
+  * [ ] [[OSTI] Quantum Approximate Optimization Algorithm (QAOA) on Constrained Optimization Problems](https://www.osti.gov/servlets/purl/1598932) 
+
 ## Quantum Hardware
 
 * [X] [Underdog technologies gain ground in quantum-computing race - Nature](https://www.nature.com/articles/d41586-023-00278-9)
@@ -216,6 +225,7 @@
 * [Error Correction Zoo](https://errorcorrectionzoo.org/)
 * [Thomas Wong website](https://www.thomaswong.net/)
 * [[Github] Awesome quantum machinbe learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
+* [[OSTI] U.S. Department of Energy Office of Scientific and Technical Information](https://www.osti.gov/)
 
 ## courses
 
@@ -240,7 +250,7 @@
 Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
 * [ ] [[Thomas Wong] Introduction to Classical and Quantum Computing(PDF)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 
-## companies
+## companies and initiatives
 
 * [DWave](https://www.dwavesys.com/)
 * [qutech](https://qutech.nl)
@@ -250,3 +260,8 @@ Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://
 * [QuEra](https://www.quera.com/)
 * [pasqal](https://www.pasqal.com/)
 * [Forschungszentrum Jülich Quantum](https://juelich-quantum.de/en/)
+* [Quantum Motion](https://quantummotion.tech/)
+* [Oxford Ionics](https://www.oxionics.com/)
+* [SandboxAQ](https://www.sandboxaq.com/)
+* [IONQ](https://ionq.com/)
+* [CQUIC](https://cquic.unm.edu/)
