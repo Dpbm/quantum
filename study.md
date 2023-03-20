@@ -31,9 +31,16 @@
 
 ## Quantum Computing
 
+* [ ] Photonic quantum computing / quantum computing based on photons
+* [ ] Trapped ions
+* [ ] Cold Atoms
+* [ ] Nuclear Magnetic Resonance
+* [ ] Quantum Dots
+* [ ] Defect Qubits
+* [ ] quantum computing Superconductors
+* [ ] Josephson junction
 * [ ] LHZ architecture
-* [ ] suface code
-* [ ] 
+* [ ] surface code
 * [ ] NV qubits
 * [ ] LNN architecture
 * [ ] P, T, T dagger and S gates

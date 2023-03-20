@@ -135,7 +135,6 @@
 * [ ] [t|ket〉: A Retargetable Compiler for NISQ Devices (PDF)](https://arxiv.org/pdf/2003.10611.pdf)
 * [ ] [staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
 * [ ] [Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
-
 * [ ] [[Arxiv] Search by Lackadaisical Quantum Walk with Symmetry Breaking(PDF)](https://arxiv.org/pdf/2108.13856.pdf)
 
 * Linear Algebra
@@ -164,6 +163,32 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 
 * [X] [Underdog technologies gain ground in quantum-computing race - Nature](https://www.nature.com/articles/d41586-023-00278-9)
 * [X] [ibmqx4 characteristics](https://github.com/Qiskit/ibmq-device-information/tree/master/backends/tenerife/V1)
+
+* Qubit
+  * [ ] [[Wikipedia] Qubit](https://en.wikipedia.org/wiki/Qubit)
+  
+  *  Photonic
+    * [ ] [[IEEE] Photonic Quantum Computer Claims Speedup “Advantage”](https://spectrum.ieee.org/photonic-quantum-computing)
+    * [ ] [[PennyLane] Tutorial Photonics](https://pennylane.ai/qml/demos/tutorial_photonics.html)
+    * [ ] [[The Quantum Insider] 6 Companies Working With Photonic Quantum Computing Technology in 2022](https://thequantuminsider.com/2022/03/24/6-quantum-computing-companies-working-with-photonic-technology/)
+    * [ ] [[Wikipedia] Linear optical quantum computing](https://en.wikipedia.org/wiki/Linear_optical_quantum_computing)
+    * [ ] [[Nature] Quantum computational advantage with a programmable photonic processor (PDF)](https://www.nature.com/articles/s41586-022-04725-x)
+    * [ ] [[Stanford] Stanford engineers propose a simpler design for quantum computers](https://news.stanford.edu/2021/11/29/simpler-design-quantum-computers/)
+    * [ ] [[MIT] Quantum computing with light](https://news.mit.edu/2011/quantum-light-0909)
+  
+  * Trapped ions
+    * [ ] [[Wikipedia] Trapped ion quantum computer](https://en.wikipedia.org/wiki/Trapped_ion_quantum_computer)
+    * [ ] [[PennyLane] Tutorial Trapped Ions](https://pennylane.ai/qml/demos/tutorial_trapped_ions.html)
+    * [ ] [[Arxiv] Quantum computing with trapped ions(PDF)](https://arxiv.org/pdf/0809.4368.pdf)
+    * [ ] [[The Quantum Insider] 6 Best Trapped Ion Quantum Computing Companies [2022]](https://thequantuminsider.com/2022/02/19/6-quantum-computing-companies-working-with-trapped-ions/)
+    * [ ] [[Oxford] Ion trap quantum computing research group](https://www.physics.ox.ac.uk/research/group/ion-trap-quantum-computing)
+    * [ ] [[Virginia] Quantum Computing with Ions (PDF)](https://www.cs.virginia.edu/~robins/Quantum_Computing_with_Ions.pdf)
+  
+  * Cold Atoms
+    * [ ] [[Open University] Cold atoms for Quantum Technology](https://www.open.ac.uk/science/physical-science/research/physics/cold-atoms-quantum-technology)
+    * [ ] [[The Quantum Insider] 4 Companies Working With Neutral (Cold) Atom Quantum Computing](https://thequantuminsider.com/2022/02/22/4-quantum-computing-companies-working-with-cold-neutral-atoms/)
+    * [ ] [[The Next Platform] ColdQuanta Uses Cold Atoms To Build A Quantum Computing](https://www.nextplatform.com/2021/07/16/coldquanta-uses-cold-atoms-to-build-a-quantum-computing/)
+  
 
 ## tools
 
@@ -226,6 +251,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [Thomas Wong website](https://www.thomaswong.net/)
 * [[Github] Awesome quantum machinbe learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [[OSTI] U.S. Department of Energy Office of Scientific and Technical Information](https://www.osti.gov/)
+* [Qubit Zoo](https://www.qubitzoo.com/)
 
 ## courses
 
@@ -265,3 +291,5 @@ Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://
 * [SandboxAQ](https://www.sandboxaq.com/)
 * [IONQ](https://ionq.com/)
 * [CQUIC](https://cquic.unm.edu/)
+
+* [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
