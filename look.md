@@ -221,6 +221,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [Quantum elixir](https://github.com/quantum-elixir/quantum-core)
 * [QuTIP](https://github.com/qutip/qutip)
 * [Nvidia cuQuantum](https://developer.nvidia.com/cuquantum-sdk)
+* [Quirk](https://algassert.com/quirk)
 
 ## knowledge base
 
