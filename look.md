@@ -163,6 +163,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 
 * [X] [Underdog technologies gain ground in quantum-computing race - Nature](https://www.nature.com/articles/d41586-023-00278-9)
 * [X] [ibmqx4 characteristics](https://github.com/Qiskit/ibmq-device-information/tree/master/backends/tenerife/V1)
+* [ ] [[Nvidia] NVIDIA Announces New System for Accelerated Quantum-Classical Computing](https://nvidianews.nvidia.com/news/nvidia-announces-new-system-for-accelerated-quantum-classical-computing)
 
 * Qubit
   * [ ] [[Wikipedia] Qubit](https://en.wikipedia.org/wiki/Qubit)
@@ -219,6 +220,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [Quantum Inspire](https://www.quantum-inspire.com/)
 * [Quantum elixir](https://github.com/quantum-elixir/quantum-core)
 * [QuTIP](https://github.com/qutip/qutip)
+* [Nvidia cuQuantum](https://developer.nvidia.com/cuquantum-sdk)
 
 ## knowledge base
 
@@ -291,5 +293,8 @@ Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://
 * [SandboxAQ](https://www.sandboxaq.com/)
 * [IONQ](https://ionq.com/)
 * [CQUIC](https://cquic.unm.edu/)
+* [Quantum Machines](https://www.quantum-machines.co/)
+* [Agnostiq](https://agnostiq.ai/)
+* [QmWare](https://qm-ware.com)
 
 * [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
