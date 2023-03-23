@@ -44,6 +44,9 @@ Some notes about quantum mechanics
 ### [chatgpt/](./chatgpt/)
 Some conversation that I had with chatgpt
 
+### [ultils.md](./utils.md)
+Some useful notes and formulas
+
 ### Images
 The image files represent some equations, thoughts and screenshots
 
