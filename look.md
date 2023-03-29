@@ -301,3 +301,8 @@ Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://
 * [QmWare](https://qm-ware.com)
 
 * [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
+
+## games
+
+* [Entanglion](https://entanglion.github.io/)
+
