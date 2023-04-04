@@ -224,6 +224,9 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [Quirk](https://algassert.com/quirk)
 * [Mathematica](https://www.wolfram.com/mathematica/)
 * [SageMath](https://www.sagemath.org/)
+* [PyMatching](https://github.com/oscarhiggott/PyMatching)
+* [Google Stim](https://github.com/quantumlib/Stim)
+
 
 ## knowledge base
 
