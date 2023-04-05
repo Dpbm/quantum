@@ -13,3 +13,6 @@ class Operations:
 
     def square_root(self, number):
         return self.operator.sqrt(number)
+
+    def tensor_product(self, first_vector, second_vector):
+        return self.operator.kron(first_vector, second_vector)

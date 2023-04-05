@@ -1,6 +1,7 @@
 from quantum.operations import Operations
 from quantum.basis import zero as zero_basis
 from quantum.errors import Errors
+from quantum.patterns import little_endian
 
 operations = Operations()
 errors = Errors()
@@ -8,11 +9,12 @@ errors = Errors()
 
 
 class Circuit:
-    def __init__(self, total_of_qubits):
+    def __init__(self, total_of_qubits, sequene_pattern=little_endian):
         if(not self.valid_total_of_qubits(total_of_qubits)):
             errors.invalid_total_of_qubits()
 
         self.total_of_qubits = total_of_qubits
+        self.qubits_sequence_pattern = sequene_pattern(total_of_qubits) 
         self.gates_sequence = self.initialize_gates_sequence()
         self.states = self.initialize_gates_states()
 
@@ -49,6 +51,22 @@ class Circuit:
 
     def get_states(self):
         return self.states
+    
+    def get_qubit_states_list(self):
+        final_state = None
+        
+        for state_index in self.qubits_sequence_pattern:
+            qubit_state = self.states[state_index]
+            
+            if(final_state is None):
+                final_state = qubit_state
+                continue
+
+            final_state = operations.tensor_product(final_state, qubit_state)
+    
+        return final_state
+        
+
 
     def show_circuit(self):
         for qubit_gates_list in self.gates_sequence:
