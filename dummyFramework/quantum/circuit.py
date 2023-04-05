@@ -40,13 +40,15 @@ class Circuit:
     def qubit_exists(self, selected_qubit):
         return selected_qubit >= 0 and selected_qubit < self.total_of_qubits
 
-
     def apply_gate_vector_to_the_qubit(self, gate_vector, qubit):
         qubit_state = self.states[qubit]
         self.states[qubit] = operations.dot(gate_vector, qubit_state)
     
     def add_gate_symbol_to_the_list(self, gate_symbol, qubit):
         self.gates_sequence[qubit] += f" {gate_symbol}"
+
+    def get_states(self):
+        return self.states
 
     def show_circuit(self):
         for qubit_gates_list in self.gates_sequence:
