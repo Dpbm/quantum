@@ -31,6 +31,7 @@
 
 ## Quantum Computing
 
+* [ ] Mølmer-Sørensen (MS) gate
 * [ ] Photonic quantum computing / quantum computing based on photons
 * [ ] Trapped ions
 * [ ] Cold Atoms
