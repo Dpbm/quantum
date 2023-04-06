@@ -13,6 +13,7 @@ seaborn = "*"
 python-dotenv = "*"
 qiskit-ibm-provider = "*"
 jldracula = "*"
+numpy = "*"
 
 [dev-packages]
 
