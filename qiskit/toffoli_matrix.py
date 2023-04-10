@@ -37,33 +37,60 @@ I = np.matrix([
     [0, 1]
 ])
 
-def three(a, b, c):
+def thre(a, b, c):
     return np.kron(np.kron(a, b),c)
 
-H_I_I = three(I, I, H)
-CNOT_I = np.kron(CNOT, I)
-T_dagger_I_I = three(I, I, T_dagger)
-T_I_I = three(I, I, T)
-T_T_dagger_I = three(I, T_dagger, T)
-CNOT_H = np.kron(CNOT, H)
-I_T_dagger_I = three(I, T_dagger, I)
-T_S_I = three(T, S, I)
+def cnot_top():
+    return np.matrix([
+        [1, 0, 0, 0, 0, 0, 0, 0],
+        [0, 1, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 1, 0, 0, 0, 0],
+        [0, 0, 1, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 1, 0, 0, 0],
+        [0, 0, 0, 0, 0, 1, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 1],
+        [0, 0, 0, 0, 0, 0, 1, 0],
+        ])
+
+def cnot_bound(): 
+    return np.matrix([
+        [1, 0, 0, 0, 0, 0, 0, 0],
+        [0, 1, 0, 0, 0, 0, 0, 0],
+        [0, 0, 1, 0, 0, 0, 0, 0],
+        [0, 0, 0, 1, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 1, 0, 0],
+        [0, 0, 0, 0, 1, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 1],
+        [0, 0, 0, 0, 0, 0, 1, 0],
+        ])
+
+def cnot_bottom():
+    return np.matrix([
+        [1, 0, 0, 0, 0, 0, 0, 0],
+        [0, 1, 0, 0, 0, 0, 0, 0],
+        [0, 0, 1, 0, 0, 0, 0, 0],
+        [0, 0, 0, 1, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 1, 0],
+        [0, 0, 0, 0, 0, 0, 0, 1],
+        [0, 0, 0, 0, 1, 0, 0, 0],
+        [0, 0, 0, 0, 0, 1, 0, 0],
+        ])
 
 
 
-result = np.dot(H_I_I, CNOT_I)
-result = np.dot(T_dagger_I_I, result)
-result = np.dot(CNOT_I, result)
-result = np.dot(T_I_I, result)
-result = np.dot(CNOT_I, result)
-result = np.dot(T_dagger_I_I, result)
-result = np.dot(CNOT_I, result)
-result = np.dot(T_T_dagger_I, result)
-result = np.dot(CNOT_H, result)
-result = np.dot(I_T_dagger_I, result)
-result = np.dot(CNOT_I, result)
-result = np.dot(T_S_I, result)
-
+result = np.dot(thre(I, I, H), cnot_top())
+result = np.dot(thre(I, I, T_dagger), result)
+result = np.dot(cnot_bound(), result)
+result = np.dot(thre(I, I, T), result)
+result = np.dot(cnot_top(), result)
+result = np.dot(thre(I, I, T_dagger), result)
+result = np.dot(cnot_bound(), result)
+result = np.dot(thre(I, T_dagger, I), result)
+result = np.dot(thre(I, I, T), result)
+result = np.dot(thre(I, I, H), result)
+result = np.dot(cnot_bottom(), result)
+result = np.dot(thre(I, S, I), result)
+result = np.dot(thre(T, I, I), result)
 
 print(result)
 
