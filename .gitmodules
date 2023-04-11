@@ -1,0 +1,3 @@
+[submodule "quantum-oracles"]
+	path = quantum-oracles
+	url = https://github.com/Dpbm/quantum-oracles
