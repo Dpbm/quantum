@@ -26,6 +26,9 @@ $\sqrt{e^{iπ}} = i = e^{iπ \over 2} = e^{iπ \over 6}$\
 $e^{i2π} = 1$\
 $e^{i3π \over 2} = -i$
 
+$sin(u ± v) = sin(u)cos(v)±cos(u)sin(v)$\
+$cos(u ± v) = cos(u)cos(v)sin(u)sin(v)$
+
 ## linear algebra and dirac notation
 
 $\begin{bmatrix}
@@ -68,6 +71,8 @@ $⟨ψ| =
 α^*⟨0| + β^*⟨1|$\
 it's called bra 
 
+## Inner product
+
 $⟨ψ|Φ⟩ = 
 \begin{bmatrix}
     α^* 
@@ -94,12 +99,46 @@ $⟨ψ|ψ⟩ =
 \end{bmatrix} =
 |α^2| + |β^2| = 1
 $\
+$⟨Uψ|Uψ⟩ = ⟨ψ|U^{\dagger}U|ψ⟩ = ⟨ψ|ψ⟩ = 1 $\
 if the result of $⟨ψ|ψ⟩$ is $1$ so the state is normalized
 
+$⟨+|-⟩ = ⟨0|1⟩ = ⟨i|-i⟩ = 0$\
+if the result is 0, so these states are orthogonal
 
+if you test the states and they are normalized and orthogonal, so you have a orthonormal basis
 
+$|ψ⟩ = ⟨0|ψ⟩|0⟩ + ⟨1|ψ⟩|1⟩$
 
+$|ψ⟩ = α|a⟩ + β|b⟩$\
+$α = ⟨a|ψ⟩$\
+$β = ⟨b|ψ⟩$\
+$⟨a|ψ⟩$ is a projection of |ψ⟩ on |a⟩
 
+$(AB)^{\dagger} = A^{\dagger}B^{\dagger}$\
+$|ψ⟩^{\dagger} = ⟨ψ|$\
+$⟨Uψ| = (|Uψ⟩)^{\dagger} = U^{\dagger}|ψ⟩^{\dagger} = ⟨ψ|U^{\dagger}$
+
+$U^{\dagger}U = I$\
+If a matrix $U$ times $U^{\dagger}$ result in $I$, so it's a unitary matrix
+
+$M^{-1}M = I$\
+$U^{-1} = U^{\dagger}$
+
+## Outer Product
+
+$|ψ⟩⟨Φ| = 
+\begin{bmatrix}
+    α\\
+    β
+\end{bmatrix}
+\begin{bmatrix}
+    γ^*
+    δ^*
+\end{bmatrix} = 
+\begin{bmatrix}
+    αγ^* \space αδ^*\\
+    βγ^* \space βδ^*
+\end{bmatrix}$
 
 ## Normalization constant (A) calculation
 
@@ -161,11 +200,15 @@ also $|n _{x}|^2 + |n _{y}|^2 +|n _{z}|^2 = 1$
 
 ## Gates
 
+A gate, need to be always unitary and reversible
+
 $X^{100} = I$\
 $X^{101} = X$
 
 $X|0⟩ = |1⟩$\
 $X|1⟩ = |0⟩$
+
+$XY = iZ$
 
 $Y|0⟩ = i|1⟩$\
 $Y|1⟩ = -i|0⟩$\
@@ -197,4 +240,48 @@ Where $γ$ is the global phase
 
 $αU|0⟩ + βU|1⟩ = U(α|0⟩ + β|1⟩) = αe^{iγ}[cos({θ \over 2})I - isin({θ \over 2})(n _{x}X + n _{y}Y + n _{z}Z)]|0⟩ + βe^{iγ}[cos({θ \over 2})I - isin({θ \over 2})(n _{x}X + n _{y}Y + n _{z}Z)]|1⟩$
 
+$U|0⟩ = a|0⟩ + b|1⟩ = \begin{bmatrix}
+    a\\
+    b
+\end{bmatrix}$\
+$U|1⟩ = c|0⟩ + d|1⟩ = \begin{bmatrix}
+    c\\
+    d
+\end{bmatrix}$\
+$U = \begin{bmatrix}
+    a \space c \\
+    b \space d
+\end{bmatrix}$
 
+$U|ψ⟩ = \begin{bmatrix}
+    a \space c\\
+    b \space d
+\end{bmatrix} \begin{bmatrix}
+    α\\
+    β
+\end{bmatrix} = \begin{bmatrix}
+    aα + cβ\\
+    bα + dβ
+\end{bmatrix}$\
+$|aα + cβ|^2 + |bα + dβ|^2 = 1$
+
+$U|ψ⟩ = |Uψ⟩$\
+$⟨Uψ| = \begin{bmatrix}
+    a^*α^* + c^*β^* \space\space\space 
+    b^*α^* + d^*β^*\end{bmatrix} = 
+\begin{bmatrix}
+    α^*\space
+    β^*
+\end{bmatrix}
+\begin{bmatrix}
+    a^* \space c^*\\
+    b^* \space d^*
+\end{bmatrix} = 
+\begin{bmatrix}
+    α^*\space
+    β^*
+\end{bmatrix}
+\begin{bmatrix}
+    a \space c\\
+    b \space d
+\end{bmatrix}^{\dagger} = ⟨ψ|U^{\dagger}$
