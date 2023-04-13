@@ -140,6 +140,78 @@ $|ψ⟩⟨Φ| =
     βγ^* \space βδ^*
 \end{bmatrix}$
 
+$U = \begin{bmatrix}
+    0 \space 1 \\
+    1 \space 0
+\end{bmatrix}$\
+$U = 0|0⟩⟨0| + 1|0⟩⟨1| + 1|1⟩⟨0| + 0|1⟩⟨1| $\
+$U = |0⟩⟨1| + |1⟩⟨0| = X$
+
+$|a⟩⟨a| + |b⟩⟨b| = I$
+
+$|ψ⟩ = α|a⟩ + β|b⟩$\
+$|ψ⟩ = ⟨a|ψ⟩|a⟩ + ⟨b|ψ⟩|b⟩$\
+$|ψ⟩ = |ψ⟩|a⟩⟨a| + |ψ⟩|b⟩⟨b|$\
+$|ψ⟩ = (|a⟩⟨a| + |b⟩⟨b|)|ψ⟩$\
+$|ψ⟩ = I|ψ⟩$\
+If you can do this with an orthonormal basis, this is an complete orthonormal basis 
+
+## Tensor product (Kronecker product)
+
+$|0⟩ ⊗ |0⟩ = |00⟩$\
+$⟨0| ⊗ ⟨0| = ⟨00|$
+
+$c_{0}|00⟩ + c_{1}|01⟩ + c_{2}|10⟩ +  c_{3}|11⟩$\
+The probability of each state is $|c_{x}|^2$
+
+$|0⟩^{⊗n} = |0⟩ ⊗ |0⟩ ⊗\dots⊗|0⟩ = |0^{n}⟩$
+
+$⟨01|00⟩ = ⟨0|0⟩⟨1|0⟩$
+
+Kronecker product, it's the tensor product for linear algebra
+
+$
+\begin{bmatrix}
+    0\\
+    1
+\end{bmatrix}⊗
+\begin{bmatrix}
+    1\\
+    0
+\end{bmatrix} = 
+\begin{bmatrix}
+    0 \\
+    0 \\
+    1 \\
+    0
+\end{bmatrix}
+$
+
+$c_{0}|00⟩ + c_{1}|01⟩ + c_{2}|10⟩ +  c_{3}|11⟩ = \begin{bmatrix}
+    c_{0} \\
+    c_{1} \\
+    c_{2} \\
+    c_{3}
+\end{bmatrix}$
+
+$⟨00| = \begin{bmatrix}
+    1 \space
+    0
+\end{bmatrix} ⊗ \begin{bmatrix}
+    1 \space
+    0
+\end{bmatrix} = \begin{bmatrix}
+1 \space
+0 \space
+0 \space
+0
+\end{bmatrix}
+$
+
+$|ψ⟩ = \sum_{j=0}^{n-1} c_{j}|j⟩ = c_{0}|0⟩ + c_{1}|1⟩ + c_{2}|2⟩ + \dots + c_{n-1}|n-1⟩$\
+$⟨ψ| = \sum_{j=0}^{n-1} c_{j}⟨j| = c_{0}⟨0| + c_{1}⟨1| + c_{2}⟨2| + \dots + c_{n-1}⟨n-1|$\
+where $n$ is the number of qubits 
+
 ## Normalization constant (A) calculation
 
 $A(α|0⟩ + β|1⟩) = 1$\
@@ -148,8 +220,8 @@ $(Aα)(Aα)^* + (Aβ)(Aβ)^* = 1$
 ## Measurements
 
 Measurements in X\
-$|0⟩= {1 \over \sqrt{2}}(|+⟩ + |-⟩)$\
-$|1⟩= {1 \over \sqrt{2}}(|+⟩ - |-⟩)$
+$|0⟩ = {1 \over \sqrt{2}}(|+⟩ + |-⟩)$\
+$|1⟩ = {1 \over \sqrt{2}}(|+⟩ - |-⟩)$
 
 Measurements in Y\
 $|0⟩= {1 \over \sqrt{2}}(|i⟩ + |-i⟩)$\
@@ -162,6 +234,11 @@ $|0⟩ = α^*|a⟩ + β^*|b⟩$\
 $|1⟩ = γ^*|a⟩ + δ^*|b⟩$
 
 consecutive measurements in different basis the result is always 1/2 for both states
+
+${1 \over \sqrt{2}}|00⟩ + {1 \over 2}|01⟩ + {\sqrt{3} \over 4}|10⟩ + {1 \over 4}|11⟩$\
+The probability of $|x0⟩$ is $|{1 \over \sqrt{2}}|^2 + |{\sqrt{3} \over 4}|^2$\
+If we measured the first qubit(rightmost in little endian system) and the result is zero, so the state of the circuit is $A({1 \over \sqrt{2}}|00⟩ + {1 \over 2}|01⟩)$
+
 
 ## Phase
 
