@@ -212,6 +212,37 @@ $|ψ⟩ = \sum_{j=0}^{n-1} c_{j}|j⟩ = c_{0}|0⟩ + c_{1}|1⟩ + c_{2}|2⟩ + \
 $⟨ψ| = \sum_{j=0}^{n-1} c_{j}⟨j| = c_{0}⟨0| + c_{1}⟨1| + c_{2}⟨2| + \dots + c_{n-1}⟨n-1|$\
 where $n$ is the number of qubits 
 
+In a 3 qubits circuit, with the collapsed state for the last and middle qubits are both 0, the state will be
+$c_{0}|000⟩ + c_{1}|001⟩ \over \sqrt{|c_{0}|^2 + |c_{1}|^2}$
+
+$(H ⊗ I)(|0⟩⊗|0⟩) = H|0⟩ ⊗ I|0⟩$\
+$H^{⊗n} |0⟩^{⊗n} = H|0⟩ ⊗ I|0⟩$
+
+$(H ⊗ I)|00⟩ = {1 \over \sqrt2}(|00⟩ + |10⟩)$\
+$(H ⊗ I)|01⟩ = {1 \over \sqrt2}(|01⟩ + |11⟩)$\
+$(H ⊗ I)|10⟩ = {1 \over \sqrt2}(|00⟩ - |10⟩)$\
+$(H ⊗ I)|11⟩ = {1 \over \sqrt2}(|01⟩ - |11⟩)$
+
+$(H ⊗ X)|00⟩ = {1 \over \sqrt2}(|01⟩ + |11⟩)$
+
+$CNOT(I ⊗ X) = (I ⊗ X)CNOT$ this is represented in a circuit from right to left
+
+## Factoring states
+
+$|ψ_{0}⟩|ψ_{1}⟩ = (α_{0}|0⟩ + β_{0}|1⟩)(α_{1}|0⟩ + β_{1}|1⟩) = α_{0}α_{1}|00⟩ + α_{0}β_{1}|01⟩ + β_{0}α_{1}|10⟩ + β_{0}β_{1}|11⟩$
+
+## Entangled states
+
+An entangled state can't be factored. Because of that, for classical computers, it's difficult to map all the amplitudes, once in a entangled state you need to map all $2^n$ possible states, but with no entangled states you only need to map $2n$
+
+the $CNOT$ with the $H$ gate, can create a entangled state
+
+$CNOT|+⟩|0⟩ = {1\over\sqrt2}(|00⟩ + |11⟩) = |Φ^+⟩$\
+$CNOT|-⟩|0⟩ = {1\over\sqrt2}(|00⟩ - |11⟩) = |Φ^-⟩$\
+$CNOT|+⟩|1⟩ = {1\over\sqrt2}(|01⟩ + |10⟩) = |ψ^+⟩$\
+$CNOT|-⟩|1⟩ = {1\over\sqrt2}(|01⟩ - |10⟩) = |ψ^-⟩$\
+These are the bell states
+
 ## Normalization constant (A) calculation
 
 $A(α|0⟩ + β|1⟩) = 1$\
@@ -239,6 +270,8 @@ ${1 \over \sqrt{2}}|00⟩ + {1 \over 2}|01⟩ + {\sqrt{3} \over 4}|10⟩ + {1 \o
 The probability of $|x0⟩$ is $|{1 \over \sqrt{2}}|^2 + |{\sqrt{3} \over 4}|^2$\
 If we measured the first qubit(rightmost in little endian system) and the result is zero, so the state of the circuit is $A({1 \over \sqrt{2}}|00⟩ + {1 \over 2}|01⟩)$
 
+The states can also be measured sequentially
+$Prob(|00⟩) = Prob(|0⟩)Prob(|0⟩)$
 
 ## Phase
 
@@ -362,3 +395,49 @@ $⟨Uψ| = \begin{bmatrix}
     a \space c\\
     b \space d
 \end{bmatrix}^{\dagger} = ⟨ψ|U^{\dagger}$
+
+
+CNOT (CX) inverts the right qubit(target) if the left qubit(control) is 1\
+$CNOT(|10⟩) = |11⟩$\
+the control qubit is not changed because it has a XOR\
+$CNOT|a⟩|b⟩ = |a⟩|a ⊗ b⟩$\
+$CNOT(c_{0}|00⟩ + c_{1}|01⟩ + c_{2}|10⟩ + c_{3}|11⟩) = c_{0}|00⟩ + c_{1}|01⟩ + c_{2}|11⟩ + c_{3}|10⟩$ it inverts the $c_{2}$ with the $c_{3}$ amplitude\
+$CNOT = CNOT_{ij} = CNOT_{10}$ where $i$ is the control and $j$ the target\
+$(H ⊗ H) CNOT_{01} (H ⊗ H) = CNOT_{10}$ it inverts the control with the target
+
+$(X ⊗ I) CNOT (X ⊗ I)$ it is called $anti \space CNOT$
+
+Controlled U (CU), it applies U in the right qubit, when the left qubit is 1\
+$CU|00⟩ = |00⟩$\
+$CU|01⟩ = |01⟩$\
+$CU|10⟩ = |1⟩ ⊗ U|0⟩$\
+$CU|11⟩ = |1⟩ ⊗ U|1⟩$
+
+SWAP, the swap inverts two qubits positions, but differently from CNOT, it can't create entangled states\
+$SWAP|00⟩ = |00⟩$\
+$SWAP|01⟩ = |10⟩$\
+$SWAP|10⟩ = |01⟩$\
+$SWAP|11⟩ = |11⟩$\
+it also invert amplitudes
+$SWAP(c_{0}|00⟩ + c_{1}|01⟩ + c_{2}|10⟩ + c_{3}|11⟩) = c_{0}|00⟩ + c_{1}|10⟩ + c_{2}|01⟩ + c_{3}|11⟩$\
+$SWAP = CNOT \space CNOT_{01} \space CNOT$
+
+Toffoli gate (CCX), inverts the right qubit if the other two are 1\
+$Toffoli|111⟩ = |110⟩$\
+$Toffoli|110⟩ = |111⟩$
+
+
+## No cloning theorem
+
+An unknown quantum state can't be reproduced(replicated) if we don't know each amplitude\
+$|ψ⟩|0⟩ = |ψ⟩|ψ⟩$\
+$U|ψ⟩|0⟩ = |ψ⟩|ψ⟩$ there's no operator $U$ that can pass $|ψ⟩$ state to the right qubit, once the result is $|ψ⟩^2$ which isn't linear
+
+But for $(I ⊗ H)|+⟩|0⟩ = |+⟩|+⟩$ we can clone, $|+⟩$, once we know the amplitudes\
+Generally $U$ can only copy states that are orthogonal\
+$(I ⊗ H)|+⟩|0⟩ = |+⟩|+⟩$\
+$(x ⊗ H)|-⟩|0⟩ = |-⟩|-⟩$\
+$(I ⊗ I)|0⟩|0⟩ = |0⟩|0⟩$\
+$(I ⊗ X)|1⟩|0⟩ = |1⟩|1⟩$\
+$(I ⊗ Y)|i⟩|0⟩ = |i⟩|i⟩$\
+$(X ⊗ Y)|-i⟩|0⟩ = |-i⟩|-i⟩$
