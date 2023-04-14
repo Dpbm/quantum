@@ -310,7 +310,8 @@ also $|n _{x}|^2 + |n _{y}|^2 +|n _{z}|^2 = 1$
 
 ## Gates
 
-A gate, need to be always unitary and reversible
+A gate, need to be always unitary and reversible\
+The number of outputs of a gate needs to be the same of the inputs to be reversible and map all possible results
 
 $X^{100} = I$\
 $X^{101} = X$
