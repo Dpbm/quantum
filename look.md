@@ -226,7 +226,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [SageMath](https://www.sagemath.org/)
 * [PyMatching](https://github.com/oscarhiggott/PyMatching)
 * [Google Stim](https://github.com/quantumlib/Stim)
-
+* [Qiskit metal](https://qiskit.org/metal/)
 
 ## knowledge base
 
@@ -302,6 +302,9 @@ Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://
 * [Quantum Machines](https://www.quantum-machines.co/)
 * [Agnostiq](https://agnostiq.ai/)
 * [QmWare](https://qm-ware.com)
+* [Q-CTRL](https://q-ctrl.com/)
+* [BlueQubit](https://www.bluequbit.io/)
+
 
 * [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
