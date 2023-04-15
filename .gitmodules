@@ -1,3 +1,6 @@
 [submodule "quantum-oracles"]
 	path = quantum-oracles
 	url = https://github.com/Dpbm/quantum-oracles
+[submodule "qiskit-advocate-test"]
+	path = qiskit-advocate-test
+	url = https://github.com/Dpbm/qiskit-advocate-test
