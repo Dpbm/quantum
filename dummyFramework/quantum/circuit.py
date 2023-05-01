@@ -1,12 +1,10 @@
 from quantum.operations import Operations
-from quantum.basis import zero as zero_basis
+from quantum.basis import Zero
 from quantum.errors import Errors
 from quantum.patterns import little_endian
 
 operations = Operations()
 errors = Errors()
-
-
 
 class Circuit:
     def __init__(self, total_of_qubits, sequene_pattern=little_endian):
@@ -22,12 +20,10 @@ class Circuit:
         return total_of_qubits >= 1
 
     def initialize_gates_sequence(self):
-        zero_basis_symbol = zero_basis["symbol"]
-        return [f'Q{qubit}: {zero_basis_symbol}' for qubit in range(self.total_of_qubits)]
+        return [f'Q{qubit}: {Zero().get_basis_symbol()}' for qubit in range(self.total_of_qubits)]
     
     def initialize_gates_states(self):
-        zero_basis_vector = zero_basis["vector"]
-        return operations.create_vector([zero_basis_vector for _ in range(self.total_of_qubits)])
+        return operations.create_vector([Zero().get_basis_vector() for _ in range(self.total_of_qubits)])
     
     def add_single_qubit_gate(self, gate, qubit):
         if(not self.qubit_exists(qubit)): 
