@@ -16,3 +16,12 @@ class Operations:
 
     def tensor_product(self, first_vector, second_vector):
         return self.operator.kron(first_vector, second_vector)
+
+    def power(self, number1, number2):
+        return number1 ** number2
+
+    def euler(self):
+        return self.operator.exp(1)
+    
+    def pi(self):
+        return self.operator.pi

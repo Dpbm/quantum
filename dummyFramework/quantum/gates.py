@@ -33,3 +33,12 @@ class I(Gate):
     def __init__(self):
         self.gate_vector = operations.create_vector([[1, 0], [0, 1]])
         self.gate_symbol = 'I'
+
+class S(Gate):
+    def __init__(self):
+        self.gate_vector = operations.create_vector([[1, 0], [0, 1j]])
+        self.gate_symbol = 'S'
+
+class T(Gate):
+    def __init__(self):
+        self.gate_vector = operations.create_vector([[1, 0], [0, operations.power(operations.euler(), (1j*operations.pi()) / 4)]])
