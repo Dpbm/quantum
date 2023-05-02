@@ -28,12 +28,9 @@ class Circuit:
     def add_single_qubit_gate(self, gate, qubit):
         if(not self.qubit_exists(qubit)): 
             errors.selected_qubit_out_of_bound()
-
-        gate_vector = gate["vector"]
-        gate_symbol = gate["symbol"]
-    
-        self.apply_gate_vector_to_the_qubit(gate_vector, qubit)
-        self.add_gate_symbol_to_the_list(gate_symbol, qubit)
+ 
+        self.apply_gate_vector_to_the_qubit(gate().get_gate_vector(), qubit)
+        self.add_gate_symbol_to_the_list(gate().get_gate_symbol(), qubit)
     
     def qubit_exists(self, selected_qubit):
         return selected_qubit >= 0 and selected_qubit < self.total_of_qubits

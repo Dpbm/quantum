@@ -1,29 +1,35 @@
 from quantum.operations import Operations
 
 operations = Operations()
-two_square_root = operations.square_root(2)
+
+class Gate:
+    gate_vector = None
+    gate_symbol = None
+
+    def get_gate_vector(self):
+        return self.gate_vector
+
+    def get_gate_symbol(self):
+        return self.gate_symbol
+
+class X(Gate):
+    def __init__(self):
+        self.gate_vector = operations.create_vector([[0, 1], [1, 0]])
+        self.gate_symbol = 'X'
 
 
-X = {
-    "vector": operations.create_vector([[0, 1], [1, 0]]),
-    "symbol": "X"
-}
-    
-Z = {
-    "vector": operations.create_vector([[1, 0], [0, -1]]),
-    "symbol": "Z"
-}
-    
-H = {
-    "vector" : operations.create_vector([
-                    [ 1/two_square_root,  1/two_square_root ],
-                    [ 1/two_square_root, -1/two_square_root ]
-                ]),
-    "symbol": "H"
-}
+class Z(Gate):
+    def __init__(self):
+        self.gate_vector = operations.create_vector([[1, 0], [0, -1]])
+        self.gate_symbol = 'Z'
 
-I = {
-    "vector": operations.create_vector([[1, 0], [0, 1]]),
-    "symbol": "I"
+class H(Gate):
+    def __init__(self):
+        one_by_two_square_root = 1/operations.square_root(2)
+        self.gate_vector = operations.create_vector([[one_by_two_square_root, one_by_two_square_root], [one_by_two_square_root, -one_by_two_square_root]])
+        self.gate_symbol = 'H'
 
-}
+class I(Gate):
+    def __init__(self):
+        self.gate_vector = operations.create_vector([[1, 0], [0, 1]])
+        self.gate_symbol = 'I'
