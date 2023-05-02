@@ -12,6 +12,9 @@ class Gate:
     def get_gate_symbol(self):
         return self.gate_symbol
 
+    def apply(self, state):
+        return operations.dot(self.gate_vector, state)
+
 class X(Gate):
     def __init__(self):
         self.gate_vector = operations.create_vector([[0, 1], [1, 0]])
