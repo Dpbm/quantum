@@ -11,18 +11,39 @@ class Circuit:
         self.qubits = generate_qubits_sequence(total_of_qubits)
         
     def add_single_qubit_gate(self, gate, qubit):
-        assert (qubit >= 0 and qubit < len(self.qubits)), errors.selected_qubit_out_of_bound()
+        self.valid_qubit(qubit)
         selected_qubit = self.qubits[qubit]
         selected_qubit.set_state(gate().apply(selected_qubit.get_state()))
-    
+
+    def valid_qubit(qubit):
+        assert (qubit >= 0 and qubit < len(self.qubits)), errors.selected_qubit_out_of_bound()
+
+    def add_multi_qubit_gate(self, gate, qubits):
+        self.valid_qubits(qubits)
+        assert gate.get_gate_total_qubits and gate.get_gate_total_qubits() == len(qubits), errors.missing_qubits() 
+        
+        selected_qubits = [ self.qubits[qubit] for qubit in qubits ]
+        selected_qubits_states = [ selected_qubit.get_state() for selected_qubit in selected_qubits ]
+        tensor_state = self.apply_tensor_product(selected_qubits_states)
+        gate().apply(tensor_state)
+
+
+    def apply_tensor_product(self, states): 
+        final_state = states[0]
+        for state in states[1:]:
+            final_state = operations.tensor_product(final_state, state)
+        return final_state
+
+    def valid_qubits(qubits):
+        for qubit in qubits:
+            self.valid_qubit(qubit)
+
     def get_qubits_states(self):
         return [ qubit.get_state() for qubit in self.qubits ]
-    
+
     def get_circuit_state(self):
         qubits_states = self.get_qubits_states()
-        circuit_state = qubits_states[0]
-        for qubit_state in qubits_states[1:]:
-            circuit_state = operations.tensor_product(circuit_state, qubit_state)
+        circuit_state = self.apply_tensor_product(qubits_states)
         return circuit_state
         
 

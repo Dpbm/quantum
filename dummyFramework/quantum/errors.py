@@ -7,3 +7,6 @@ class Errors:
 
     def invalid_total_of_qubits(self):
         raise ValueError("You need to have at least, 1 qubit")
+
+    def missing_qubits(self):
+        raise ValueError("You need to provide the correct number of qubits")
