@@ -4,3 +4,6 @@
 [submodule "qiskit-advocate-test"]
 	path = qiskit-advocate-test
 	url = https://github.com/Dpbm/qiskit-advocate-test
+[submodule "QPapersPlease"]
+	path = QPapersPlease
+	url = https://github.com/Dpbm/QPapersPlease/
