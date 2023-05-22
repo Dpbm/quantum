@@ -287,6 +287,9 @@ $|α|^2 + |β|^2 = 1$
 $α = cos({θ \over 2})$\
 $β = e^{iθ}sin({θ \over 2})$
 
+## Ancillas
+Ancillas need to be reset.
+
 ## Bloch sphere
 
 θ is the angle between the poles (z-axis)\
@@ -427,6 +430,12 @@ Toffoli gate (CCX), inverts the right qubit if the other two are 1\
 $Toffoli|111⟩ = |110⟩$\
 $Toffoli|110⟩ = |111⟩$
 
+$R{_r} = {360 \degree \over 2^r} \space on \space Z axis$\
+$R{_1} = Z$\
+$R{_2} = S$\
+$R{_3} = T$\
+$R{_4} = 22.5 \degree$\
+$R{_r}^{\dagger} = -{360 \degree \over 2^r}$
 
 ## No cloning theorem
 
