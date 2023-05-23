@@ -29,7 +29,7 @@ All these stuff I've used to learn more about quantum world.
 * [mechanics/](./mechanics/) - notes about quantum mechanics
 * [chatgpt/](./chatgpt/) - Some conversation that I had with chatgpt
 * [ultils.md](./utils.md) - useful notes and formulas
-* Images - The image files represent some equations, thoughts and screenshots
+* [images/](./images/) - The image files represent some equations, thoughts and screenshots
 * [calculus/](./calculus/) - some tests and studies about calculus
 * Other directories - Are cloned repositories
 
