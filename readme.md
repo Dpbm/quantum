@@ -24,7 +24,7 @@ All these stuff I've used to learn more about quantum world.
 * [study.md](./study.md) - the topics that I've studied or I'll study
 * [look.md](./look.md) - useful links
 * [code/](./code/) - all code that I've made, using qiskit, q#, python and other frameworks and languages
-* [mechanics/](./mechanics/) - notes about quantum mechanics
+* [physics/](./physics/) - notes about physics
 * [chatgpt/](./chatgpt/) - Some conversation that I had with chatgpt
 * [ultils.md](./utils.md) - useful notes and formulas
 * [images/](./images/) - The image files represent some equations, thoughts and screenshots
