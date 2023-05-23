@@ -7,3 +7,6 @@
 [submodule "QPapersPlease"]
 	path = QPapersPlease
 	url = https://github.com/Dpbm/QPapersPlease/
+[submodule "linear_algebra_for_quantum_computing"]
+	path = linear_algebra_for_quantum_computing
+	url = https://github.com/Dpbm/linear_algebra_for_quantum_computing
