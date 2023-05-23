@@ -23,15 +23,12 @@ All these stuff I've used to learn more about quantum world.
 
 * [study.md](./study.md) - the topics that I've studied or I'll study
 * [look.md](./look.md) - useful links
-* [dummyFramework/](./dummyFramework/) - a Test Framework that I've made, in python, just for fun
-* [qiskit/](./qiskit/) - All Qiskit code
-* [q#/](./q#/) - All Q# code
+* [code/](./code/) - all code that I've made, using qiskit, q#, python and other frameworks and languages
 * [mechanics/](./mechanics/) - notes about quantum mechanics
 * [chatgpt/](./chatgpt/) - Some conversation that I had with chatgpt
 * [ultils.md](./utils.md) - useful notes and formulas
 * [images/](./images/) - The image files represent some equations, thoughts and screenshots
 * [calculus/](./calculus/) - some tests and studies about calculus
-* Other directories - Are cloned repositories
 
 ## [look.md](./look.md)
 In [look.md](./look.md) you'll find some patterns
