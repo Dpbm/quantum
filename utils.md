@@ -27,7 +27,7 @@ $e^{i2π} = 1$\
 $e^{i3π \over 2} = -i$
 
 $sin(u ± v) = sin(u)cos(v)±cos(u)sin(v)$\
-$cos(u ± v) = cos(u)cos(v)sin(u)sin(v)$
+$cos(u ± v) = cos(u)cos(v)±sin(u)sin(v)$
 
 ## linear algebra and dirac notation
 
