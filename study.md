@@ -28,6 +28,8 @@
 * [ ] Jordan-Wigner and Bravyi-Kitaev transformations
 * [ ] Gauge theories
 * [ ] Eletromagnetically-induced transparency
+* [ ] BB84 
+* [ ] E91
 
 ## Quantum Computing
 
