@@ -21,7 +21,6 @@ All these stuff I've used to learn more about quantum world.
 
 ## Files/Folders explanation
 
-* [study.md](./study.md) - the topics that I've studied or I'll study
 * [look.md](./look.md) - useful links
 * [code/](./code/) - all code that I've made, using qiskit, q#, python and other frameworks and languages
 * [physics/](./physics/) - notes about physics
