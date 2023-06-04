@@ -13,3 +13,6 @@
 [submodule "Qiskit-PyConDE"]
 	path = Qiskit-PyConDE
 	url = https://github.com/Dpbm/Qiskit-PyConDE
+[submodule "ibm-quantum-challenge-spring-2023"]
+	path = ibm-quantum-challenge-spring-2023
+	url = https://github.com/Dpbm/ibm-quantum-challenge-spring-2023.git
