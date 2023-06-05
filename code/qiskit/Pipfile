@@ -14,6 +14,10 @@ python-dotenv = "*"
 qiskit-ibm-provider = "*"
 jldracula = "*"
 numpy = "*"
+qutip = "*"
+pytest = "*"
+mpmath = "*"
+sympy = "*"
 
 [dev-packages]
 
