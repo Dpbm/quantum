@@ -16,3 +16,12 @@
 [submodule "ibm-quantum-challenge-spring-2023"]
 	path = ibm-quantum-challenge-spring-2023
 	url = https://github.com/Dpbm/ibm-quantum-challenge-spring-2023.git
+[submodule "cs-video-courses"]
+	path = cs-video-courses
+	url = https://github.com/Dpbm/cs-video-courses.git
+[submodule "Hands-On-Quantum-Machine-Learning-With-Python-Vol-1"]
+	path = Hands-On-Quantum-Machine-Learning-With-Python-Vol-1
+	url = https://github.com/Dpbm/Hands-On-Quantum-Machine-Learning-With-Python-Vol-1.git
+[submodule "awesome-quantum-machine-learning"]
+	path = awesome-quantum-machine-learning
+	url = https://github.com/Dpbm/awesome-quantum-machine-learning.git

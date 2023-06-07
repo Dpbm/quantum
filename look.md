@@ -265,6 +265,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 
 * [ ] [[Stanford] Quantum computing](https://qc.stanford.edu/hsqccourse)
 * [ ] [[Qiskit] qiskit courses](https://learn.qiskit.org/)
+* [ ] [[Github] CS video courses](https://github.com/Developer-Y/cs-video-courses#quantum-computing)
 * [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)
 
 ## certifications
