@@ -25,3 +25,6 @@
 [submodule "awesome-quantum-machine-learning"]
 	path = awesome-quantum-machine-learning
 	url = https://github.com/Dpbm/awesome-quantum-machine-learning.git
+[submodule "chatgpt/gptmd"]
+	path = chatgpt/gptmd
+	url = https://github.com/Dpbm/gptmd.git
