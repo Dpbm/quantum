@@ -159,6 +159,10 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
   * [ ] [[PennyLane] Intro to QAOA](https://pennylane.ai/qml/demos/tutorial_qaoa_intro.html)
   * [ ] [[OSTI] Quantum Approximate Optimization Algorithm (QAOA) on Constrained Optimization Problems](https://www.osti.gov/servlets/purl/1598932) 
 
+* Quantum Random Circuits
+    * [ ] [[Arxiv] Quantum Random Circuits (PDF)](https://arxiv.org/pdf/2207.14280.pdf)
+
+
 ## Quantum Hardware
 
 * [X] [[Nature] Underdog technologies gain ground in quantum-computing race](https://www.nature.com/articles/d41586-023-00278-9)
@@ -305,7 +309,7 @@ Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://
 * [QmWare](https://qm-ware.com)
 * [Q-CTRL](https://q-ctrl.com/)
 * [BlueQubit](https://www.bluequbit.io/)
-
+* [Sydney University quantum science group](https://www.sydney.edu.au/science/our-research/research-areas/physics/quantum-science-group.html)
 
 * [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
