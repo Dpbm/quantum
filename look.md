@@ -231,6 +231,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [PyMatching](https://github.com/oscarhiggott/PyMatching)
 * [Google Stim](https://github.com/quantumlib/Stim)
 * [Qiskit metal](https://qiskit.org/metal/)
+* [BQSkit](https://bqskit.lbl.gov/)
 
 ## knowledge base
 
