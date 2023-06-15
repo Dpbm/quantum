@@ -31,3 +31,6 @@
 [submodule "qecft"]
 	path = qecft
 	url = https://github.com/Dpbm/qecft.git
+[submodule "qiskit-contributing-guide"]
+	path = qiskit-contributing-guide
+	url = https://github.com/Dpbm/qiskit-contributing-guide.git
