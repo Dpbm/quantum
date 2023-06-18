@@ -265,6 +265,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [Awesome quantum machinbe learning repo](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [OSTI - U.S. Department of Energy Office of Scientific and Technical Information](https://www.osti.gov/)
 * [Qubit Zoo](https://www.qubitzoo.com/)
+* [quantum hub](https://quantum-hub.herokuapp.com/)
 
 ## courses
 
@@ -317,4 +318,6 @@ Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://
 ## games
 
 * [Entanglion](https://entanglion.github.io/)
+* [Hello quantum (IBM)](https://helloquantum.mybluemix.net/)
+* [The qubit gatem(Google)](https://quantumai.google/education/thequbitgame)
 
