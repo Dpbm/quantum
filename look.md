@@ -266,6 +266,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [OSTI - U.S. Department of Energy Office of Scientific and Technical Information](https://www.osti.gov/)
 * [Qubit Zoo](https://www.qubitzoo.com/)
 * [quantum hub](https://quantum-hub.herokuapp.com/)
+* [qosf [gitlab]](https://gitlab.com/qosf)
 
 ## courses
 
