@@ -34,3 +34,6 @@
 [submodule "qiskit-contributing-guide"]
 	path = qiskit-contributing-guide
 	url = https://github.com/Dpbm/qiskit-contributing-guide.git
+[submodule "qml-mooc"]
+	path = qml-mooc
+	url = https://gitlab.com/qosf/qml-mooc.git
