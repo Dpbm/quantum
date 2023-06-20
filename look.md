@@ -162,6 +162,13 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * Quantum Random Circuits
     * [ ] [[Arxiv] Quantum Random Circuits (PDF)](https://arxiv.org/pdf/2207.14280.pdf)
 
+* Hybrid
+    * [ ] [[Arxiv] The theory of variational hybrid quantum-classical algorithms](https://arxiv.org/pdf/1509.04279.pdf)
+
+* Quantum machine learning
+    * [ ] [[Arxiv] Quantum machine learning](https://arxiv.org/pdf/1611.09347.pdf)
+    * [ ] [[Arxiv] Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
+
 
 ## Quantum Hardware
 
@@ -273,6 +280,9 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [ ] [[Stanford] Quantum computing](https://qc.stanford.edu/hsqccourse)
 * [ ] [[Qiskit] qiskit courses](https://learn.qiskit.org/)
 * [ ] [[Github] CS video courses](https://github.com/Developer-Y/cs-video-courses#quantum-computing)
+* [X] [[EDX] Quantum Computing For Your Classroom 10-12](https://www.edx.org/course/quantum-computing-for-your-classroom-10-12)
+* [ ] [[EDX] Quantum Machine learing](https://www.edx.org/course/quantum-machine-learning)
+* [ ] [[EDX] Introduction to quantum computing](https://www.edx.org/course/intro-to-quantum-computing)
 * [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)
 
 ## certifications
@@ -288,8 +298,10 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 
 * [[The Quantum Insider] 7 Quantum Computing Books to Read in 2022 [Ranked & Reviewed]](https://thequantuminsider.com/2020/05/15/7-quantum-computing-books-for-the-uninitiated/)
 
-* [[MITpress] 
-Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
+* [[Spring] Supervised Learning with Quantum Computers](https://link.springer.com/book/10.1007/978-3-319-96424-9)
+* [[Elsevier] Quantum Machine learning](https://shop.elsevier.com/books/quantum-machine-learning/wittek/978-0-12-800953-6)
+* [[Amazon] Alice no país do quantum](https://www.amazon.com.br/Alice-pa%C3%ADs-Quantum-qu%C3%A2ntica-alcance/dp/8571104417)
+* [[MITpress] Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
 * [ ] [[Thomas Wong] Introduction to Classical and Quantum Computing(PDF)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 
 ## companies and initiatives
