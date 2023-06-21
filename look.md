@@ -14,6 +14,7 @@
 * [X] [[Quora] Why quantum mechanics use complex numbers](https://www.quora.com/Why-does-quantum-mechanics-use-complex-numbers-rather-than-real-numbers)
 * [X] [[Wikimedia] Spin experiment (OGV)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Quantum_spin_and_the_Stern-Gerlach_experiment.ogv)
 * [ ] [[YouTube] Road map quantum physics - Domain of science](https://youtu.be/gAFAj3pzvAA)
+* [ ] [[Stanford] Statistical Mechanics II](https://stanford.edu/~jeffjar/statmech/)
 
 ## Chemistry
 
