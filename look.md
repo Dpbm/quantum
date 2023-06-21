@@ -98,7 +98,21 @@
 
 ## Quantum Computing
 
+* [ ] [[Medium] Programming Quantum Computers with Q#](https://medium.com/@sitapati/programming-quantum-computers-with-q-45688285e644)
+* [ ] [[Github] Links de referência pro Episódio 66 do Canal Akitando (pt-br)](https://gist.github.com/akitaonrails/9c8acc9f182b8d7fd591d724fdb6a387)
+* [ ] [[Microsoft] Quantum computing for computer scientists (PDF)](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/40655.compressed.pdf)
+* [ ] [[Google] Researchers can use qsim to explore quantum algorithms](https://blog.google/technology/ai/qsim-explore-quantum-algorithms/)
+* [ ] [[Forbes] What Is Quantum Computing? A Super-Easy Explanation For Anyone](https://www.forbes.com/sites/bernardmarr/2017/07/04/what-is-quantum-computing-a-super-easy-explanation-for-anyone/)
+* [ ] [[Wired] Quantum computing and quantum supremacy, explained](https://www.wired.co.uk/article/quantum-computing-explained)
+* [ ] [[FreeCodeCamp] What is a quantum computer? Explained with a simple example](https://www.freecodecamp.org/news/what-is-a-quantum-computer-explained-with-a-simple-example-b8f602035365/)
+* [ ] [[MIT Technology Review] Explainer: What is a quantum computer?](https://www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing/)
+* [ ] [[Github] Open Source Quantum Computing](https://github.com/mtreinish/open-source-quantum-computing)
+* [ ] [[Quantiki] Quantum Gates](https://www.quantiki.org/wiki/quantum-gates)
+* [ ] [[TowardsDataScience] Demystifying Quantum Gates — One Qubit At A Time](https://towardsdatascience.com/demystifying-quantum-gates-one-qubit-at-a-time-54404ed80640)
+* [ ] []
+* [ ] [[Medium] Qiskit Backends: what they are and how to work with them](https://medium.com/qiskit/qiskit-backends-what-they-are-and-how-to-work-with-them-fb66b3bd0463)
 * [ ] [[TowardsDataScience] quantum amplitudes and probabilities](https://towardsdatascience.com/quantum-amplitudes-and-probabilities-b49a6969b0b9)
+* [ ] [[TowardsDataScience] Introduction to Quantum Programming](https://towardsdatascience.com/introduction-to-quantum-programming-a19aa0b923a9?gi=4403de7e3af3)
 * [ ] [[Wikipedia] logic gates](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 * [ ] [[IBM] creating superpositions](https://quantum-computing.ibm.com/composer/docs/iqx/guide/creating-superpositions)
 * [X] [[Wikipedia] phase (GIF)](https://en.wikipedia.org/wiki/File:Phase_shifter_using_IQ_modulator.gif)
@@ -201,7 +215,13 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
     * [ ] [[Open University] Cold atoms for Quantum Technology](https://www.open.ac.uk/science/physical-science/research/physics/cold-atoms-quantum-technology)
     * [ ] [[The Quantum Insider] 4 Companies Working With Neutral (Cold) Atom Quantum Computing](https://thequantuminsider.com/2022/02/22/4-quantum-computing-companies-working-with-cold-neutral-atoms/)
     * [ ] [[The Next Platform] ColdQuanta Uses Cold Atoms To Build A Quantum Computing](https://www.nextplatform.com/2021/07/16/coldquanta-uses-cold-atoms-to-build-a-quantum-computing/)
-  
+ 
+    * Superconducting
+        * [ ] [[Medium] QC — How to build a Quantum Computer with Superconducting Circuit?](https://jonathan-hui.medium.com/qc-how-to-build-a-quantum-computer-with-superconducting-circuit-4c30b1b296cd)
+        * [ ] [[Nature] Realization of efficient quantum gates with a superconducting qubit-qutrit circuit](https://www.nature.com/articles/s41598-019-49657-1)
+
+    * Nuclear magnetic resonance
+        * [ ] [[Medium] How Do I Build a Quantum Computer in My House?](https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242)
 
 ## tools
 
@@ -275,6 +295,13 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [Qubit Zoo](https://www.qubitzoo.com/)
 * [quantum hub](https://quantum-hub.herokuapp.com/)
 * [qosf [gitlab]](https://gitlab.com/qosf)
+* [science Direct](https://www.sciencedirect.com/topics/computer-science/quantum-programming)
+
+## people
+
+* [Andrea Morello](https://research.unsw.edu.au/people/scientia-professor-andrea-morello)
+
+
 
 ## courses
 
@@ -284,6 +311,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [X] [[EDX] Quantum Computing For Your Classroom 10-12](https://www.edx.org/course/quantum-computing-for-your-classroom-10-12)
 * [ ] [[EDX] Quantum Machine learing](https://www.edx.org/course/quantum-machine-learning)
 * [ ] [[EDX] Introduction to quantum computing](https://www.edx.org/course/intro-to-quantum-computing)
+* [ ] [[MIT OCW] Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/)
 * [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)
 
 ## certifications
@@ -307,6 +335,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 
 ## companies and initiatives
 
+* [OriginQ](https://github.com/OriginQ)
 * [DWave](https://www.dwavesys.com/)
 * [qutech](https://qutech.nl)
 * [Onnes Technologies](https://onnestechnologies.com/)
@@ -326,6 +355,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [Q-CTRL](https://q-ctrl.com/)
 * [BlueQubit](https://www.bluequbit.io/)
 * [Sydney University quantum science group](https://www.sydney.edu.au/science/our-research/research-areas/physics/quantum-science-group.html)
+* [UNSW](https://www.fqt.unsw.edu.au/)
 
 * [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
