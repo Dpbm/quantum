@@ -37,3 +37,12 @@
 [submodule "qml-mooc"]
 	path = qml-mooc
 	url = https://gitlab.com/qosf/qml-mooc.git
+[submodule "qiskit-community-tutorials"]
+	path = qiskit-community-tutorials
+	url = https://github.com/Dpbm/qiskit-community-tutorials.git
+[submodule "platypus"]
+	path = platypus
+	url = https://github.com/Dpbm/platypus.git
+[submodule "qiskit-terra"]
+	path = qiskit-terra
+	url = https://github.com/Dpbm/qiskit-terra.git
