@@ -20,7 +20,7 @@
 
 * [X] [[Florida State University] Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
 * [X] [[Florida State University] Orbitals](https://www.chem.fsu.edu/chemlab/chm1046course/orbitals.html)
-
+* [ ] [[Arxiv] Quantum Chemistry in the Age of Quantum Computing (PDF)](https://arxiv.org/pdf/1812.09976.pdf)
 
 ## Math
 
@@ -151,6 +151,9 @@
 * [ ] [[Arxiv] staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
 * [ ] [[StackExchange] Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
 * [ ] [[Arxiv] Search by Lackadaisical Quantum Walk with Symmetry Breaking(PDF)](https://arxiv.org/pdf/2108.13856.pdf)
+
+* Quantum Information
+    * [ ] [[Arxiv] Quantum Computation and Quantum Information (PDF)](https://arxiv.org/pdf/1210.0736.pdf)
 
 * Linear Algebra
   * [ ] [[The Singularity Research] Linear Algebra For Quantum Computing](https://the-singularity-research.github.io/linear_algebra_for_quantum_computing/)
