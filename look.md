@@ -184,8 +184,13 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
     * [ ] [[Arxiv] The theory of variational hybrid quantum-classical algorithms](https://arxiv.org/pdf/1509.04279.pdf)
 
 * Quantum machine learning
-    * [ ] [[Arxiv] Quantum machine learning](https://arxiv.org/pdf/1611.09347.pdf)
-    * [ ] [[Arxiv] Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
+    * [ ] [[Arxiv] Quantum machine learning (PDF)](https://arxiv.org/pdf/1611.09347.pdf)
+    * [ ] [[Arxiv] Machine learning & artificial intelligence in the quantum domain (PDF)](https://arxiv.org/pdf/1709.02779.pdf)
+	* [ ] [[Arxiv] Supervised Learning With Quantum-Inspired Tensor Networks (PDF)](https://arxiv.org/pdf/1605.05775.pdf)
+	* [ ] [[Arxiv] Quantum support vector machine for big data classification (PDF)](https://arxiv.org/pdf/1307.0471.pdf)
+	* [ ] [[Arxiv] Generalized Coherent States, Reproducing Kernels, and Quantum Support Vector Machines (PDF)](https://arxiv.org/pdf/1612.03713.pdf)
+	* [ ] [[Arxiv] Quantum machine learning in feature Hilbert spaces (PDF)](https://arxiv.org/pdf/1803.07128.pdf)
+	* [ ] [[Arxiv] Supervised learning with quantum enhanced feature spaces (PDF)](https://arxiv.org/pdf/1804.11326.pdf)
 
 
 ## Quantum Hardware
@@ -334,6 +339,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [[Elsevier] Quantum Machine learning](https://shop.elsevier.com/books/quantum-machine-learning/wittek/978-0-12-800953-6)
 * [[Amazon] Alice no país do quantum](https://www.amazon.com.br/Alice-pa%C3%ADs-Quantum-qu%C3%A2ntica-alcance/dp/8571104417)
 * [[MITpress] Introduction to Quantum Algorithms via Linear Algebra, second edition ](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
+* [[MITpress] Learning with Kernels](https://mitpress.mit.edu/9780262536578/learning-with-kernels/)
 * [ ] [[Thomas Wong] Introduction to Classical and Quantum Computing(PDF)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 
 ## companies and initiatives
