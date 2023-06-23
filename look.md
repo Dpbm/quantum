@@ -359,6 +359,7 @@ Circuits in Quantum Computing (PDF)](https://arxiv.org/pdf/2112.06143.pdf)
 * [BlueQubit](https://www.bluequbit.io/)
 * [Sydney University quantum science group](https://www.sydney.edu.au/science/our-research/research-areas/physics/quantum-science-group.html)
 * [UNSW](https://www.fqt.unsw.edu.au/)
+* [XANADU](https://www.xanadu.ai/)
 
 * [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
