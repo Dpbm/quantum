@@ -21,7 +21,7 @@ All these stuff I've used to learn more about quantum world.
 
 ## Files/Folders explanation
 
-* [look.md](./look.md) - useful links
+* [resources.md](./resources.md) - useful links and resources
 * [code/](./code/) - all code that I've made, using qiskit, q#, python and other frameworks and languages
 * [physics/](./physics/) - notes about physics
 * [chatgpt/](./chatgpt/) - Some conversation that I had with chatgpt
@@ -29,17 +29,6 @@ All these stuff I've used to learn more about quantum world.
 * [images/](./images/) - The image files represent some equations, thoughts and screenshots
 * [math/](./math/) - some tests and studies about math
 
-## [look.md](./look.md)
-In [look.md](./look.md) you'll find some patterns
-
-* [X] - represent resources that I've used 
-* [ ] - represent resources that I'll use
-* -- just useful references
-
-Each link has the following pattern:
-```
-[source] title (file format - optional)
-```
 
 ## Contributing
 
