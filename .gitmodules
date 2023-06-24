@@ -46,3 +46,6 @@
 [submodule "qiskit-terra"]
 	path = qiskit-terra
 	url = https://github.com/Dpbm/qiskit-terra.git
+[submodule "Quantum-Computation-course-Basel"]
+	path = Quantum-Computation-course-Basel
+	url = https://github.com/Dpbm/Quantum-Computation-course-Basel.git
