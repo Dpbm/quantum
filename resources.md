@@ -328,7 +328,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 
 ## people
 
-Here, are some researchers, professors, engineers, etc. that works with some quantum fields.
+Here are some researchers, professors, engineers, etc. that works with some quantum fields.
 
 
 | [Andrea Morello](https://research.unsw.edu.au/people/scientia-professor-andrea-morello)  |
