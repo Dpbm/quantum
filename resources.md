@@ -346,8 +346,8 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 * [[EDX] Introduction to quantum computing](https://www.edx.org/course/intro-to-quantum-computing)
 * [[MIT OCW] Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/)
 
-[OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)
-
+[OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)\
+[OpenHPI courses](https://open.hpi.de/channels/quantum)
 ## Badges
 
 * [[IBM] qiskit advocate](https://www.ibm.com/training/badge/qiskit-advocate)
