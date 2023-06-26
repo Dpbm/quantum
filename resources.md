@@ -213,6 +213,12 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [X] [[Nature] Underdog technologies gain ground in quantum-computing race](https://www.nature.com/articles/d41586-023-00278-9)
 * [X] [[Github] ibmqx4 characteristics](https://github.com/Qiskit/ibmq-device-information/tree/master/backends/tenerife/V1)
 * [ ] [[Nvidia] NVIDIA Announces New System for Accelerated Quantum-Classical Computing](https://nvidianews.nvidia.com/news/nvidia-announces-new-system-for-accelerated-quantum-classical-computing)
+* [ ] [[Microsoft] Microsoft achieves first milestone towards a quantum supercomputer](https://cloudblogs.microsoft.com/quantum/2023/06/21/microsoft-achieves-first-milestone-towards-a-quantum-supercomputer/)
+* [ ] [[PhysicalReviewB] InAs-Al hybrid devices passing the topological gap protocol (PDF)](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.107.245423)
+
+### Coherence
+
+* [ ] [[Arxiv] ADAPT: Mitigating Idling Errors in Qubits via Adaptive Dynamical Decoupling (PDF)](https://arxiv.org/pdf/2109.05309.pdf)
 
 ### Qubit
 
