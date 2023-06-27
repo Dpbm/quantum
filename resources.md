@@ -31,6 +31,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [X] [[Florida State University] Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
 * [X] [[Florida State University] Orbitals](https://www.chem.fsu.edu/chemlab/chm1046course/orbitals.html)
 * [ ] [[Arxiv] Quantum Chemistry in the Age of Quantum Computing (PDF)](https://arxiv.org/pdf/1812.09976.pdf)
+* [X] [[Youtube] Pauli Exclusion Principle](https://youtu.be/bdfir8uT06Q)
 
 ## Math
 
