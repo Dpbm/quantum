@@ -22,6 +22,13 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[Stanford] Statistical Mechanics II](https://stanford.edu/~jeffjar/statmech/)
 * [ ] [[Britannica] Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
 
+### Raman Techniques
+
+* [ ] [[UFMG] Raman Book](https://lilith.fisica.ufmg.br/~adojorio/livros/capitulos/raman/)
+* [ ] [[UFMG] Quantum Description of Raman Scattering (PDF)](https://lilith.fisica.ufmg.br/~adojorio/livros/capitulos/raman/raman_cap5.pdf)
+* [ ] [[Slideshare] Quantum Theory of Raman Effect](https://www.slideshare.net/UmaVedula1/quantum-theory-of-raman-effect)
+* [ ] [[Arxiv] Critical Role of Quantum Dynamical Effects in the Raman Spectroscopy of Liquid Water (PDF)](https://arxiv.org/pdf/1712.10115.pdf) 
+
 ## Particle Physics
 
 * [ ] [[Youtube] Física de partículas (pt-br) (playlist)](https://www.youtube.com/playlist?list=PLD6PoiIbz_YNti_su3NOGVyvEhuxUtlLI)
