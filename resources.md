@@ -135,6 +135,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[Wikipedia] Toffoli gate](https://en.wikipedia.org/wiki/Toffoli_gate)
 * [X] [[Wikipedia] Bloch Sphere (SVG)](https://en.wikipedia.org/wiki/File:Bloch_sphere.svg)
 * [ ] [[IBM] creating superpositions](https://quantum-computing.ibm.com/composer/docs/iqx/guide/creating-superpositions)
+* [ ] [[Arxiv] Quantum Computing: Lecture Notes (PDF)](https://arxiv.org/pdf/1907.09415.pdf)
 * [ ] [[Arxiv] Neutral Atoms (PDF)](https://arxiv.org/pdf/2006.12326.pdf)
 * [ ] [[Arxiv] Schöning's K-SAT Algorithm (PDF)](https://arxiv.org/pdf/1008.4067.pdf)
 * [X] [[Arxiv] Quantum Algorithm Implementations for Beginners (PDF)](https://arxiv.org/pdf/1804.03719.pdf)
@@ -216,6 +217,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[Nvidia] NVIDIA Announces New System for Accelerated Quantum-Classical Computing](https://nvidianews.nvidia.com/news/nvidia-announces-new-system-for-accelerated-quantum-classical-computing)
 * [ ] [[Microsoft] Microsoft achieves first milestone towards a quantum supercomputer](https://cloudblogs.microsoft.com/quantum/2023/06/21/microsoft-achieves-first-milestone-towards-a-quantum-supercomputer/)
 * [ ] [[PhysicalReviewB] InAs-Al hybrid devices passing the topological gap protocol (PDF)](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.107.245423)
+* [X] [[Arxviv] Quantum random access memory (PDF)](https://arxiv.org/pdf/0708.1879.pdf)
 
 ### Coherence
 
