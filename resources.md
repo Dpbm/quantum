@@ -338,10 +338,10 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 Here are some researchers, professors, engineers, etc. that works with some quantum fields.
 
 
-| [Andrea Morello](https://research.unsw.edu.au/people/scientia-professor-andrea-morello)  |
-|------------------------------------------------------------------------------------------|
-| <img style="width: 150px; height: 200px;" alt="Andrea Morello Picture" src="https://research.unsw.edu.au/sites/default/files/styles/profile/public/images/profile/Andrea%20SQA%20portrait%201080p.jpg" /> |
-| [UNSW](https://www.unsw.edu.au/)|
+| [Andrea Morello](https://research.unsw.edu.au/people/scientia-professor-andrea-morello)  | [Seth Lloyd](https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU) |
+|-----|-----|
+| <img style="width: 150px; height: 200px;" alt="Andrea Morello Picture" src="https://research.unsw.edu.au/sites/default/files/styles/profile/public/images/profile/Andrea%20SQA%20portrait%201080p.jpg" /> | <img style="width: 150px; height: 200px;" alt="Seth Lloyd Picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seth_Lloyd.jpg/440px-Seth_Lloyd.jpg" /> |
+| [UNSW](https://www.unsw.edu.au/)| [MIT](https://meche.mit.edu/) |
 
 ## courses
 
