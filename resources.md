@@ -369,10 +369,12 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 
 [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)\
 [OpenHPI courses](https://open.hpi.de/channels/quantum)
+
 ## Badges
 
 * [[IBM] qiskit advocate](https://www.ibm.com/training/badge/qiskit-advocate)
 * [[Qiskit] qiskit advocate](https://qiskit.org/advocates/)
+* [[Credly] IBM quantum badges](https://www.credly.com/organizations/ibm/collections/quantum-computing/badge_templates)
 
 ## news
 
