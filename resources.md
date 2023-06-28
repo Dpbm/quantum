@@ -38,7 +38,12 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [X] [[Florida State University] Electronic configuration of an atom](https://www.chem.fsu.edu/chemlab/chm1045/e_config.html)
 * [X] [[Florida State University] Orbitals](https://www.chem.fsu.edu/chemlab/chm1046course/orbitals.html)
 * [ ] [[Arxiv] Quantum Chemistry in the Age of Quantum Computing (PDF)](https://arxiv.org/pdf/1812.09976.pdf)
-* [X] [[Youtube] Pauli Exclusion Principle](https://youtu.be/bdfir8uT06Q)
+* [X] [[GeeksForGeeks] Shapes of Atomic Orbitals](https://www.geeksforgeeks.org/shapes-of-atomic-orbitals/)
+* [X] [[YouTube] Pauli Exclusion Principle](https://youtu.be/bdfir8uT06Q)
+* [X] [[YouTube] Quantum Numbers | What are the 4 Quantum Numbers? Chemistry](https://youtu.be/oOVLkiBnq6o)
+* [X] [[YouTube] Aufbau Principle | Chemistry](https://youtu.be/JRIxuqd7uts)
+* [X] [[YouTube] Hund's Rule | Chemistry](https://youtu.be/6st_BQvvrVI)
+* [X] [[YouTube] The Shapes of Atomic Orbitals s-orbital, p-orbital and d-orbital](https://youtu.be/nNkw_0c8vY0)
 
 ## Math
 
