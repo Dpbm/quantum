@@ -56,10 +56,15 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [X] [[YouTube] addition and subtraction of vectors](https://youtu.be/VFRW0f0XUU8)
 * [X] [[Math Insight] vector math](https://mathinsight.org/vector_introduction)
 * [X] [[Khan Academy] vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
-* [ ] [[Cern] linear algebra for quantum computing (PDF)](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
+* [X] [[Cern] linear algebra for quantum computing (PDF)](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
 * [ ] [[Wikipedia] Euler Formula](https://en.wikipedia.org/wiki/Euler%27s_formula)
 * [X] [[Wikipedia] mod](https://en.wikipedia.org/wiki/Modulo)
 * [ ] [[Wikipedia] Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere)
+
+### eigenvalues and eigenvectors
+
+* [X] [[MathIsFun] eigenvalue](https://www.mathsisfun.com/algebra/eigenvalue.html)
+
 
 ### Linear Algebra
 
@@ -182,7 +187,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 
 ### Linear Algebra
 
-* [ ] [[TheSingularityResearch] Linear Algebra For Quantum Computing](https://the-singularity-research.github.io/linear_algebra_for_quantum_computing/)
+* [X] [[TheSingularityResearch] Linear Algebra For Quantum Computing](https://the-singularity-research.github.io/linear_algebra_for_quantum_computing/)
 
 ### Surface Code
 
@@ -352,10 +357,10 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 Here are some researchers, professors, engineers, etc. that works with some quantum fields.
 
 
-| [Andrea Morello](https://research.unsw.edu.au/people/scientia-professor-andrea-morello)  | [Seth Lloyd](https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU) |
-|-----|-----|
-| <img style="width: 150px; height: 200px;" alt="Andrea Morello Picture" src="https://research.unsw.edu.au/sites/default/files/styles/profile/public/images/profile/Andrea%20SQA%20portrait%201080p.jpg" /> | <img style="width: 150px; height: 200px;" alt="Seth Lloyd Picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seth_Lloyd.jpg/440px-Seth_Lloyd.jpg" /> |
-| [UNSW](https://www.unsw.edu.au/)| [MIT](https://meche.mit.edu/) |
+| [Andrea Morello](https://research.unsw.edu.au/people/scientia-professor-andrea-morello)  | [Seth Lloyd](https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU) | [Scott Aaronson](https://www.scottaaronson.com/) |
+|-----|-----|-----|
+| <img style="width: 150px; height: 200px;" alt="Andrea Morello Picture" src="https://research.unsw.edu.au/sites/default/files/styles/profile/public/images/profile/Andrea%20SQA%20portrait%201080p.jpg" /> | <img style="width: 150px; height: 200px;" alt="Seth Lloyd Picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seth_Lloyd.jpg/440px-Seth_Lloyd.jpg" /> | <img style="width: 150px; height: 150px;" alt="Scott Aaronson Picture" src="https://www.scottaaronson.com/aarsmall.gif" /> |
+| [UNSW](https://www.unsw.edu.au/)| [MIT](https://meche.mit.edu/) | [UTexas](https://www.utexas.edu/) |
 
 ## courses
 
@@ -366,6 +371,8 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 * [[EDX] Quantum Machine learing](https://www.edx.org/course/quantum-machine-learning)
 * [[EDX] Introduction to quantum computing](https://www.edx.org/course/intro-to-quantum-computing)
 * [[MIT OCW] Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/)
+* [[scottaaronson] scottaaronson website](https://www.scottaaronson.com/)
+* [[UCSD] quantum mechanics notes](https://quantummechanics.ucsd.edu/ph130a/)
 
 [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)\
 [OpenHPI courses](https://open.hpi.de/channels/quantum)
@@ -378,7 +385,7 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 
 ## news
 
-newsletters and news websites
+Newsletters and news websites
 
 * [the quantum insider](https://thequantuminsider.com/)
 
@@ -394,10 +401,17 @@ newsletters and news websites
 | <img style="width: 200px; height: 300px;" alt="Introduction to Quantum Algorithms via Linear Algebra book cover" src="https://mit-press-us.imgix.net/covers/9780262045254.jpg" /> | <img style="width: 200px; height: 300px;" alt="Learning with Kernels book cover" src="https://mit-press-us.imgix.net/covers/9780262536578.jpg" /> | <img style="width: 200px; height: 300px;" alt="Introduction to Classical and Quantum Computing book cover" src="https://m.media-amazon.com/images/I/31HxXUY+z8L._SY344_BO1,204,203,200_.jpg" /> |
 | [MITpress](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/) | [MITpress](https://mitpress.mit.edu/9780262536578/learning-with-kernels/) |  [Thomas Wong Website (PDF)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) |
 
+| Quantum Computing Since Democritus |
+|---|
+| <img style="width: 200px; height:300px;" alt="Quantum Computing Since Democritus book cover" src="https://m.media-amazon.com/images/I/41QqknNIyML._SX331_BO1,204,203,200_.jpg" /> |
+| [Amazon](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) |
+
 [[TheQuantumInsider] 7 Quantum Computing Books to Read in 2022](https://thequantuminsider.com/2020/05/15/7-quantum-computing-books-for-the-uninitiated/)\
 [[Youtube] Quantum Computing Book Recommendations](https://youtu.be/xpSevVullcQ)\
 [[Youtube] Quantum Book Recommendations Part 2!](https://youtu.be/rbcNQB7VMtI?list=PLxc2wejhRrsfVC9EPliZ-K38CsegmhMTv)\
 [[Youtube] ESTUDE MECÂNICA QUÂNTICA SOZINHO • FÍSICA QUÂNTICA • Física e Afins (pt-br)](https://youtu.be/mzLt7q6gS1w)
+
+
 
 ## companies and initiatives
 
