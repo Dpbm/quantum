@@ -49,3 +49,6 @@
 [submodule "Quantum-Computation-course-Basel"]
 	path = Quantum-Computation-course-Basel
 	url = https://github.com/Dpbm/Quantum-Computation-course-Basel.git
+[submodule "QuantumKatas"]
+	path = QuantumKatas
+	url = https://github.com/Dpbm/QuantumKatas.git
