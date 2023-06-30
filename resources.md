@@ -9,7 +9,6 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 ## Quantum mechanics
 
 * [X] [[Khan Academy] quantum mechanics course](https://www.khanacademy.org/science/physics/quantum-physics)
-* [ ] [[Caltech] feynman lectures](https://www.feynmanlectures.caltech.edu/)
 * [ ] [[YouTube] Quantum Physics - nptelhrd (playlist)](https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC)
 * [ ] [[YouTube] Schrodinger Equation](https://youtu.be/QeUMFo8sODk)
 * [ ] [[YouTube] understanding quantum mechanics (playlist)](https://www.youtube.com/playlist?list=PLwgQsqtH9H5djIfFhXE6We207beTgUnyL)
@@ -401,10 +400,10 @@ Newsletters and news websites
 | <img style="width: 200px; height: 300px;" alt="Introduction to Quantum Algorithms via Linear Algebra book cover" src="https://mit-press-us.imgix.net/covers/9780262045254.jpg" /> | <img style="width: 200px; height: 300px;" alt="Learning with Kernels book cover" src="https://mit-press-us.imgix.net/covers/9780262536578.jpg" /> | <img style="width: 200px; height: 300px;" alt="Introduction to Classical and Quantum Computing book cover" src="https://m.media-amazon.com/images/I/31HxXUY+z8L._SY344_BO1,204,203,200_.jpg" /> |
 | [MITpress](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/) | [MITpress](https://mitpress.mit.edu/9780262536578/learning-with-kernels/) |  [Thomas Wong Website (PDF)](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) |
 
-| Quantum Computing Since Democritus |
-|---|
-| <img style="width: 200px; height:300px;" alt="Quantum Computing Since Democritus book cover" src="https://m.media-amazon.com/images/I/41QqknNIyML._SX331_BO1,204,203,200_.jpg" /> |
-| [Amazon](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) |
+| Quantum Computing Since Democritus | The Feynman Lectures on Physics |
+|-----|-----|
+| <img style="width: 200px; height:300px;" alt="Quantum Computing Since Democritus book cover" src="https://m.media-amazon.com/images/I/41QqknNIyML._SX331_BO1,204,203,200_.jpg" /> | <img style="width: 200px; height:300px;" alt="The Feynman Lectures on Physics book cover" src="https://m.media-amazon.com/images/I/51G96OlG2oL._SX258_BO1,204,203,200_QL70_ML2_.jpg" /> |
+| [Amazon](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) | [FeynmanLecturesOnPhysics website](https://www.feynmanlectures.caltech.edu/) |
 
 [[TheQuantumInsider] 7 Quantum Computing Books to Read in 2022](https://thequantuminsider.com/2020/05/15/7-quantum-computing-books-for-the-uninitiated/)\
 [[Youtube] Quantum Computing Book Recommendations](https://youtu.be/xpSevVullcQ)\
