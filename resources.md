@@ -5,6 +5,7 @@ Take a look at some resources to learn more about quantum mechanics, quantum com
 If you want some roadmaps to follow, or some tips to study these topics, below, there're some links to check:
 
 * [My chatgpt conversation (03/03/2023)](./chatgpt/conversation_03_03_2023.md#good-make-me-a-roadmap-to-study-quantum-computing-and-quantum-mechanics)
+* [[YouTube] How To Go From No Math to Quantum Machine Learning](https://youtu.be/Wn9cU7peOQs)
 
 ## Quantum mechanics
 
@@ -60,13 +61,9 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [X] [[Wikipedia] mod](https://en.wikipedia.org/wiki/Modulo)
 * [ ] [[Wikipedia] Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere)
 
-### eigenvalues and eigenvectors
-
-* [X] [[MathIsFun] eigenvalue](https://www.mathsisfun.com/algebra/eigenvalue.html)
-
-
 ### Linear Algebra
 
+* [X] [[MathIsFun] eigenvalue](https://www.mathsisfun.com/algebra/eigenvalue.html)
 * [ ] [[Khan Academy] linear algebra](https://www.khanacademy.org/math/linear-algebra)
 * [ ] [[khan Academy] eigenvalues and eigenvectors](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
 * [X] [[Wikipedia] Linear Span](https://en.wikipedia.org/wiki/Linear_span)
@@ -74,6 +71,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [X] [[StackExchange] The definition of a vector space: closure under scalar multiplication](https://math.stackexchange.com/questions/1369482/the-definition-of-a-vector-space-closure-under-scalar-multiplication)
 * [X] [[Johns Hopkins] subspace (PDF)](https://math.jhu.edu/~nitu/subspace.pdf)
 * [X] [[Emory] Vector spaces (PDF)](https://math.emory.edu/~lchen41/teaching/2020_Fall/Chapter_6.pdf)
+* [ ] [[YouTube]  Essence of linear algebra (playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Spaces
 
@@ -125,6 +123,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 
 ## Quantum Computing
 
+* [ ] [[Notion] Exploring Quantum Theory with Qubits](https://superstrings.notion.site/superstrings/Exploring-Quantum-Theory-with-Qubits-a4b99196fcdf4dceb3f7f4e96d6f00f2)
 * [ ] [[Medium] Programming Quantum Computers with Q#](https://medium.com/@sitapati/programming-quantum-computers-with-q-45688285e644)
 * [X] [[Medium] Quantum games](https://medium.com/colibritd-quantum/quantum-games-when-the-players-enjoy-entanglement-20a50aef255e)
 * [ ] [[Medium] Qiskit Backends: what they are and how to work with them](https://medium.com/qiskit/qiskit-backends-what-they-are-and-how-to-work-with-them-fb66b3bd0463)
@@ -370,6 +369,7 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 * [[EDX] Quantum Machine learing](https://www.edx.org/course/quantum-machine-learning)
 * [[EDX] Introduction to quantum computing](https://www.edx.org/course/intro-to-quantum-computing)
 * [[MIT OCW] Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/)
+* [[MIT OCW] Linear Algebra (Spring 2010)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 * [[scottaaronson] scottaaronson website](https://www.scottaaronson.com/)
 * [[UCSD] quantum mechanics notes](https://quantummechanics.ucsd.edu/ph130a/)
 
