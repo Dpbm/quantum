@@ -6,6 +6,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 
 * [My chatgpt conversation (03/03/2023)](./chatgpt/conversation_03_03_2023.md#good-make-me-a-roadmap-to-study-quantum-computing-and-quantum-mechanics)
 * [[YouTube] How To Go From No Math to Quantum Machine Learning](https://youtu.be/Wn9cU7peOQs)
+* [[Linkedin] Dr. Shashank Gupta - useful resources](https://www.linkedin.com/feed/update/urn:li:activity:7080214349516046336/)
 
 ## Quantum mechanics
 
@@ -124,6 +125,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 ## Quantum Computing
 
 * [ ] [[Notion] Exploring Quantum Theory with Qubits](https://superstrings.notion.site/superstrings/Exploring-Quantum-Theory-with-Qubits-a4b99196fcdf4dceb3f7f4e96d6f00f2)
+* [X] [[Medium] The Bernstein-Vazirani Algorithm: Quantum Algorithms Untangled](https://medium.com/quantum-untangled/the-bernstein-vazirani-algorithm-quantum-algorithms-untangled-67e58d4a5096)
 * [ ] [[Medium] Programming Quantum Computers with Q#](https://medium.com/@sitapati/programming-quantum-computers-with-q-45688285e644)
 * [X] [[Medium] Quantum games](https://medium.com/colibritd-quantum/quantum-games-when-the-players-enjoy-entanglement-20a50aef255e)
 * [ ] [[Medium] Qiskit Backends: what they are and how to work with them](https://medium.com/qiskit/qiskit-backends-what-they-are-and-how-to-work-with-them-fb66b3bd0463)
@@ -217,6 +219,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 
 ### Quantum machine learning
 
+* [ ] [[Nature] QDataSet, quantum datasets for machine learning](https://www.nature.com/articles/s41597-022-01639-1)
 * [ ] [[Arxiv] Quantum machine learning (PDF)](https://arxiv.org/pdf/1611.09347.pdf)
 * [ ] [[Arxiv] Machine learning & artificial intelligence in the quantum domain (PDF)](https://arxiv.org/pdf/1709.02779.pdf)
 * [ ] [[Arxiv] Supervised Learning With Quantum-Inspired Tensor Networks (PDF)](https://arxiv.org/pdf/1605.05775.pdf)
@@ -414,6 +417,7 @@ Newsletters and news websites
 
 ## companies and initiatives
 
+* [Quantum BC](https://quantum-bc.ca/)
 * [OriginQ](https://github.com/OriginQ)
 * [DWave](https://www.dwavesys.com/)
 * [qutech](https://qutech.nl)
@@ -442,6 +446,7 @@ Newsletters and news websites
 
 ## games
 
+* [[Scratch] Pickle Checker Algorithm (complete)](https://scratch.mit.edu/projects/408110096)
 * [Entanglion](https://entanglion.github.io/)
 * [[IBM] Hello quantum](https://helloquantum.mybluemix.net/)
 * [[Google] The qubit gatem](https://quantumai.google/education/thequbitgame)
