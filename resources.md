@@ -124,6 +124,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 
 ## Quantum Computing
 
+- [ ] [Quantum Kittens](https://quantum-kittens.github.io/)
 * [ ] [[Notion] Exploring Quantum Theory with Qubits](https://superstrings.notion.site/superstrings/Exploring-Quantum-Theory-with-Qubits-a4b99196fcdf4dceb3f7f4e96d6f00f2)
 * [x] [[Medium] The Bernstein-Vazirani Algorithm: Quantum Algorithms Untangled](https://medium.com/quantum-untangled/the-bernstein-vazirani-algorithm-quantum-algorithms-untangled-67e58d4a5096)
 * [ ] [[Medium] Programming Quantum Computers with Q#](https://medium.com/@sitapati/programming-quantum-computers-with-q-45688285e644)
@@ -317,6 +318,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [Google Stim](https://github.com/quantumlib/Stim)
 * [Qiskit metal](https://qiskit.org/metal/)
 * [BQSkit](https://bqskit.lbl.gov/)
+* [Grokking the Bloch Sphere](https://javafxpert.github.io/grok-bloch/)
 
 ## knowledge base
 
@@ -439,6 +441,7 @@ Newsletters and news websites
 * [UNSW](https://www.fqt.unsw.edu.au/)
 * [XANADU](https://www.xanadu.ai/)
 * [EEROQ](https://eeroq.com/)
+* [Quantum Enablement](https://quantum-enablement.org/)
 
 [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
@@ -451,7 +454,11 @@ Newsletters and news websites
 * [[Scratch] Entangled pairs (GU) remix-2](https://scratch.mit.edu/projects/825475890)
 * [[Scratch] Classically controlled gates (GU)](https://scratch.mit.edu/projects/412175578/)
 * [[Scratch] Quantum teleportation with Joey the Otter](https://scratch.mit.edu/projects/416449761)
-* 
+* [QuarksInteractive](https://www.quarksinteractive.com/)
 * [Entanglion](https://entanglion.github.io/)
 * [[IBM] Hello quantum](https://helloquantum.mybluemix.net/)
 * [[Google] The qubit gatem](https://quantumai.google/education/thequbitgame)
+* [[QuantumEnablement] Finding Waldo using Grover Search](https://quantum-enablement.org/posts/2023/2023-07-05-Finding_Waldo_with_Grover_Search.html)
+* [Quantum Game](https://quantumgame.io/)
+* [Quantum Chess](https://quantumchess.net/)
+* 
