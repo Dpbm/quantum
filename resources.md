@@ -355,6 +355,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [quantum hub](https://quantum-hub.herokuapp.com/)
 * [[Gitlab] qosf](https://gitlab.com/qosf)
 * [science Direct](https://www.sciencedirect.com/topics/computer-science/quantum-programming)
+* [Quantum Computing UK](https://quantumcomputinguk.org/)
 
 ## people
 
@@ -461,4 +462,4 @@ Newsletters and news websites
 * [[QuantumEnablement] Finding Waldo using Grover Search](https://quantum-enablement.org/posts/2023/2023-07-05-Finding_Waldo_with_Grover_Search.html)
 * [Quantum Game](https://quantumgame.io/)
 * [Quantum Chess](https://quantumchess.net/)
-* 
+* [[Github] Qpong](https://github.com/QPong/QPong)
