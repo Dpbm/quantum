@@ -73,9 +73,6 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [x] [[Johns Hopkins] subspace (PDF)](https://math.jhu.edu/~nitu/subspace.pdf)
 * [x] [[Emory] Vector spaces (PDF)](https://math.emory.edu/~lchen41/teaching/2020_Fall/Chapter_6.pdf)
 * [ ] [[YouTube]  Essence of linear algebra (playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
-### Spaces
-
 * [x] [[Medium] What's Hilbert Space](https://medium.com/@brcsomnath/hilbert-space-7a36e3badac2)
 * [x] [[nLab] Hilbert space](https://ncatlab.org/nlab/show/Hilbert+space)
 * [x] [[UCDavis] Hilbert Spaces (PDF)](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf)
@@ -85,6 +82,13 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [x] [[Wikipedia] Euclidian Space](https://en.wikipedia.org/wiki/Euclidean_space)
 * [x] [[Wikipedia] State Space](https://en.wikipedia.org/wiki/State_space_(physics))
 * [x] [[Wikipedia] Complete Metric Space](https://en.wikipedia.org/wiki/Complete_metric_space)
+* [x] [[StackExchange] Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
+* [x] [[Quora] What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
+* [x] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
+* [x] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
+* [x] [[TutorialsPoint] dot product numpy](https://www.tutorialspoint.com/numpy/numpy_dot.htm)
+* [x] [[Wolfram] dot product](https://mathworld.wolfram.com/DotProduct.html)
+* [x] [[Wolfram] Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
 
 ### Planes
 
@@ -104,16 +108,6 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [x] [[Wolfram] Open set](https://mathworld.wolfram.com/OpenSet.html)
 * [x] [[Wolfram] Close set](https://mathworld.wolfram.com/ClosedSet.html)
 * [x] [[Wolfram] Open Interval](https://mathworld.wolfram.com/OpenInterval.html)
-
-### Inner Product
-
-* [x] [[StackExchange] Difference between inner product and dot product](https://math.stackexchange.com/questions/476738/difference-between-dot-product-and-inner-product)
-* [x] [[Quora] What's the difference between inner product, dot product and scalar product](https://www.quora.com/Whats-the-difference-between-inner-product-dot-product-and-scalar-product)
-* [x] [[Numpy] dot product](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)
-* [x] [[Numpy] inner product](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
-* [x] [[TutorialsPoint] dot product numpy](https://www.tutorialspoint.com/numpy/numpy_dot.htm)
-* [x] [[Wolfram] dot product](https://mathworld.wolfram.com/DotProduct.html)
-* [x] [[Wolfram] Inner Product](https://mathworld.wolfram.com/InnerProduct.html)
 
 ### Complex Numbers
 
@@ -225,7 +219,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[Arxiv] Quantum machine learning (PDF)](https://arxiv.org/pdf/1611.09347.pdf)
 * [ ] [[Arxiv] Machine learning & artificial intelligence in the quantum domain (PDF)](https://arxiv.org/pdf/1709.02779.pdf)
 * [ ] [[Arxiv] Supervised Learning With Quantum-Inspired Tensor Networks (PDF)](https://arxiv.org/pdf/1605.05775.pdf)
-* [ ] [[Arxiv] Quantum support vector machine for big data classification (PDF)](https://arxiv.org/pdf/1307.0471.pdf)
+* [X] [[Arxiv] Quantum support vector machine for big data classification (PDF)](https://arxiv.org/pdf/1307.0471.pdf)
 * [ ] [[Arxiv] Generalized Coherent States, Reproducing Kernels, and Quantum Support Vector Machines (PDF)](https://arxiv.org/pdf/1612.03713.pdf)
 * [ ] [[Arxiv] Quantum machine learning in feature Hilbert spaces (PDF)](https://arxiv.org/pdf/1803.07128.pdf)
 * [ ] [[Arxiv] Supervised learning with quantum enhanced feature spaces (PDF)](https://arxiv.org/pdf/1804.11326.pdf)
