@@ -22,6 +22,8 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [x] [[Wikimedia] Spin experiment (OGV)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Quantum_spin_and_the_Stern-Gerlach_experiment.ogv)
 * [ ] [[Stanford] Statistical Mechanics II](https://stanford.edu/~jeffjar/statmech/)
 * [ ] [[Britannica] Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
+* [ ] [[Arxiv] Relaxation of experimental parameters in a Quantum-Gravity Induced
+Entanglement of Masses Protocol using electromagnetic screening (PDF)]https://arxiv.org/pdf/2307.07536.pdf)
 
 ### Raman Techniques
 
