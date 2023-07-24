@@ -22,8 +22,8 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [x] [[Wikimedia] Spin experiment (OGV)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Quantum_spin_and_the_Stern-Gerlach_experiment.ogv)
 * [ ] [[Stanford] Statistical Mechanics II](https://stanford.edu/~jeffjar/statmech/)
 * [ ] [[Britannica] Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
-* [ ] [[Arxiv] Relaxation of experimental parameters in a Quantum-Gravity Induced
-Entanglement of Masses Protocol using electromagnetic screening (PDF)]https://arxiv.org/pdf/2307.07536.pdf)
+* [x] [[Arxiv] Relaxation of experimental parameters in a Quantum-Gravity Induced
+  Entanglement of Masses Protocol using electromagnetic screening (PDF)](https://arxiv.org/pdf/2307.07536.pdf)
 
 ### Raman Techniques
 
@@ -178,6 +178,7 @@ Entanglement of Masses Protocol using electromagnetic screening (PDF)]https://ar
 * [ ] [[StackExchange] Universal sets of quantum gates](https://quantumcomputing.stackexchange.com/questions/17173/does-anyone-know-the-list-of-all-known-universal-sets-of-quantum-gates)
 * [ ] [[StackExchange] Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
 * [ ] [[StackExchange] understanding bloch sphere](https://physics.stackexchange.com/questions/204090/understanding-the-bloch-sphere)
+- [ ] [[BlogXA0]List of QUBO formulations](https://blog.xa0.de/post/List-of-QUBO-formulations/)
 
 ### Quantum Information
 
@@ -352,6 +353,8 @@ Entanglement of Masses Protocol using electromagnetic screening (PDF)]https://ar
 * [[Gitlab] qosf](https://gitlab.com/qosf)
 * [science Direct](https://www.sciencedirect.com/topics/computer-science/quantum-programming)
 * [Quantum Computing UK](https://quantumcomputinguk.org/)
+* [[Google] Discover the Quantum AI campus](https://quantumai.google/learn/lab)
+* [Quantum Atlas](https://quantumatlas.umd.edu/)
 
 ## people
 
@@ -439,6 +442,7 @@ Newsletters and news websites
 * [XANADU](https://www.xanadu.ai/)
 * [EEROQ](https://eeroq.com/)
 * [Quantum Enablement](https://quantum-enablement.org/)
+* [IQIM Caltech](https://iqim.caltech.edu/)
 
 [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
@@ -459,3 +463,5 @@ Newsletters and news websites
 * [Quantum Game](https://quantumgame.io/)
 * [Quantum Chess](https://quantumchess.net/)
 * [[Github] Qpong](https://github.com/QPong/QPong)
+* [[KiedosArt] List of Quantum Games](https://kiedos.art/quantum-games-list/)
+* [[Caltech] Quantum Games](https://iqim.caltech.edu/outreach/quantum-games/)
