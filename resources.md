@@ -24,6 +24,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[Britannica] Rydberg constant](https://www.britannica.com/science/Rydberg-constant)
 * [x] [[Arxiv] Relaxation of experimental parameters in a Quantum-Gravity Induced
   Entanglement of Masses Protocol using electromagnetic screening (PDF)](https://arxiv.org/pdf/2307.07536.pdf)
+- [ ] [[APS] Fast, Hierarchical, and Adaptive Algorithm for Metropolis Monte Carlo Simulations of Long-Range Interacting Systems (PDF)](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.13.031006)
 
 ### Raman Techniques
 
