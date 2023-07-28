@@ -159,6 +159,8 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[Arxiv] t|ket〉: A Retargetable Compiler for NISQ Devices (PDF)](https://arxiv.org/pdf/2003.10611.pdf)
 * [ ] [[Arxiv] staq– A full-stack quantum processing toolkit (PDF)](https://arxiv.org/pdf/1912.06070.pdf)
 * [ ] [[Arxiv] Search by Lackadaisical Quantum Walk with Symmetry Breaking(PDF)](https://arxiv.org/pdf/2108.13856.pdf)
+- [ ] [[Arxiv] A randomized quantum algorithm for statistical phase estimation (PDF)](https://arxiv.org/pdf/2110.12071.pdf)
+- [ ] [[Arxiv] A Quantum Random Walk Search Algorithm (PDF)](https://arxiv.org/pdf/quant-ph/0210064.pdf)
 * [ ] [[Qiskit] Hello qiskit](https://qiskit.org/textbook/ch-ex/hello-qiskit.html)
 * [ ] [[Qiskit] building gates qiskit](https://qiskit.org/textbook/ch-gates/more-circuit-identities.html)
 * [ ] [[Qiskit] qiskit visualization methods](https://qiskit.org/documentation/apidoc/visualization.html)
