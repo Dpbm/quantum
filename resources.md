@@ -199,6 +199,10 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[Nature] Suppressing quantum errors by scaling a surface code logical qubit](https://www.nature.com/articles/s41586-022-05434-1)
 * [ ] [[StackExchange] What is the "surface code" in the context of quantum error correction?](https://quantumcomputing.stackexchange.com/questions/2106/what-is-the-surface-code-in-the-context-of-quantum-error-correction)
 
+### Quantum Error correction
+
+* [ ] [[Oxford] A Tutorial on Quantum Error Correction (PDF)](https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf)
+
 ### Measurements
 
 * [x] [[StackExchange] Spin state after measurement on x-direction](https://physics.stackexchange.com/questions/327177/spin-state-after-measurement-on-x-direction)
@@ -367,6 +371,12 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | <img style="width: 150px; height: 200px;" alt="Andrea Morello Picture" src="https://research.unsw.edu.au/sites/default/files/styles/profile/public/images/profile/Andrea%20SQA%20portrait%201080p.jpg" /> | <img style="width: 150px; height: 200px;" alt="Seth Lloyd Picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seth_Lloyd.jpg/440px-Seth_Lloyd.jpg" /> | <img style="width: 150px; height: 150px;" alt="Scott Aaronson Picture" src="https://www.scottaaronson.com/aarsmall.gif" /> |
 | [UNSW](https://www.unsw.edu.au/)                                                                                                                                                                          | [MIT](https://meche.mit.edu/)                                                                                                                                             | [UTexas](https://www.utexas.edu/)                                                                                          |
+
+
+|[Zlatko Minev](https://www.zlatko-minev.com/)|
+|----|
+|<img style="width: 150px; height: 200px; object-fit:cover;" alt="Andrea Morello Picture" src="https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1589663945567-J4GU9NPFECOBOI83XPG5/zlatko-IBM-fridge.png?format=2500w" /> |
+| [IBM Quantum](https://research.ibm.com/quantum-computing) |
 
 ## courses
 
