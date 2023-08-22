@@ -51,7 +51,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 
 ## Math
 
-* [ ] [[TowardsDataScience] Math quantum computing](https://towardsdatascience.com/explaining-the-math-of-a-quantum-circuit-for-the-non-mathematician-79abf345c508)
+* [x] [[TowardsDataScience] Math quantum computing](https://towardsdatascience.com/explaining-the-math-of-a-quantum-circuit-for-the-non-mathematician-79abf345c508)
 * [x] [[Wikipedia] Conjugate transpose matrix](https://en.wikipedia.org/wiki/Conjugate_transpose)
 * [x] [[Wolfram] unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html)
 * [x] [[Wolfram] kronecker product](https://mathworld.wolfram.com/KroneckerProduct.html)
@@ -61,9 +61,9 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [x] [[Math Insight] vector math](https://mathinsight.org/vector_introduction)
 * [x] [[Khan Academy] vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors)
 * [x] [[Cern] linear algebra for quantum computing (PDF)](https://cds.cern.ch/record/1522001/files/978-1-4614-6336-8_BookBackMatter.pdf)
-* [ ] [[Wikipedia] Euler Formula](https://en.wikipedia.org/wiki/Euler%27s_formula)
+* [x] [[Wikipedia] Euler Formula](https://en.wikipedia.org/wiki/Euler%27s_formula)
 * [x] [[Wikipedia] mod](https://en.wikipedia.org/wiki/Modulo)
-* [ ] [[Wikipedia] Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere)
+* [x] [[Wikipedia] Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere)
 
 ### Linear Algebra
 
@@ -182,6 +182,8 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [ ] [[StackExchange] Computational basis](https://quantumcomputing.stackexchange.com/questions/1410/what-is-meant-by-the-term-computational-basis)
 * [ ] [[StackExchange] understanding bloch sphere](https://physics.stackexchange.com/questions/204090/understanding-the-bloch-sphere)
 - [ ] [[BlogXA0]List of QUBO formulations](https://blog.xa0.de/post/List-of-QUBO-formulations/)
+- [ ] [[Berkley] CS294-2: Quantum Computation](https://people.eecs.berkeley.edu/~vazirani/s09quantum.html)
+- [ ] [[Carnegie Mellon University]  15-859BB: Quantum Computation and Information 2015](https://www.cs.cmu.edu/~odonnell/quantum15/)
 
 ### Quantum Information
 
@@ -372,11 +374,10 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 | <img style="width: 150px; height: 200px;" alt="Andrea Morello Picture" src="https://research.unsw.edu.au/sites/default/files/styles/profile/public/images/profile/Andrea%20SQA%20portrait%201080p.jpg" /> | <img style="width: 150px; height: 200px;" alt="Seth Lloyd Picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seth_Lloyd.jpg/440px-Seth_Lloyd.jpg" /> | <img style="width: 150px; height: 150px;" alt="Scott Aaronson Picture" src="https://www.scottaaronson.com/aarsmall.gif" /> |
 | [UNSW](https://www.unsw.edu.au/)                                                                                                                                                                          | [MIT](https://meche.mit.edu/)                                                                                                                                             | [UTexas](https://www.utexas.edu/)                                                                                          |
 
-
-|[Zlatko Minev](https://www.zlatko-minev.com/)|
-|----|
-|<img style="width: 150px; height: 200px; object-fit:cover;" alt="Andrea Morello Picture" src="https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1589663945567-J4GU9NPFECOBOI83XPG5/zlatko-IBM-fridge.png?format=2500w" /> |
-| [IBM Quantum](https://research.ibm.com/quantum-computing) |
+| [Zlatko Minev](https://www.zlatko-minev.com/)                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img style="width: 150px; height: 200px; object-fit:cover;" alt="Andrea Morello Picture" src="https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1589663945567-J4GU9NPFECOBOI83XPG5/zlatko-IBM-fridge.png?format=2500w" /> |
+| [IBM Quantum](https://research.ibm.com/quantum-computing)                                                                                                                                                                                      |
 
 ## courses
 
