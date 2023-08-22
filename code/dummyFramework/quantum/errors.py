@@ -10,3 +10,6 @@ class Errors:
 
     def missing_qubits(self):
         raise ValueError("You need to provide the correct number of qubits")
+
+    def multi_qubit_gate(self):
+        raise ValueError("Expected a multi qubit gate!")
