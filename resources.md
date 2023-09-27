@@ -364,6 +364,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [Quantum Computing UK](https://quantumcomputinguk.org/)
 * [[Google] Discover the Quantum AI campus](https://quantumai.google/learn/lab)
 * [Quantum Atlas](https://quantumatlas.umd.edu/)
+* [IQM Acadamey](https://www.iqmacademy.com/)
 
 ## people
 
@@ -393,7 +394,9 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 * [[UCSD] quantum mechanics notes](https://quantummechanics.ucsd.edu/ph130a/)
 
 [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)\
-[OpenHPI courses](https://open.hpi.de/channels/quantum)
+[OpenHPI courses](https://open.hpi.de/channels/quantum)\
+
+[Qworld Courses](https://qworld.net/qeducation/)
 
 ## Badges
 
@@ -457,6 +460,8 @@ Newsletters and news websites
 * [EEROQ](https://eeroq.com/)
 * [Quantum Enablement](https://quantum-enablement.org/)
 * [IQIM Caltech](https://iqim.caltech.edu/)
+* [Qworld](https://qworld.net/)
+* [IQM](https://www.meetiqm.com/)
 
 [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
