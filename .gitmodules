@@ -52,3 +52,6 @@
 [submodule "QuantumKatas"]
 	path = QuantumKatas
 	url = https://github.com/Dpbm/QuantumKatas.git
+[submodule "Quantum-Arduino"]
+	path = Quantum-Arduino
+	url = git@github.com:Dpbm/Quantum-Arduino.git
