@@ -55,3 +55,6 @@
 [submodule "Quantum-Arduino"]
 	path = Quantum-Arduino
 	url = git@github.com:Dpbm/Quantum-Arduino.git
+[submodule "qiskit-fix"]
+	path = qiskit-fix
+	url = git@github.com:Dpbm/qiskit-fix.git
