@@ -43,9 +43,6 @@
 [submodule "platypus"]
 	path = platypus
 	url = https://github.com/Dpbm/platypus.git
-[submodule "qiskit-terra"]
-	path = qiskit-terra
-	url = https://github.com/Dpbm/qiskit-terra.git
 [submodule "Quantum-Computation-course-Basel"]
 	path = Quantum-Computation-course-Basel
 	url = https://github.com/Dpbm/Quantum-Computation-course-Basel.git
@@ -58,3 +55,12 @@
 [submodule "qiskit-fix"]
 	path = qiskit-fix
 	url = git@github.com:Dpbm/qiskit-fix.git
+[submodule "qiskit"]
+	path = qiskit
+	url = https://github.com/Dpbm/qiskit
+[submodule "qiskit-ibm-runtime"]
+	path = qiskit-ibm-runtime
+	url = https://github.com/Dpbm/qiskit-ibm-runtime
+[submodule "qiskit-ibm-provider"]
+	path = qiskit-ibm-provider
+	url = https://github.com/Dpbm/qiskit-ibm-provider
