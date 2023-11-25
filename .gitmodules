@@ -64,3 +64,6 @@
 [submodule "qiskit-ibm-provider"]
 	path = qiskit-ibm-provider
 	url = https://github.com/Dpbm/qiskit-ibm-provider
+[submodule "qiskit-metal-docker"]
+	path = qiskit-metal-docker
+	url = https://github.com/Dpbm/qiskit-metal-docker
