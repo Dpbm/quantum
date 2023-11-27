@@ -359,12 +359,13 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [OSTI - U.S. Department of Energy Office of Scientific and Technical Information](https://www.osti.gov/)
 * [Qubit Zoo](https://www.qubitzoo.com/)
 * [quantum hub](https://quantum-hub.herokuapp.com/)
-* [[Gitlab] qosf](https://gitlab.com/qosf)
+* [[GitLab] qosf](https://gitlab.com/qosf)
 * [science Direct](https://www.sciencedirect.com/topics/computer-science/quantum-programming)
 * [Quantum Computing UK](https://quantumcomputinguk.org/)
 * [[Google] Discover the Quantum AI campus](https://quantumai.google/learn/lab)
 * [Quantum Atlas](https://quantumatlas.umd.edu/)
-* [IQM Acadamey](https://www.iqmacademy.com/)
+* [IQM Academy](https://www.iqmacademy.com/)
+* [Xanadu Codebook](https://codebook.xanadu.ai/)
 
 ## people
 
@@ -395,7 +396,6 @@ Here are some researchers, professors, engineers, etc. that works with some quan
 
 [OCW courses](https://ocw.mit.edu/search/?q=quantum%20computing)\
 [OpenHPI courses](https://open.hpi.de/channels/quantum)\
-
 [Qworld Courses](https://qworld.net/qeducation/)
 
 ## Badges
