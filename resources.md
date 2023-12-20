@@ -327,6 +327,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [Grokking the Bloch Sphere](https://javafxpert.github.io/grok-bloch/)
 * [Bloch Sphere Simulator (Kherb)](https://bloch.kherb.io/)
 * [Bloch Sphere Simulator (bits-and-electrons)](https://bits-and-electrons.github.io/bloch-sphere-simulator/)
+* [Oqtant](https://www.infleqtion.com/oqtant)
 
 ## knowledge base
 
@@ -464,6 +465,7 @@ Newsletters and news websites
 * [IQIM Caltech](https://iqim.caltech.edu/)
 * [Qworld](https://qworld.net/)
 * [IQM](https://www.meetiqm.com/)
+* [Infleqtion](https://www.infleqtion.com/)
 
 [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
