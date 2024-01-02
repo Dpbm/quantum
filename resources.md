@@ -369,6 +369,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [Quantum Atlas](https://quantumatlas.umd.edu/)
 * [IQM Academy](https://www.iqmacademy.com/)
 * [Xanadu Codebook](https://codebook.xanadu.ai/)
+* [ZXCalculus](https://zxcalculus.com/)
 
 ## people
 
