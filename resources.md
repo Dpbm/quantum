@@ -328,6 +328,7 @@ If you want some roadmaps to follow, or some tips to study these topics, below, 
 * [Bloch Sphere Simulator (Kherb)](https://bloch.kherb.io/)
 * [Bloch Sphere Simulator (bits-and-electrons)](https://bits-and-electrons.github.io/bloch-sphere-simulator/)
 * [Oqtant](https://www.infleqtion.com/oqtant)
+* [TikZiT](https://tikzit.github.io/)
 
 ## knowledge base
 
