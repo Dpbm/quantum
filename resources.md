@@ -468,6 +468,9 @@ Newsletters and news websites
 * [Qworld](https://qworld.net/)
 * [IQM](https://www.meetiqm.com/)
 * [Infleqtion](https://www.infleqtion.com/)
+* [CERN](https://home.cern/news/news/computing/cern-meets-quantum-technology)
+* [Q12](https://q12education.org/)
+* [QIR Alliance](https://www.qir-alliance.org/)
 
 [[Wikipedia] List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 
