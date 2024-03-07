@@ -26,7 +26,7 @@ Here, you'll find:
 
 ## Run Code
 
-The run the code make sure that You have installed:
+To run the code make sure that You have installed:
 
 * [python](https://www.python.org/)
 * [pip](https://pip.pypa.io/en/stable/installation/)
